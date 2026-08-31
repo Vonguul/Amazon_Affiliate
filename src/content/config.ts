@@ -16,6 +16,7 @@ const articles = defineCollection({
           name: z.string(),
           asin: z.string(),
           note: z.string().optional(),
+          image: z.string().optional(),
         })
       )
       .default([]),

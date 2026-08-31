@@ -32,7 +32,10 @@ const { Content } = await article.render();
         <ul>
           {article.data.products.map((p) => (
             <li>
-              <AffiliateLink asin={p.asin}>{p.name}</AffiliateLink>
+              <AffiliateLink asin={p.asin}>
+                {p.image && <img src={p.image} alt={p.name} width="300" loading="lazy" />}
+                <span>{p.name}</span>
+              </AffiliateLink>
               {p.note && <p>{p.note}</p>}
             </li>
           ))}

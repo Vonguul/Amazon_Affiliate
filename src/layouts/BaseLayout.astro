@@ -7,6 +7,13 @@ interface Props {
 const { title, description, image } = Astro.props;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const canonical = `${siteUrl}${Astro.url.pathname}`;
+// og:image must be an absolute URL for Pinterest/OG crawlers — prefix
+// site-relative paths (e.g. "/images/foo.jpg") automatically.
+const absoluteImage = image
+  ? image.startsWith('http')
+    ? image
+    : `${siteUrl}${image}`
+  : undefined;
 ---
 <!doctype html>
 <html lang="en">
@@ -22,7 +29,7 @@ const canonical = `${siteUrl}${Astro.url.pathname}`;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    {image && <meta property="og:image" content={image} />}
+    {absoluteImage && <meta property="og:image" content={absoluteImage} />}
 
     <!-- Pinterest domain verification -->
     <meta name="p:domain_verify" content="420e45e0ff5af0e342b5d4873409546a" />
