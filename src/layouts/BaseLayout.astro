@@ -1,0 +1,41 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+}
+const { title, description, image } = Astro.props;
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const canonical = `${siteUrl}${Astro.url.pathname}`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    <!-- Open Graph / Rich Pins (Pinterest reads these) -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={image} />}
+
+    <!-- Pinterest Rich Pin verification meta tag goes here once issued -->
+    <!-- <meta name="p:domain_verify" content="YOUR_VERIFICATION_CODE" /> -->
+  </head>
+  <body>
+    <header>
+      <a href="/">Vonguul Picks</a>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>&copy; {new Date().getFullYear()} Vonguul Picks</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AffiliateLink from '../../components/AffiliateLink.astro';
+import Disclosure from '../../components/Disclosure.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await article.render();
+---
+<BaseLayout
+  title={article.data.title}
+  description={article.data.description}
+  image={article.data.heroImage}
+>
+  <article>
+    <h1>{article.data.title}</h1>
+    <Disclosure />
+
+    <Content />
+
+    {article.data.products.length > 0 && (
+      <section>
+        <h2>Featured Products</h2>
+        <ul>
+          {article.data.products.map((p) => (
+            <li>
+              <AffiliateLink asin={p.asin}>{p.name}</AffiliateLink>
+              {p.note && <p>{p.note}</p>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <Disclosure />
+  </article>
+</BaseLayout>

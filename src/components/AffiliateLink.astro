@@ -1,0 +1,31 @@
+---
+// Wraps any Amazon product link with the correct Associate tag.
+// Usage: <AffiliateLink asin="B0EXAMPLE">Product Name</AffiliateLink>
+//    or: <AffiliateLink href="https://www.amazon.com/dp/B0EXAMPLE">Product Name</AffiliateLink>
+interface Props {
+  asin?: string;
+  href?: string;
+  marketplace?: string; // e.g. "com", "co.uk" — defaults to .com
+  class?: string;
+}
+
+const { asin, href, marketplace = 'com', class: className } = Astro.props;
+const TAG = import.meta.env.PUBLIC_AMAZON_ASSOCIATE_TAG || 'Vonguul-20';
+
+function buildLink(): string {
+  if (asin) {
+    return `https://www.amazon.${marketplace}/dp/${asin}?tag=${TAG}`;
+  }
+  if (href) {
+    const url = new URL(href);
+    url.searchParams.set('tag', TAG);
+    return url.toString();
+  }
+  throw new Error('AffiliateLink requires either `asin` or `href`');
+}
+
+const link = buildLink();
+---
+<a href={link} class={className} target="_blank" rel="nofollow sponsored noopener">
+  <slot />
+</a>
