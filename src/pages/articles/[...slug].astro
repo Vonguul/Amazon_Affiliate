@@ -20,23 +20,34 @@ const { Content } = await article.render();
   description={article.data.description}
   image={article.data.heroImage}
 >
-  <article>
+  <article class="article">
+    <span class="article__category">{article.data.category}</span>
     <h1>{article.data.title}</h1>
+
+    {article.data.heroImage && (
+      <img src={article.data.heroImage} alt={article.data.title} class="article__hero" />
+    )}
+
     <Disclosure />
 
-    <Content />
+    <div class="article__body">
+      <Content />
+    </div>
 
     {article.data.products.length > 0 && (
       <section>
         <h2>Featured Products</h2>
-        <ul>
+        <ul class="product-list">
           {article.data.products.map((p) => (
-            <li>
-              <AffiliateLink asin={p.asin}>
-                {p.image && <img src={p.image} alt={p.name} width="300" loading="lazy" />}
-                <span>{p.name}</span>
-              </AffiliateLink>
-              {p.note && <p>{p.note}</p>}
+            <li class="product-card">
+              {p.image && <img src={p.image} alt={p.name} class="product-card__image" />}
+              <div>
+                <p class="product-card__name">{p.name}</p>
+                {p.note && <p class="product-card__note">{p.note}</p>}
+                <AffiliateLink asin={p.asin} class="product-card__cta">
+                  Check Price on Amazon
+                </AffiliateLink>
+              </div>
             </li>
           ))}
         </ul>

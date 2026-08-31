@@ -10,14 +10,24 @@ const articles = (await getCollection('articles')).sort(
   title="Vonguul Picks — Home Organization & Small-Space Living"
   description="Tested product picks and buying guides for home organization and small-space living."
 >
-  <h1>Vonguul Picks</h1>
-  <p>Product picks and guides for home organization and small-space living.</p>
+  <div class="hero-intro">
+    <h1>Vonguul Picks</h1>
+    <p>Product picks and buying guides for home organization and small-space living — real products, checked in stock, no filler.</p>
+  </div>
 
-  <ul>
+  <ul class="article-grid">
     {articles.map((article) => (
-      <li>
-        <a href={`/articles/${article.slug}/`}>{article.data.title}</a>
-        <p>{article.data.description}</p>
+      <li class="article-card">
+        <a href={`/articles/${article.slug}/`} class="article-card__link">
+          {article.data.heroImage && (
+            <img src={article.data.heroImage} alt={article.data.title} class="article-card__image" />
+          )}
+          <div class="article-card__body">
+            <span class="article-card__category">{article.data.category}</span>
+            <h2 class="article-card__title">{article.data.title}</h2>
+            <p class="article-card__desc">{article.data.description}</p>
+          </div>
+        </a>
       </li>
     ))}
   </ul>

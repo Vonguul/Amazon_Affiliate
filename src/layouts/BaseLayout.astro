@@ -1,4 +1,6 @@
 ---
+import '../styles/global.css';
+
 interface Props {
   title: string;
   description: string;
@@ -33,16 +35,27 @@ const absoluteImage = image
 
     <!-- Pinterest domain verification -->
     <meta name="p:domain_verify" content="420e45e0ff5af0e342b5d4873409546a" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <header>
-      <a href="/">Vonguul Picks</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a href="/" class="site-header__logo">Vonguul Picks</a>
+      </div>
     </header>
-    <main>
+    <main class="site-main">
       <slot />
     </main>
-    <footer>
-      <p>&copy; {new Date().getFullYear()} Vonguul Picks</p>
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>&copy; {new Date().getFullYear()} Vonguul Picks</p>
+      </div>
     </footer>
   </body>
 </html>
