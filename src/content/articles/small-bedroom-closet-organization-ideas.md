@@ -21,6 +21,30 @@ products:
     asin: "B0BZCTXKPZ"
     image: "/images/products/vtopmart-drawers-1.jpg"
     note: "For the shelf above the rod, or the closet floor: stackable clear drawers keep folded items and accessories visible and grabbable instead of turning into a pile you have to dig through."
+  - name: "Amazon Basics 24-Pocket Over-the-Door Shoe Organizer"
+    asin: "B07227PWVP"
+    image: "/images/products/amazonbasics-shoe-organizer-1.jpg"
+    note: "Uses the back of the closet door — space that's otherwise completely wasted — for shoes, or for anything small enough to fit a mesh pocket."
+  - name: "Vtopmart 12-Pack Shelf Dividers"
+    asin: "B0GZMQKK86"
+    image: "/images/products/vtopmart-shelf-dividers-1.jpg"
+    note: "Clips onto an existing shelf to keep folded stacks from leaning into each other — stops one wobbly pile from turning into three collapsed ones."
+  - name: "Under-Bed Storage with Wheels, 68L 2-Pack"
+    asin: "B0H8SMR5T3"
+    image: "/images/products/underbed-storage-wheels-1.jpg"
+    note: "For anything that doesn't fit the closet at all: off-season clothes, extra bedding. Rolls out instead of requiring you to crawl under the bed to reach the back."
+  - name: "ZEDODIER Rotating Belt Hanger, Holds 24 Belts"
+    asin: "B0BTWDNY8P"
+    image: "/images/products/zedodier-belt-hanger-1.jpg"
+    note: "Belts, scarves, and ties tangle into a drawer knot almost immediately otherwise — this keeps each one visible and grabbable on its own hook."
+  - name: "Vtopmart 12-Pack Drawer Dividers"
+    asin: "B0D5Y391WS"
+    image: "/images/products/vtopmart-drawer-dividers-1.jpg"
+    note: "For the dresser inside or next to the closet: keeps folded clothes from sliding into one merged pile every time the drawer opens and closes."
+  - name: "Heavy-Duty Wall-Mount Coat Rack"
+    asin: "B0F3H4LS3G"
+    image: "/images/products/coatrack-wallmount-1.jpg"
+    note: "For bags, robes, or tomorrow's outfit — a few wall hooks near the closet catch the items that never make it onto a hanger anyway."
 ---
 
 Small bedroom closets don't fail because there isn't enough room — they fail because standard hangers and a single rod-and-shelf layout waste most of the space that's actually there. The fix is almost never "get a bigger closet." It's almost always: thinner hangers, use the vertical space, and contain what doesn't hang.
@@ -40,6 +64,8 @@ Whatever's left — accessories, folded sweaters, extra bedding — does better 
 ## The order that actually matters
 
 If a small closet feels impossible, fix it in this order: hangers first (cheapest, biggest immediate space gain), vertical hanging storage second, then containment for everything that doesn't hang. Skipping straight to buying bins without fixing the hanger bulk first usually means the bins end up with nowhere to go.
+
+Everything below the first three picks fills in the specific gaps that are left once the core order is handled: the back of the door, shelf dividers so folded stacks stay upright, overflow storage for what doesn't fit at all, and a home for the small stuff — belts, drawer contents, bags — that otherwise ends up in a pile because it never had an assigned spot.
 
 ---
 

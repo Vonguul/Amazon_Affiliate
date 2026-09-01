@@ -21,6 +21,26 @@ products:
     asin: "B09QCC6FZL"
     image: "/images/products/yasonic-shower-caddy-1.jpg"
     note: "Adhesive-mounted, no drilling into tile or grout — reversible if you rent, and gets bottles up off the tub ledge where they usually end up sliding around."
+  - name: "Akinbas 3-Tier Countertop Organizer Tray"
+    asin: "B0CTC8L6DT"
+    image: "/images/products/akinbas-countertop-tray-1.jpg"
+    note: "Corrals everything that otherwise spreads across the counter — skincare, perfume, daily-use items — into one footprint instead of scattered across the whole vanity."
+  - name: "CANYAVE Leaning Ladder Towel Rack (No Drilling)"
+    asin: "B0C46XSW1T"
+    image: "/images/products/canyave-ladder-towelrack-1.jpg"
+    note: "Freestanding, so it works even in a bathroom with no wall space to spare — extra towel storage that just leans in a corner."
+  - name: "Ynelyase 2-Tier Lazy Susan Medicine Organizer"
+    asin: "B0BGDPHB9Y"
+    image: "/images/products/ynelyase-medicine-turntable-1.jpg"
+    note: "Built for the medicine cabinet specifically — small bottles get lost standing behind each other otherwise, a turntable keeps every label visible."
+  - name: "BROOKSTONE Toilet Paper Holder Stand with Reserve"
+    asin: "B0BXBNSFCT"
+    image: "/images/products/brookstone-toiletpaper-stand-1.jpg"
+    note: "Holds several rolls at once so extra stock doesn't end up stacked on the back of the toilet or the floor — doubles as the actual holder, not just storage."
+  - name: "Sevenblue 3-in-1 Hair Tool Organizer"
+    asin: "B0DJQYXQX1"
+    image: "/images/products/sevenblue-hairtool-organizer-1.jpg"
+    note: "Curling irons and straighteners are awkward to store safely while still hot — this holds them off the counter without needing a drawer."
 ---
 
 Small bathrooms lose usable storage to three spots almost every time: the cabinet under the sink (wasted to plumbing and clutter), the wall above the toilet (usually just... blank wall), and the shower itself (bottles balanced on the tub edge). None of these need a renovation to fix — they need the right small, install-in-minutes product.
@@ -40,6 +60,8 @@ Bottles balanced on a tub ledge or hung from a flimsy wire caddy over the shower
 ## Fix the biggest failure point first
 
 If you can only fix one thing, fix the under-sink cabinet first — it's usually the largest single chunk of wasted storage in a small bathroom, and the one people avoid dealing with because it means getting on the floor to sort through what's back there.
+
+The rest of the list handles the smaller failure points once the big three are sorted: the counter itself, extra towel storage when there's no wall space to mount anything, the medicine cabinet, backup toilet paper, and hot tools that need somewhere safe to sit while they cool.
 
 ---
 
