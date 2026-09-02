@@ -76,7 +76,19 @@ p { margin: 0 0 1em; }
   padding: 1.5rem;
   color: var(--color-text-muted);
   font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
 }
+.site-footer__inner p { margin: 0; }
+.site-footer__support {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.site-footer__support:hover { text-decoration: underline; }
 
 /* ---------- Homepage ---------- */
 .hero-intro {
