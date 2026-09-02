@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/kitchen-counter-organizatio
 - **Image concept:** Hero shot of the BEYGORM coffee station organizer with bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Board created in Pinterest
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins scheduled
+- [x] Pins posted (batch 4 - Kitchen Counter Organization)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license). A lifestyle photo of an actual styled counter would outperform these on Pinterest — worth revisiting with real photography later.
