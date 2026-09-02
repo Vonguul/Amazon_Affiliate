@@ -14,6 +14,14 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await article.render();
+
+// Related articles — internal cross-linking for SEO (keeps visitors on
+// site longer, helps search engines understand the site's topic depth).
+const allArticles = await getCollection('articles');
+const related = allArticles
+  .filter((a) => a.slug !== article.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
 ---
 <BaseLayout
   title={article.data.title}
@@ -55,5 +63,21 @@ const { Content } = await article.render();
     )}
 
     <Disclosure />
+
+    {related.length > 0 && (
+      <section class="related-articles">
+        <h2>More Organization Ideas</h2>
+        <ul class="related-articles__list">
+          {related.map((r) => (
+            <li>
+              <a href={`/articles/${r.slug}/`}>
+                {r.data.heroImage && <img src={r.data.heroImage} alt={r.data.title} />}
+                <span>{r.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
   </article>
 </BaseLayout>
