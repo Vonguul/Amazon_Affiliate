@@ -10,7 +10,10 @@ interface Props {
 }
 
 const { asin, href, marketplace = 'com', class: className } = Astro.props;
-const TAG = import.meta.env.PUBLIC_AMAZON_ASSOCIATE_TAG || 'Vonguul-20';
+// Must match the account's actual registered tracking ID casing exactly
+// (Associates Central shows this as StoreID: vonguul-20) — Amazon's own
+// reporting has been observed to fragment differently-cased tags.
+const TAG = import.meta.env.PUBLIC_AMAZON_ASSOCIATE_TAG || 'vonguul-20';
 
 function buildLink(): string {
   if (asin) {
@@ -26,6 +29,6 @@ function buildLink(): string {
 
 const link = buildLink();
 ---
-<a href={link} class={className} target="_blank" rel="nofollow sponsored noopener">
+<a href={link} class={className} target="_blank" rel="nofollow sponsored noopener" data-affiliate-link>
   <slot />
 </a>

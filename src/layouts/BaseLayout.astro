@@ -58,5 +58,30 @@ const absoluteImage = image
         <a href="https://vonguul.com/support" class="site-footer__support">Support Vonguul</a>
       </div>
     </footer>
+    <script is:inline>
+      // Swap Amazon affiliate links to a channel-specific tracking ID when the
+      // visitor arrived via a tagged link (e.g. ?src=pinterest on a pin's
+      // destination URL). Falls back to the default tag if no match — see
+      // Associates Central > Manage your tracking IDs for the registered set.
+      (function () {
+        var TAG_MAP = {
+          pinterest: 'vgpickspin-20',
+          reddit: 'vgpickred-20',
+          instagram: 'vgpickinsta-20',
+        };
+        var src = new URLSearchParams(window.location.search).get('src');
+        var tag = src && TAG_MAP[src.toLowerCase()];
+        if (!tag) return;
+        document.querySelectorAll('[data-affiliate-link]').forEach(function (a) {
+          try {
+            var url = new URL(a.href);
+            url.searchParams.set('tag', tag);
+            a.href = url.toString();
+          } catch (e) {
+            /* malformed href — leave it untouched */
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
