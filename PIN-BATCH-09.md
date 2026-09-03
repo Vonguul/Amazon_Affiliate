@@ -6,7 +6,7 @@
 3. **Home Organization Ideas** — broad catch-all board for reach
 
 ## Pin Variants for "5 Kids' Toy Room Organization Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/kids-toy-room-organization-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/kids-toy-room-organization-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Problem/solution angle

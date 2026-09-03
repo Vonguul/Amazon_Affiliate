@@ -4,7 +4,7 @@
 Post to **Closet & Bedroom Storage** (new board — create it) and cross-post to **Small Space Living**.
 
 ## Pin Variants for "9 Small Bedroom Closet Organization Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/small-bedroom-closet-organization-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/small-bedroom-closet-organization-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Cheapest-fix angle

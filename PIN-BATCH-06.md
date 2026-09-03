@@ -6,7 +6,7 @@
 3. **Home Organization Ideas** — broad catch-all board for reach
 
 ## Pin Variants for "5 Garage Organization Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/garage-organization-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/garage-organization-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Problem/solution angle

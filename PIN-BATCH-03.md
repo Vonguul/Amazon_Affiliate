@@ -4,7 +4,7 @@
 Post to **Bathroom Storage** (new board — create it) and cross-post to **Small Space Living**.
 
 ## Pin Variants for "8 Small Bathroom Storage Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/small-bathroom-storage-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/small-bathroom-storage-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Under-sink angle

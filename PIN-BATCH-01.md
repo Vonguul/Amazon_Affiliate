@@ -6,7 +6,7 @@
 3. **Home Organization Ideas** — broad catch-all board for reach
 
 ## Pin Variants for "12 Small Pantry Organization Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/small-pantry-organization-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/small-pantry-organization-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Problem/solution angle

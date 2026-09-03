@@ -6,7 +6,7 @@
 3. **Home Organization Ideas** — broad catch-all board for reach
 
 ## Pin Variants for "5 Home Office Organization Ideas"
-Links to: `https://vonguul-picks.vercel.app/articles/home-office-organization-ideas/`
+Links to: `https://vonguul-picks.vercel.app/articles/home-office-organization-ideas/?src=pinterest`
 (update to your custom domain once attached)
 
 ### Pin 1 — Problem/solution angle
