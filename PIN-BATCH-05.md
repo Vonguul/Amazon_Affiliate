@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/entryway-organization-ideas
 - **Image concept:** Hero shot of the HOOBRO shoe storage bench with bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest (single "Entryway Organization" board — the Small Space Living / Home Organization Ideas cross-post boards were never actually created for other batches either, so this matches the real established pattern)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins scheduled
+- [x] Pins posted (batch 5 - Entryway Organization, all 3 variants, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license). A styled lifestyle shot of an actual entryway would outperform these on Pinterest — worth revisiting with real photography later.
