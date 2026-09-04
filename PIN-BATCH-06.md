@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/garage-organization-ideas/?
 - **Image concept:** Hero shot of the FLEXIMOUNTS overhead rack loaded with bins, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest (single "Garage Organization" board)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins scheduled
+- [x] Pins posted (batch 6 - Garage Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license). A styled lifestyle shot of an actual organized garage would outperform these on Pinterest — worth revisiting with real photography later.
