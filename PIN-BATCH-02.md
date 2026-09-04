@@ -23,6 +23,6 @@ Links to: `https://vonguul-picks.vercel.app/articles/small-bedroom-closet-organi
 - **Image:** `vtopmart-drawers-1.jpg`
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest
 - [x] Article live with 3 verified in-stock products + images
-- [ ] Pins created
+- [x] Pins posted (batch 2 - Small Bedroom Closet, confirmed live — NOTE: "Space Saving Closet Hangers + the Vertical Space Trick Nobody Uses" (Pin 2) appears posted TWICE as a duplicate; worth deleting one copy on Pinterest directly, flagged rather than auto-deleted)

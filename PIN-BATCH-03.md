@@ -23,6 +23,6 @@ Links to: `https://vonguul-picks.vercel.app/articles/small-bathroom-storage-idea
 - **Image:** `yasonic-shower-caddy-1.jpg`
 
 ## Status
-- [ ] Board created in Pinterest
+- [x] Board created in Pinterest
 - [x] Article live with 3 verified in-stock products + images
-- [ ] Pins created
+- [x] Pins posted (batch 3 - Small Bathroom Storage, all 3 variants confirmed live)

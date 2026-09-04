@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/small-pantry-organization-i
 - **Image concept:** Single hero product shot (turntable or bin set) with bold text overlay stating the 3-category framework
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins scheduled
+- [x] Pins posted (batch 1 - Small Pantry Organization, all 3 variants confirmed live)
 
 ## Image credit note
 These are bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license). They work fine as pin thumbnails but a lifestyle photo (an actual organized pantry, not product-on-white) will outperform them on Pinterest specifically — worth revisiting once there's bandwidth for real photography or a licensed stock lifestyle shot.
