@@ -14,20 +14,22 @@ Links to: `https://vonguul-picks.vercel.app/articles/laundry-room-organization-i
 - **Description:** "5 laundry room organization ideas for sorting, drying, detergent, and the narrow gap next to the machines — a 3-bag laundry sorter cart, foldable drying rack, and more."
 - **Image concept:** Vertical before/after — cluttered laundry pile vs. organized sorter + labeled containers, text overlay: "Small Laundry Room? Start Here."
 
-### Pin 2 — List-style angle
-- **Title:** "5 Products for a Laundry Room That Actually Works"
-- **Description:** "Laundry sorter cart, wall-mounted drying rack, labeled detergent containers, ironing board hanger, slim rolling cart — 5 small laundry room ideas for a tiny space."
-- **Image concept:** Flat-lay grid of 4-5 featured products with numbered-list text overlay
+### Pin 2 — Detergent storage angle (revised at publish time)
+- **Title:** "Stop Storing Detergent in Mismatched Packaging"
+- **Description:** "Every brand of detergent, pods, and dryer sheets comes in a differently shaped, differently sized package. Decanting into matching labeled containers makes it obvious at a glance when something's running low — part of a full laundry room organization ideas system."
+- **Image used:** Vtopmart labeled detergent containers (`vtopmart-detergent-containers-1.jpg`)
+- *(Note: the planned flat-lay grid image didn't exist — no composite product shot was ever produced. Swapped to a single strong product shot with copy matched to it, same pattern used elsewhere this batch cycle.)*
 
-### Pin 3 — Sorter cart angle
-- **Title:** "Laundry Sorter Cart Ideas That Save Wash Day"
-- **Description:** "Sorting on wash day is the slowest part of laundry. This laundry sorter cart pre-sorts as clothes go in — part of a full laundry room organization ideas system."
-- **Image concept:** Hero shot of the VASAGLE 3-bag sorter, bold text overlay
+### Pin 3 — Narrow-gap rolling cart angle (revised at publish time)
+- **Title:** "The Narrow Gap Next to Your Washer and Dryer Isn't Wasted Space"
+- **Description:** "That narrow strip beside a washer or dryer is almost always empty — too narrow for regular furniture, easy to forget about. A slim rolling cart built specifically for that width turns dead space into extra storage that rolls out when needed. Part of a full laundry room organization ideas system."
+- **Image used:** Slim rolling laundry cart lifestyle shot (`slim-rolling-laundry-cart-1.jpg`)
+- *(Note: original plan reused the Pin 1 sorter image for Pin 3 — swapped to the unused rolling-cart product instead so all 3 pins use distinct images.)*
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Laundry Room Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins scheduled
+- [x] Pins posted (batch 8 - Laundry Room Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license). A styled lifestyle shot of an actual laundry room would outperform these on Pinterest — worth revisiting with real photography later.
