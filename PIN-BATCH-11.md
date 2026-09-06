@@ -14,10 +14,11 @@ Links to: `https://vonguul-picks.vercel.app/articles/under-sink-organization-ide
 - **Description:** "A fixed shelf either doesn't clear the U-bend or wastes the space around it. A pull-out organizer with adjustable tiers fits the actual gaps in your cabinet, and rolls all the way out so nothing gets forgotten."
 - **Image concept:** Hero shot of the mixeshop 2-tier pull-out organizer mid-slide-out, bold text overlay
 
-### Pin 2 — List-style angle
-- **Title:** "4 Products for an Under-Sink Cabinet That Finally Works"
-- **Description:** "A pull-out organizer, a leak-proof mat, a revolving turntable, and door-mounted spray bottle hooks — 4 under-sink organization ideas for the kitchen or bathroom."
-- **Image concept:** Flat-lay grid of the 4 featured products with numbered-list text overlay
+### Pin 2 — Corner turntable angle (revised at publish time)
+- **Title:** "Use the Corner a Straight Shelf Can't"
+- **Description:** "The space beside the pipes, especially in a corner cabinet, is oddly shaped and easy to write off as unusable. A revolving turntable spins that whole area into reach in one motion instead of it becoming the spot where things get pushed and never touched again."
+- **Image used:** Copco 18-inch revolving turntable organizer (`copco-turntable-1.jpg`)
+- *(Note: the planned flat-lay grid image didn't exist — no composite product shot was ever produced. Swapped to a single strong product shot with copy matched to it, same pattern used across prior batches.)*
 
 ### Pin 3 — Leak protection angle
 - **Title:** "The One Under-Sink Upgrade That Protects the Cabinet Itself"
@@ -25,9 +26,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/under-sink-organization-ide
 - **Image concept:** Hero shot of the Winisok waterproof mat installed under a sink, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Under-Sink Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 11 - Under-Sink Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white and lifestyle shots pulled directly from each Amazon listing (compliant use under the Associates image license).
