@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/craft-room-organization-ide
 - **Image concept:** Hero shot of the Xbsyhx wall-mount ribbon rack loaded with spools, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Craft Room Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 12 - Craft Room Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white and lifestyle shots pulled directly from each Amazon listing (compliant use under the Associates image license).
