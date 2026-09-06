@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/nursery-organization-ideas/
 - **Image concept:** Hero shot of the wooden closet dividers on a rod of hanging baby clothes, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Nursery Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 14 - Nursery Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white and lifestyle shots pulled directly from each Amazon listing (compliant use under the Associates image license).
