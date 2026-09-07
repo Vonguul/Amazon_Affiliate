@@ -8,20 +8,21 @@ direct — not neutral marketing copy, not the movement/reciprocity framing.
 
 ## Tracking ID status
 
-X does not yet have a dedicated Amazon Associates tracking ID. Attempted to
-register `vgpicksx-20` (and `vgclarityx-20` for Clarity) on 2026-09-08 via
-Associates Central — failed 3x with "Error occurred while creating tracking
-id. Please try again later." (server-side error, not a validation issue).
-Stopped retrying to avoid hammering the endpoint. Until this is resolved,
-links posted to X use each site's **default** tag (`vonguul-20` /
-`vgclarity-20`, no `?src=` param) rather than a channel-specific one.
+X does not have a dedicated Amazon Associates tracking ID, and per decision
+(2026-09-08) it isn't getting one for now — registering `vgpicksx-20` via
+Associates Central failed 5+ times across two sessions with "Error occurred
+while creating tracking id. Please try again later." (consistent server-side
+error, not a validation issue). Rather than keep retrying, links posted to
+X use each site's **default** tag (`vonguul-20` for Picks, no `?src=` param)
+going forward, indefinitely — this is the settled approach, not a temporary
+placeholder.
 
-**Once the tracking ID exists:** add `x: 'vgpicksx-20'` to `TAG_MAP` in
-`src/layouts/BaseLayout.astro` (mirrors the pinterest/reddit/instagram
-entries already there), update this file, and use `?src=x` on all links in
-new posts going forward. Already-posted links keep their default tag —
-same precedent as PIN-BATCH-04 being left untouched after the Pinterest tag
-fix, since a live post's link can't be retroactively retagged.
+**If a tracking ID ever does get created** (e.g. the user registers it
+manually on Amazon's side and asks to wire it up): add `x: 'vgpicksx-20'` to
+`TAG_MAP` in `src/layouts/BaseLayout.astro` (mirrors the pinterest/reddit/
+instagram entries already there), update this file, and use `?src=x` on
+links in new posts from that point on. Don't attempt this unprompted — the
+user closed this out; only revisit if they raise it again.
 
 ## Format
 
