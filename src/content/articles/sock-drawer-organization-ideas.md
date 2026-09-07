@@ -21,9 +21,9 @@ products:
     asin: "B07JGWT25L"
     image: "/images/products/amazonbasics-cloth-drawer-boxes-1.jpg"
     note: "Socks and underwear are the two categories most likely to end up as one tangled pile, since they're too small and too numerous to stay separated on their own. Individual fabric boxes keep pairs matched and everything else from migrating into the wrong pile."
-  - name: "Vtopmart 12-Pack Shelf Dividers"
-    asin: "B0GZMQKK86"
-    image: "/images/products/vtopmart-shelf-dividers-1.jpg"
+  - name: "SortNStore Small Shelf Dividers"
+    asin: "B0G7VN519W"
+    image: "/images/products/sortnstore-shelf-dividers-1.jpg"
     note: "A stack of folded sweaters or jeans on an open shelf leans sideways the moment one item gets pulled out, taking the rest of the stack down with it. Clear dividers wall off each stack, so removing one section doesn't collapse the ones next to it."
 ---
 
