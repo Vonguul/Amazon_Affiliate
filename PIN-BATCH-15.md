@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/home-gym-organization-ideas
 - **Image concept:** Hero shot of the MRZZATA 5-tier wall mount holding mats and a foam roller, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Home Gym Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 15 - Home Gym Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license).
