@@ -25,9 +25,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/under-bed-storage-organizat
 - **Image concept:** Hero shot of the Onlyeasy under-bed shoe organizer filled with shoe pairs, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Under-Bed Storage" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 19 - Under-Bed Storage, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white and lifestyle shots pulled directly from each Amazon listing (compliant use under the Associates image license).
