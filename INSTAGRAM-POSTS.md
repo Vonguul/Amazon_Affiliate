@@ -48,10 +48,31 @@ posting — real account, real followers.
 | 22 | spice-rack-organization-ideas.md | posted 2026-09-08 |
 | 23 | makeup-vanity-organization-ideas.md | posted 2026-09-08 |
 | 24 | pet-supplies-organization-ideas.md | posted 2026-09-08 |
+| 1 | small-pantry-organization-ideas.md | posted 2026-09-08 |
+| 2 | small-bedroom-closet-organization-ideas.md | posted 2026-09-08 |
+| 3 | small-bathroom-storage-ideas.md | posted 2026-09-08 |
+| 4 | kitchen-counter-organization-ideas.md | posted 2026-09-08 |
 
-20 earlier batches (1-20) not yet done — this was a pilot batch of 4
-(the most recent), per user direction. Continue with the remaining batches
-in order when asked.
+16 batches remain (5-20): Entryway, Garage, Home Office, Laundry, Kids'/Toy
+Room, Linen Closet, Under-Sink, Craft Room, Dorm Room, Nursery, Home Gym,
+Jewelry, Food Storage, Cleaning Supplies, Under-Bed Storage, Sock/Drawer
+Organization. Continue in order when asked.
+
+**Reliability notes from batches 1-4 (2026-09-08):**
+- The canvas page's download button is unreliable via the `computer` tool's
+  synthetic click (silently no-ops on some renders); triggering it via
+  `document.getElementById('dlbtn').click()` through `javascript_tool` works
+  every time — prefer that method going forward.
+- Always pass `&brand=VONGUUL PICKS` explicitly in the canvas URL — the
+  template defaults to "VONGUUL CLARITY" if the param is omitted, which
+  silently produces a mislabeled card for this site.
+- Instagram's composer view sometimes renders zoomed/shifted between clicks
+  (a `Note...` tooltip element pushes the whole layout down), which can make
+  a stale-coordinate click land on the wrong control (e.g. the X/close
+  button instead of Next) and trigger a "Discard post?" prompt — always
+  re-screenshot immediately before clicking Next/Share rather than reusing
+  coordinates from an earlier screenshot, and hit Cancel if a discard dialog
+  appears unexpectedly.
 
 ## How to apply for new/remaining batches
 
