@@ -21,6 +21,18 @@ Instagram's composer from the screenshot's imageId (no intermediate file).
 Caption pulls from the same pin's description, ends with "link in bio", and
 closes with 4-5 relevant hashtags. Crop step: always select "Original" aspect
 ratio (default crop is square and will cut off a landscape card's sides).
+
+**Rendering gotcha (2026-09-08):** don't rely on a full-viewport-filling HTML
+page + browser screenshot for the source image — the browser's actual
+viewport can silently be an unsafe aspect ratio (seen: 1568x737 = 2.13:1,
+over Instagram's 1.91:1 max) that `resize_window` doesn't reliably fix, and
+Instagram rejects the upload with "isn't in an allowed aspect ratio." Fix:
+render onto a fixed-pixel `<canvas>` (1200x750, a safe 1.6:1) via JS, extract
+with `toBlob()`, and POST it to a same-origin local save endpoint (custom
+Python `http.server` handling `POST /save?name=...`) rather than triggering
+a file download — Chrome blocks repeated script-triggered downloads from the
+same origin, and cross-port fetch trips Private Network Access preflight
+failures. See vonguul-clarity's `canvas-card.html` for the working template.
 Threads cross-post toggle left OFF for every post (Picks has no tailored
 Threads presence, but keeping it off avoids surprise duplicate posting until
 that's a deliberate decision).
