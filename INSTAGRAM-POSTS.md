@@ -52,11 +52,23 @@ posting — real account, real followers.
 | 2 | small-bedroom-closet-organization-ideas.md | posted 2026-09-08 |
 | 3 | small-bathroom-storage-ideas.md | posted 2026-09-08 |
 | 4 | kitchen-counter-organization-ideas.md | posted 2026-09-08 |
+| 5 | entryway-organization-ideas.md | posted 2026-09-08 |
+| 6 | garage-organization-ideas.md | posted 2026-09-08 |
+| 7 | home-office-organization-ideas.md | posted 2026-09-08 |
+| 8 | laundry-room-organization-ideas.md | posted 2026-09-08 |
 
-16 batches remain (5-20): Entryway, Garage, Home Office, Laundry, Kids'/Toy
-Room, Linen Closet, Under-Sink, Craft Room, Dorm Room, Nursery, Home Gym,
-Jewelry, Food Storage, Cleaning Supplies, Under-Bed Storage, Sock/Drawer
-Organization. Continue in order when asked.
+12 batches remain (9-20): Kids'/Toy Room, Linen Closet, Under-Sink, Craft
+Room, Dorm Room, Nursery, Home Gym, Jewelry, Food Storage, Cleaning
+Supplies, Under-Bed Storage, Sock/Drawer Organization. Continue in order
+when asked.
+
+**Additional note from batches 5-8 (2026-09-08):** the claude-in-chrome
+browser tab occasionally loses its actual viewport (screenshot calls fail
+with "Cannot take screenshot with 0 width" and `read_page` returns an empty
+tree, even though `find` and `javascript_tool` keep working and clicks still
+land). If this happens mid-post, don't keep fighting the stuck tab — close
+it and open a fresh one (`tabs_create_mcp`), then restart that post's upload
+from scratch rather than trying to resume blind.
 
 **Reliability notes from batches 1-4 (2026-09-08):**
 - The canvas page's download button is unreliable via the `computer` tool's
