@@ -42,9 +42,20 @@ to date.
 |---|---|---|---|
 | r/organizing | "Limited space in new dorm. What easily stackable drawers..." | comment | no |
 | r/organizing | "Recommendations for pantry dry goods storage to keep bugs out!" (crosspost from r/Cooking, 0 prior comments on this copy) | comment | **yes** — `small-pantry-organization-ideas` w/ `?src=reddit` |
+| r/organizing | "What do I do with these closet shelves???" (triangular corner shelves, 0 prior comments from this account) | comment | no |
+| r/Homeorganization | "Large Ikea Alex Drawer Organisers" (0 prior comments, first-in-thread) | comment | no |
 
 First promotional (1-in-10) link comment on this account. Genuinely answered
 the OP's specific ask (why snap-lid containers don't stop pantry beetles,
 what to use for a 5lb rice bag) before naming the product; did not touch the
 spice-jar question with a product push since factory-sealed jars weren't the
 actual problem.
+
+The closet-shelves and Ikea Alex threads were both genuinely hard product
+matches (odd triangular corner shelves; a specific deep-drawer size problem)
+so both got real search-strategy advice instead of a product push — keeps
+the 9:1 ratio honest rather than forcing a link where the site's actual
+products don't fit the question. Hit Reddit's per-comment rate limit posting
+the second one back-to-back with the first (~8 min cooldown) — worth
+spacing consecutive comments out going forward instead of assuming
+back-to-back posts will go through.
