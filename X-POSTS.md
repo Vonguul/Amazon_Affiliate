@@ -37,3 +37,7 @@ review before posting — real account, real followers, no undo on X.
 |---|---|---|
 | refrigerator-organization-ideas.md | opinion | posted 2026-09-08 |
 | pet-supplies-organization-ideas.md | linked | posted 2026-09-08 |
+| spice-rack-organization-ideas.md | opinion | posted 2026-09-08 |
+| makeup-vanity-organization-ideas.md | opinion | posted 2026-09-08 |
+| small-pantry-organization-ideas.md | linked | posted 2026-09-08 |
+| small-bedroom-closet-organization-ideas.md | opinion | posted 2026-09-08 |
