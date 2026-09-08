@@ -30,9 +30,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/refrigerator-organization-i
 - **Image concept:** Hero shot of the ROWNYEON lazy susan loaded with condiments, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Refrigerator Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 21 - Refrigerator Organization, all 4 variants confirmed live, tagged with ?src=pinterest, "Kitchen Organization" set as tagged topic on each)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license).

@@ -30,9 +30,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/pet-supplies-organization-i
 - **Image concept:** Hero shot of the HOYTAMDAR jars lined up and labeled on a counter, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest ("Pet Supplies Organization" board created)
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted
+- [x] Pins posted (batch 24 - Pet Supplies Organization, all 4 variants confirmed live — 4 Pins on board — tagged with ?src=pinterest, "Home Organization Ideas" set as tagged topic on each — "Pet Organization" returned no matches on Pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license).
