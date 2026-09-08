@@ -56,11 +56,14 @@ posting — real account, real followers.
 | 6 | garage-organization-ideas.md | posted 2026-09-08 |
 | 7 | home-office-organization-ideas.md | posted 2026-09-08 |
 | 8 | laundry-room-organization-ideas.md | posted 2026-09-08 |
+| 9 | kids-toy-room-organization-ideas.md | posted 2026-09-08 |
+| 10 | linen-closet-organization-ideas.md | posted 2026-09-08 |
+| 11 | under-sink-organization-ideas.md | posted 2026-09-08 |
+| 12 | craft-room-organization-ideas.md | posted 2026-09-08 |
 
-12 batches remain (9-20): Kids'/Toy Room, Linen Closet, Under-Sink, Craft
-Room, Dorm Room, Nursery, Home Gym, Jewelry, Food Storage, Cleaning
-Supplies, Under-Bed Storage, Sock/Drawer Organization. Continue in order
-when asked.
+8 batches remain (13-20): Dorm Room, Nursery, Home Gym, Jewelry, Food
+Storage, Cleaning Supplies, Under-Bed Storage, Sock/Drawer Organization.
+Continue in order when asked.
 
 **Additional note from batches 5-8 (2026-09-08):** the claude-in-chrome
 browser tab occasionally loses its actual viewport (screenshot calls fail
