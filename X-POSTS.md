@@ -45,3 +45,7 @@ review before posting — real account, real followers, no undo on X.
 | kitchen-counter-organization-ideas.md | opinion | posted 2026-09-09 |
 | entryway-organization-ideas.md | linked | posted 2026-09-09 |
 | garage-organization-ideas.md | opinion | posted 2026-09-09 |
+| home-office-organization-ideas.md | opinion | posted 2026-09-09 |
+| laundry-room-organization-ideas.md | opinion | posted 2026-09-09 |
+| kids-toy-room-organization-ideas.md | linked | posted 2026-09-09 |
+| linen-closet-organization-ideas.md | opinion | posted 2026-09-09 |
