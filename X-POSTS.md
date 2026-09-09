@@ -41,3 +41,7 @@ review before posting — real account, real followers, no undo on X.
 | makeup-vanity-organization-ideas.md | opinion | posted 2026-09-08 |
 | small-pantry-organization-ideas.md | linked | posted 2026-09-08 |
 | small-bedroom-closet-organization-ideas.md | opinion | posted 2026-09-08 |
+| small-bathroom-storage-ideas.md | opinion | posted 2026-09-09 |
+| kitchen-counter-organization-ideas.md | opinion | posted 2026-09-09 |
+| entryway-organization-ideas.md | linked | posted 2026-09-09 |
+| garage-organization-ideas.md | opinion | posted 2026-09-09 |
