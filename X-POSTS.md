@@ -49,3 +49,7 @@ review before posting — real account, real followers, no undo on X.
 | laundry-room-organization-ideas.md | opinion | posted 2026-09-09 |
 | kids-toy-room-organization-ideas.md | linked | posted 2026-09-09 |
 | linen-closet-organization-ideas.md | opinion | posted 2026-09-09 |
+| under-sink-organization-ideas.md | opinion | posted 2026-09-09 |
+| craft-room-organization-ideas.md | opinion | posted 2026-09-09 |
+| dorm-room-organization-ideas.md | linked | posted 2026-09-09 |
+| nursery-organization-ideas.md | opinion | posted 2026-09-09 |
