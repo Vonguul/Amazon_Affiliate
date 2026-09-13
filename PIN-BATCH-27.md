@@ -23,9 +23,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/wine-bar-cart-organization-
 - **Image concept:** Hero shot of the GeLive under-cabinet glass rack in use, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted (batch 27 - Wine & Bar Cart Organization, all 3 variants tagged with ?src=pinterest)
+- [x] Pins posted (batch 27 - Wine & Bar Cart Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license).

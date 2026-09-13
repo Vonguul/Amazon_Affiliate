@@ -23,9 +23,9 @@ Links to: `https://vonguul-picks.vercel.app/articles/junk-drawer-organization-id
 - **Image concept:** Hero shot of the Kutesna interlocking bins holding batteries and hardware, bold text overlay
 
 ## Status
-- [ ] Boards created in Pinterest
+- [x] Boards created in Pinterest
 - [x] Hero/pin images sourced — product shots saved to `public/images/products/` and wired into the article
-- [ ] Pins posted (batch 26 - Junk Drawer Organization, all 3 variants tagged with ?src=pinterest)
+- [x] Pins posted (batch 26 - Junk Drawer Organization, all 3 variants confirmed live, tagged with ?src=pinterest)
 
 ## Image credit note
 Bare product-on-white shots pulled directly from each Amazon listing (compliant use under the Associates image license).
