@@ -56,6 +56,24 @@ movement framing first. This is the fix being tested for that funnel gap.
 | Article | Posted | Link sticker text | Notes |
 |---|---|---|---|
 | under-sink-organization-ideas.md | posted 2026-09-10 | "See full breakdown" | Pilot post — process above written from this run. Confirmed live via /stories/offbahr/. |
+| craft-room-organization-ideas.md | posted 2026-09-10 | "See full breakdown" | Second Picks Story, scaling past the pilot. Confirmed live via /stories/offbahr/, ~31s after posting. Also accidentally cross-posted to the unused Facebook Page `offbar1` (misread the "Share to" checkbox state) — 0 views, auto-expired after 24h. Root cause and fix logged below. |
+| small-bathroom-storage-ideas.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch, approved via Result→Decision review (see [[vonguul-operations-command-framework]]). Confirmed Instagram-only. |
+| small-bedroom-closet-organization-ideas.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
+| entryway-organization-ideas.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
+| kitchen-counter-organization-ideas.md | posted 2026-09-12 | "See full breakdown" | VG-52 scale-up batch. Confirmed Instagram-only. |
+
+## Checkbox gotcha (found 2026-09-10, confirmed 2026-09-12)
+
+The "Share to" list under Create Story **always defaults to both accounts
+checked** (the linked Facebook Page `offbar1` + Instagram `offbahr`) every
+time the composer opens — it is not sticky from a prior session, and a quick
+glance can misread a checked box as unchecked if the cursor happens to sit
+over the checkmark in a screenshot (this is exactly how the craft-room
+cross-post above happened). Fix, applied from 2026-09-12 onward: open the
+"Share to" dropdown, move the mouse away from the checkboxes, then
+screenshot/zoom on just that region before trusting what it shows — do this
+both before unchecking the Facebook Page and again after, to positively
+confirm only `offbahr` remains checked.
 
 ## Evidence
 
@@ -68,3 +86,18 @@ movement framing first. This is the fix being tested for that funnel gap.
   link-sticker path moves any of them (framework Section 22.3 experiment
   structure: Hypothesis → Metric → Baseline → Experiment → Result →
   Decision — this row is the Baseline/Experiment start).
+- 2026-09-10: Second Story (craft-room-organization-ideas) posted and
+  confirmed live ~31s after posting, link sticker pointing to
+  `vonguul-picks.vercel.app/articles/craft-room-organization-ideas/?src=instagram`.
+  "VONGUUL PICKS" branding and full card intact (Original crop).
+- 2026-09-11: Analytics re-check (7-day Vercel window) showed the first real
+  signal: 1 visitor referred via `l.instagram.com` (Instagram's external-link
+  redirect domain) — consistent with a Story link-sticker tap. Amazon
+  Associates clicks unchanged at 24/30 days, $0 revenue — too early/thin a
+  sample to call a result either way. Full breakdown in the "Vonguul Content
+  Ops" artifact.
+- 2026-09-12: Per the framework's Result→Decision gate (Section 22.3), the
+  user approved scaling VG-52 up rather than holding or killing it. Posted 4
+  more Stories (small-bathroom-storage, small-bedroom-closet, entryway,
+  kitchen-counter) — all confirmed Instagram-only via the checkbox-zoom
+  method above, no repeat of the Facebook cross-post.
