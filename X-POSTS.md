@@ -53,3 +53,11 @@ review before posting — real account, real followers, no undo on X.
 | craft-room-organization-ideas.md | opinion | posted 2026-09-09 |
 | dorm-room-organization-ideas.md | linked | posted 2026-09-09 |
 | nursery-organization-ideas.md | opinion | posted 2026-09-09 |
+| home-gym-organization-ideas.md | opinion | posted 2026-09-12 |
+| jewelry-organization-ideas.md | opinion | posted 2026-09-12 |
+| food-storage-container-organization-ideas.md | linked | posted 2026-09-12 |
+| cleaning-supplies-closet-organization-ideas.md | opinion | posted 2026-09-12 |
+| under-bed-storage-organization-ideas.md | linked | posted 2026-09-12 |
+| sock-drawer-organization-ideas.md | opinion | posted 2026-09-12 |
+
+All 24 Picks articles now have X coverage (17 opinion, 7 linked).
