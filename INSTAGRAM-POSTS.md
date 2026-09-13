@@ -64,9 +64,22 @@ posting — real account, real followers.
 | 14 | nursery-organization-ideas.md | posted 2026-09-09 |
 | 15 | home-gym-organization-ideas.md | posted 2026-09-09 |
 | 16 | jewelry-organization-ideas.md | posted 2026-09-09 |
+| 17 | food-storage-container-organization-ideas.md | posted 2026-09-13 |
+| 18 | cleaning-supplies-closet-organization-ideas.md | posted 2026-09-13 |
+| 19 | under-bed-storage-organization-ideas.md | posted 2026-09-13 |
+| 20 | sock-drawer-organization-ideas.md | posted 2026-09-13 |
 
-4 batches remain (17-20): Food Storage, Cleaning Supplies, Under-Bed
-Storage, Sock/Drawer Organization. Continue in order when asked.
+All 24 Picks articles now have Instagram feed coverage.
+
+**Upload method update (2026-09-13):** discovered Instagram's own "Create
+new post" dialog uses a real `<input type=file>` element (unlike Meta
+Business Suite's Story composer, which uses an unautomatable native file
+picker) — files can be uploaded directly to it via a file-upload tool,
+no manual user step needed. Also discovered cross-origin product images
+(e.g. the live `vonguul-picks.vercel.app` URL) taint the canvas and break
+`toBlob()` with a `SecurityError`; fixed by downloading the product image
+to the same local scratchpad directory first and referencing it as a
+same-origin relative path in `canvas-card.html`'s `img` param.
 
 **Additional note from batches 5-8 (2026-09-08):** the claude-in-chrome
 browser tab occasionally loses its actual viewport (screenshot calls fail
