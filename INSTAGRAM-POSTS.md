@@ -69,7 +69,18 @@ posting — real account, real followers.
 | 19 | under-bed-storage-organization-ideas.md | posted 2026-09-13 |
 | 20 | sock-drawer-organization-ideas.md | posted 2026-09-13 |
 
-All 24 Picks articles now have Instagram feed coverage.
+All 24 original Picks articles have Instagram feed coverage.
+
+| 25 | cord-cable-management-ideas.md | posted 2026-09-13 |
+| 26 | junk-drawer-organization-ideas.md | posted 2026-09-13 |
+| 27 | wine-bar-cart-organization-ideas.md | posted 2026-09-13 |
+| 28 | holiday-seasonal-decor-storage-ideas.md | posted 2026-09-13 |
+
+4 of the 13 new articles from this week's research batches now have
+Instagram feed coverage too. 9 new articles remain: shoe-storage,
+coffee-bar-station, freezer, car-trunk, board-game-puzzle-storage,
+recycling-trash-bin, water-bottle-tumbler, bookshelf-home-library,
+baking-supplies-bakeware.
 
 **Upload method update (2026-09-13):** discovered Instagram's own "Create
 new post" dialog uses a real `<input type=file>` element (unlike Meta
