@@ -59,5 +59,14 @@ review before posting — real account, real followers, no undo on X.
 | cleaning-supplies-closet-organization-ideas.md | opinion | posted 2026-09-12 |
 | under-bed-storage-organization-ideas.md | linked | posted 2026-09-12 |
 | sock-drawer-organization-ideas.md | opinion | posted 2026-09-12 |
+| cord-cable-management-ideas.md | opinion | posted 2026-09-13 |
+| junk-drawer-organization-ideas.md | linked | posted 2026-09-13 |
+| wine-bar-cart-organization-ideas.md | opinion | posted 2026-09-13 |
+| holiday-seasonal-decor-storage-ideas.md | opinion | posted 2026-09-13 |
 
-All 24 Picks articles now have X coverage (17 opinion, 7 linked).
+All 24 original Picks articles have X coverage (17 opinion, 7 linked).
+4 of the 13 new articles from this week's research batches now have X
+coverage too (18 opinion, 8 linked overall) — 9 new articles remain:
+wine-bar-cart is covered above, still need shoe-storage, coffee-bar-station,
+freezer, car-trunk, board-game-puzzle-storage, recycling-trash-bin,
+water-bottle-tumbler, bookshelf-home-library, baking-supplies-bakeware.
