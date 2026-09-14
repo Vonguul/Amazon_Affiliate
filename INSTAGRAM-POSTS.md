@@ -75,10 +75,13 @@ All 24 original Picks articles have Instagram feed coverage.
 | 26 | junk-drawer-organization-ideas.md | posted 2026-09-13 |
 | 27 | wine-bar-cart-organization-ideas.md | posted 2026-09-13 |
 | 28 | holiday-seasonal-decor-storage-ideas.md | posted 2026-09-13 |
+| 29 | shoe-storage-organization-ideas.md | posted 2026-09-14 |
+| 30 | coffee-bar-station-organization-ideas.md | posted 2026-09-14 |
+| 31 | freezer-organization-ideas.md | posted 2026-09-14 |
+| 32 | car-trunk-organization-ideas.md | posted 2026-09-14 |
 
-4 of the 13 new articles from this week's research batches now have
-Instagram feed coverage too. 9 new articles remain: shoe-storage,
-coffee-bar-station, freezer, car-trunk, board-game-puzzle-storage,
+8 of the 13 new articles from this week's research batches now have
+Instagram feed coverage too. 5 new articles remain: board-game-puzzle-storage,
 recycling-trash-bin, water-bottle-tumbler, bookshelf-home-library,
 baking-supplies-bakeware.
 

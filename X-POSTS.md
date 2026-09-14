@@ -63,10 +63,13 @@ review before posting — real account, real followers, no undo on X.
 | junk-drawer-organization-ideas.md | linked | posted 2026-09-13 |
 | wine-bar-cart-organization-ideas.md | opinion | posted 2026-09-13 |
 | holiday-seasonal-decor-storage-ideas.md | opinion | posted 2026-09-13 |
+| shoe-storage-organization-ideas.md | opinion | posted 2026-09-14 |
+| coffee-bar-station-organization-ideas.md | opinion | posted 2026-09-14 |
+| freezer-organization-ideas.md | linked | posted 2026-09-14 |
+| car-trunk-organization-ideas.md | opinion | posted 2026-09-14 |
 
 All 24 original Picks articles have X coverage (17 opinion, 7 linked).
-4 of the 13 new articles from this week's research batches now have X
-coverage too (18 opinion, 8 linked overall) — 9 new articles remain:
-wine-bar-cart is covered above, still need shoe-storage, coffee-bar-station,
-freezer, car-trunk, board-game-puzzle-storage, recycling-trash-bin,
-water-bottle-tumbler, bookshelf-home-library, baking-supplies-bakeware.
+8 of the 13 new articles from this week's research batches now have X
+coverage too (21 opinion, 9 linked overall) — 5 new articles remain:
+board-game-puzzle-storage, recycling-trash-bin, water-bottle-tumbler,
+bookshelf-home-library, baking-supplies-bakeware.
