@@ -65,6 +65,10 @@ movement framing first. This is the fix being tested for that funnel gap.
 | coffee-bar-station-organization-ideas.md | posted 2026-09-15 | "See full breakdown" | Batch 30 Story. Confirmed Instagram-only. |
 | freezer-organization-ideas.md | posted 2026-09-15 | "See full breakdown" | Batch 31 Story. Confirmed Instagram-only. |
 | car-trunk-organization-ideas.md | posted 2026-09-15 | "See full breakdown" | Batch 32 Story. Confirmed Instagram-only. |
+| board-game-puzzle-storage-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 33 Story, same-day follow-up to the feed post. Confirmed Instagram-only via Share-to check. |
+| recycling-trash-bin-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 34 Story. Confirmed Instagram-only. |
+| water-bottle-tumbler-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 35 Story. Confirmed Instagram-only. |
+| bookshelf-home-library-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 36 Story, last of this week's Picks batches. Confirmed Instagram-only. |
 
 ## Checkbox gotcha (found 2026-09-10, confirmed 2026-09-12)
 
