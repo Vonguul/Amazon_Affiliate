@@ -109,3 +109,10 @@ confirm only `offbahr` remains checked.
   more Stories (small-bathroom-storage, small-bedroom-closet, entryway,
   kitchen-counter) — all confirmed Instagram-only via the checkbox-zoom
   method above, no repeat of the Facebook cross-post.
+- 2026-09-17: Analytics re-check (7-day Vercel window, checked immediately
+  after posting Batch 33-36 Stories): 18 visitors (+29% WoW), 1 referred via
+  `l.instagram.com`. This reflects the Sep 15 batch (shoe-storage,
+  coffee-bar-station, freezer, car-trunk) and earlier — too soon after
+  posting for the board-game-puzzle-storage/recycling-trash-bin/
+  water-bottle-tumbler/bookshelf-home-library batch to register any clicks
+  yet. Re-check in a few days for that batch's signal.
