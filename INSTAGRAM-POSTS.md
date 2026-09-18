@@ -79,11 +79,13 @@ All 24 original Picks articles have Instagram feed coverage.
 | 30 | coffee-bar-station-organization-ideas.md | posted 2026-09-14 |
 | 31 | freezer-organization-ideas.md | posted 2026-09-14 |
 | 32 | car-trunk-organization-ideas.md | posted 2026-09-14 |
+| 33 | board-game-puzzle-storage-ideas.md | posted 2026-09-17 |
+| 34 | recycling-trash-bin-organization-ideas.md | posted 2026-09-17 |
+| 35 | water-bottle-tumbler-organization-ideas.md | posted 2026-09-17 |
+| 36 | bookshelf-home-library-organization-ideas.md | posted 2026-09-17 |
 
-8 of the 13 new articles from this week's research batches now have
-Instagram feed coverage too. 5 new articles remain: board-game-puzzle-storage,
-recycling-trash-bin, water-bottle-tumbler, bookshelf-home-library,
-baking-supplies-bakeware.
+12 of the 13 new articles from this week's research batches now have
+Instagram feed coverage too. 1 new article remains: baking-supplies-bakeware.
 
 **Upload method update (2026-09-13):** discovered Instagram's own "Create
 new post" dialog uses a real `<input type=file>` element (unlike Meta
