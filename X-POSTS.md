@@ -67,9 +67,12 @@ review before posting — real account, real followers, no undo on X.
 | coffee-bar-station-organization-ideas.md | opinion | posted 2026-09-14 |
 | freezer-organization-ideas.md | linked | posted 2026-09-14 |
 | car-trunk-organization-ideas.md | opinion | posted 2026-09-14 |
+| board-game-puzzle-storage-ideas.md | opinion | posted 2026-09-17 |
+| recycling-trash-bin-organization-ideas.md | opinion | posted 2026-09-17 |
+| water-bottle-tumbler-organization-ideas.md | linked | posted 2026-09-17 |
+| bookshelf-home-library-organization-ideas.md | opinion | posted 2026-09-17 |
 
 All 24 original Picks articles have X coverage (17 opinion, 7 linked).
-8 of the 13 new articles from this week's research batches now have X
-coverage too (21 opinion, 9 linked overall) — 5 new articles remain:
-board-game-puzzle-storage, recycling-trash-bin, water-bottle-tumbler,
-bookshelf-home-library, baking-supplies-bakeware.
+12 of the 13 new articles from this week's research batches now have X
+coverage too (24 opinion, 10 linked overall) — 1 new article remains:
+baking-supplies-bakeware.
