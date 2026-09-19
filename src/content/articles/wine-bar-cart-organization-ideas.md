@@ -29,6 +29,14 @@ products:
     asin: "B0FKLVLZJX"
     image: "/images/products/barcaddy-6compartment-1.jpg"
     note: "Garnishes, napkins, straws, and stirrers are the easiest category to forget about entirely — they end up loose in a drawer somewhere else in the kitchen instead of at the cart where you're actually mixing drinks."
+  - name: "MixMate 15-Piece Bartender Kit with Stand"
+    asin: "B094SP5F5M"
+    image: "/images/products/mixmate-bartender-kit-1.jpg"
+    note: "The tools are the part of a bar cart that most often ends up in a kitchen drawer. This brushed stainless steel set includes a martini shaker, jigger, strainer, bar spoon, tongs, and an opener, all on one stand that sits on the cart, so the tools are where the drinks get made."
+  - name: "WENEGG 3L Insulated Ice Bucket with Lid, Scoop and Tongs"
+    asin: "B07YBGSL65"
+    image: "/images/products/wenegg-ice-bucket-1.jpg"
+    note: "A cart without ice means a walk to the freezer for every round. A double-walled stainless bucket with a lid and a strainer holds ice on the cart and separates the meltwater from the cubes. It adds another object to a shelf that's already busy, so it's for a cart you use often."
 ---
 
 A bar cart looks cluttered almost immediately for one specific reason: bottles, glasses, tools, and garnishes all get set down on whatever open shelf is closest instead of each having an assigned spot. A cart has real structure to work with — multiple tiers, hooks, sometimes a shelf underneath — and using that structure on purpose is the actual fix.
@@ -44,6 +52,10 @@ Liquor bottles are usually taller and meant to stand upright, which creates a di
 ## Glasses belong underneath, not on top
 
 Stemmed glasses sitting upright on a shelf are both wasted vertical space and one bump away from tipping over. Hanging them stem-down from the underside of a shelf clears that space entirely and keeps them more secure than standing them ever does.
+
+## Keep the tools and the ice on the cart
+
+A shaker, jigger, and strainer kept in a kitchen drawer are the reason a drink turns into a trip. A tool set that comes with its own stand gives every piece a spot on the cart, and an insulated ice bucket removes the last reason to leave it. Together they turn the cart from a place that holds bottles into a place where drinks actually get made.
 
 ## Garnishes and tools need a landing spot at the cart itself
 

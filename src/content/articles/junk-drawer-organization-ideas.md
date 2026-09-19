@@ -29,6 +29,14 @@ products:
     asin: "B0823SZLCS"
     image: "/images/products/anoak-drawer-liner-1.jpg"
     note: "Goes down before any tray does. Without it, a full tray still slides an inch every time the drawer opens and closes, which is how a 'organized' drawer quietly turns back into a mess over a few months."
+  - name: "Ontel Battery Daddy Battery Organizer with Tester"
+    asin: "B089F9YDFC"
+    image: "/images/products/battery-daddy-1.jpg"
+    note: "Loose batteries are the riskiest thing in most junk drawers, since they can touch and drain each other. This double-sided case holds up to 180 of various sizes in a clear, locking case, and the built-in tester answers the question of which ones still work. It takes batteries out of the drawer entirely."
+  - name: "Amazon Basics 142-Piece Household Tool Kit"
+    asin: "B08KTV3VB8"
+    image: "/images/products/amazonbasics-tool-kit-1.jpg"
+    note: "Screwdrivers, a tape measure, pliers, and a hammer are what turn a junk drawer into a tangle. This kit puts them in a blow-molded case that measures about 13.4 by 9.3 by 3 inches, so the drawer keeps only what's small. It's a case to store elsewhere, not a drawer organizer, so it needs a shelf or closet to live on."
 ---
 
 Every junk drawer fails the same way: it gets one bin, or no bins, meant to hold categorically unrelated things — batteries, tape, takeout menus, a phone charger nobody uses anymore. The fix isn't a single product; it's matching each real category of stuff to a compartment sized for it, which usually means combining two or three different organizers instead of buying one.
@@ -44,6 +52,10 @@ Pens, scissors, a ruler, a mini screwdriver — anything longer than it is wide 
 ## Loose small stuff needs its own separate system
 
 Batteries, twist ties, and spare hardware don't fit a slotted tray at all — they need small, individual bins that can be arranged and rearranged as what you're storing changes. This is a genuinely different organizing problem from the slotted-tray one above, which is why one product rarely solves a whole junk drawer by itself.
+
+## Some things shouldn't live in the drawer at all
+
+Batteries and tools are the two categories that don't belong in a shared drawer. Loose batteries can touch and drain each other, and a hammer and a tape measure will always take over a tray built for small items. Giving each its own case removes the bulkiest, riskiest parts of the mess and leaves the drawer for what's actually small.
 
 ## Bulkier items get the leftover space
 

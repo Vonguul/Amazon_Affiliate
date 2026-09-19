@@ -29,6 +29,10 @@ products:
     asin: "B0G26WN6B8"
     image: "/images/products/whitmor-holiday-storage-bag-1.jpg"
     note: "For everything that doesn't fit a specific box — wreaths, garland, tissue paper, loose gift bags. One oversized clear bag instead of a pile of mismatched shopping bags shoved onto a shelf."
+  - name: "ZOBER 2 Pack 30-Inch Wreath Storage Bags"
+    asin: "B0845XQXQL"
+    image: "/images/products/zober-wreath-bags-1.jpg"
+    note: "A wreath is the one decoration that can't be stacked, folded, or dropped into a bin without being crushed. Each bag is 420D Oxford fabric with dual zippers that open the top fully, and reinforced handles. It fits a 30-inch wreath, so measure yours first."
 ---
 
 Holiday decorations don't get damaged from use — they get damaged from a full year in storage between uses, usually in whatever container was closest at hand when everyone was tired of putting things away. Ornaments chip because they're loose in a box. Lights fray because they're wadded into a ball. The tree's own box falls apart faster than the tree does. Each of those has a specific, not-expensive fix.
@@ -44,6 +48,10 @@ Tangled lights aren't a storage failure so much as an unwinding failure — they
 ## The tree needs its own bag, not its original box
 
 The box a tree ships in is built to survive one trip from the store to your house, not repeated years of being dragged out of an attic. A dedicated storage bag with real handles is built for the actual annual cycle a tree goes through, and it stops the slow cardboard collapse that ends most trees' original packaging within two or three years.
+
+## A wreath needs its own shape of container
+
+Almost everything else in a holiday box can be stacked or folded. A wreath can't, and a wreath stored under a heavy box comes out flat on one side the next year. A zippered bag that fully opens gives it room to keep its round shape, and the handles mean it can be moved without carrying it by the wreath itself. Measure the wreath before buying, since these come in fixed diameters.
 
 ## Give the leftover categories one place, not several
 

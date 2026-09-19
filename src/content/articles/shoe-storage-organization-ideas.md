@@ -29,6 +29,10 @@ products:
     asin: "B0CNGTZ3B5"
     image: "/images/products/kitsure-shoe-rack-1.jpg"
     note: "The simplest, cheapest option, for anyone who just needs shoes off the floor and visible rather than boxed — a dorm room or apartment entry closet where a full stackable-box system is overkill."
+  - name: "YIHATA Shoe Slots Organizer, 16 Pack"
+    asin: "B08NV5CQW2"
+    image: "/images/products/yihata-shoe-slots-1.jpg"
+    note: "For a closet floor that already holds shoes but wastes the air above them. Each slot stacks one pair on top of another, with four height settings from 3.3 to 7.4 inches, and anti-slip flaps and bumps to keep the top pair from sliding. The maker claims it saves about half the floor space, which is plausible for flats but less so for bulky boots."
 ---
 
 Shoe clutter shows up in different rooms depending on the household — a closet floor, the back of a door, under a bed for shoes you're not wearing this season, or a corner where tall boots slump because nothing holds them upright. Each of those is a different storage problem, and treating them as one ("just buy a shoe rack") is why so many shoe storage attempts stall out after a few weeks.
@@ -44,6 +48,10 @@ When the actual issue is more pairs than closet floor space, the fix isn't a bet
 ## Off-season pairs belong out of the way, not in the way
 
 Shoes you're not wearing this month don't need the same visibility as daily shoes — they need to be out of the main rotation entirely. Under the bed is dead space in most bedrooms already, and a flat storage case uses it without taking over closet real estate that daily shoes actually need.
+
+## Stack pairs to double the floor you already have
+
+Before buying more shelving, look at the air above the shoes you already store. Most closet floors hold one layer of shoes with a foot or more of empty space above them. Adjustable slot stackers put a second pair on top of the first, which doubles capacity without adding a shelf or drilling into anything. They work best for flats, sneakers, and low heels, and less well for anything bulky.
 
 ## Tall boots need to stand, not stack
 
