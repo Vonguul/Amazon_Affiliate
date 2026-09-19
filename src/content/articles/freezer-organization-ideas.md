@@ -1,6 +1,6 @@
 ---
 title: "Freezer Organization Ideas for Chest and Upright Freezers"
-description: "Real products for a freezer that's actually a deep, cold junk drawer — sorted by freezer type, plus the two cheap habits (labels and uniform containers) that keep it that way."
+description: "Real products for a freezer that's actually a deep, cold junk drawer — sorted by freezer type, plus the habits (labels, uniform containers, portioning, and sealing out air) that keep it that way."
 pubDate: 2026-09-13
 heroImage: "/images/products/anjuban-chest-freezer-bins-1.jpg"
 category: "Kitchen & Appliance Organization"
@@ -25,6 +25,14 @@ products:
     asin: "B073TRVFZS"
     image: "/images/products/freshware-mealprep-containers-1.jpg"
     note: "Mismatched containers and random freezer bags stack badly and waste the gaps between them. One uniform container shape stacks flush, which is where a lot of usable freezer volume actually comes from."
+  - name: "ZIP STANDING 1-Cup Silicone Freezer Trays with Lid"
+    asin: "B0CP1PY5HX"
+    image: "/images/products/zipstanding-freezer-trays-1.jpg"
+    note: "For soup, broth, sauce and leftovers: each cup-sized cell freezes a portion into a block that pops out and can be stored in a bag or bin. BPA-free silicone with a snap-on lid and a steel ring to keep the tray rigid when you carry it full."
+  - name: "FoodSaver Compact Vacuum Sealer with Bags and Roll"
+    asin: "B08BDHZ1PV"
+    image: "/images/products/foodsaver-compact-sealer-1.jpg"
+    note: "The fix for freezer burn, which is caused by air, not time. FoodSaver says it keeps food fresh in the freezer up to five times longer. It's the most expensive item here at $69.99, and it carries an ongoing bag cost, so it earns its place mainly if you buy meat in bulk or freeze a lot of leftovers."
 ---
 
 A freezer gets disorganized differently depending on which kind it is — a chest freezer buries things under their own depth, while an upright freezer lets things slide and tip on open shelves. Both end in the same place (frozen mystery bags, food that expired without anyone noticing), but the actual fix depends on which failure mode you're dealing with.
@@ -44,6 +52,14 @@ Once something's frozen, "what is this and how old is it" becomes nearly impossi
 ## Uniform shapes stack better than whatever's on hand
 
 Mismatched shapes — a takeout container here, a random freezer bag there — leave gaps that waste real freezer volume even when there's technically room. Standardizing on one stackable container shape is what actually recovers that wasted space, the same principle a small pantry uses with matching containers on the shelf.
+
+## Freeze soup in portions, not in one big block
+
+A quart of soup frozen as a single lump means thawing the whole thing whether you need one serving or four. Freezing in one-cup portions makes each block a unit you can grab, stack, and thaw on its own, and the uniform shape helps with the stacking problem too.
+
+## Freezer burn is an air problem
+
+Ice crystals and dried-out patches on frozen food come from air reaching the surface, and a loose freezer bag lets plenty of it in. Removing that air before sealing is what slows it down. It's a real fix, but it costs more than the other items here, so it's the one to skip if you rarely freeze anything for more than a few weeks.
 
 ---
 
