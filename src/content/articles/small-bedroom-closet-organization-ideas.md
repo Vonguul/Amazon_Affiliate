@@ -1,5 +1,5 @@
 ---
-title: "9 Small Bedroom Closet Organization Ideas That Don't Require a Renovation"
+title: "11 Small Bedroom Closet Organization Ideas That Don't Require a Renovation"
 description: "Real closet organization ideas for small bedrooms — reclaim vertical space, cut hanger bulk, and stop losing accessories in a pile at the bottom."
 pubDate: 2026-08-31
 heroImage: "/images/products/amazonbasics-hanging-shelf-1.jpg"
@@ -45,6 +45,14 @@ products:
     asin: "B0F3H4LS3G"
     image: "/images/products/coatrack-wallmount-1.jpg"
     note: "For bags, robes, or tomorrow's outfit — a few wall hooks near the closet catch the items that never make it onto a hanger anyway."
+  - name: "Simple Houseware Adjustable Closet Hanging Rod, Chrome"
+    asin: "B01K07MY1K"
+    image: "/images/products/simplehouseware-closet-rod-1.jpg"
+    note: "Hooks over the existing rod to add a second hanging tier, with no drilling or hardware. It expands from 18 to 30 inches wide and adjusts in height, and it only suits short garments — shirts, skirts, folded-over pants — since a long dress would hang into the rack below."
+  - name: "HIBAG 12 Jumbo Vacuum Storage Bags with Hand Pump"
+    asin: "B0G33L6Z6S"
+    image: "/images/products/hibag-vacuum-bags-1.jpg"
+    note: "For bulky off-season items — comforters, winter coats, extra bedding — that eat a closet shelf for six months of the year. Compress them, and they fit a fraction of the space. Best for seasonal storage rather than everyday clothes, since compressed bags aren't meant to be opened daily."
 ---
 
 Small bedroom closets don't fail because there isn't enough room — they fail because standard hangers and a single rod-and-shelf layout waste most of the space that's actually there. The fix is almost never "get a bigger closet." It's almost always: thinner hangers, use the vertical space, and contain what doesn't hang.
@@ -65,7 +73,7 @@ Whatever's left — accessories, folded sweaters, extra bedding — does better 
 
 If a small closet feels impossible, fix it in this order: hangers first (cheapest, biggest immediate space gain), vertical hanging storage second, then containment for everything that doesn't hang. Skipping straight to buying bins without fixing the hanger bulk first usually means the bins end up with nowhere to go.
 
-Everything below the first three picks fills in the specific gaps that are left once the core order is handled: the back of the door, shelf dividers so folded stacks stay upright, overflow storage for what doesn't fit at all, and a home for the small stuff — belts, drawer contents, bags — that otherwise ends up in a pile because it never had an assigned spot.
+Everything below the first three picks fills in the specific gaps that are left once the core order is handled: the back of the door, shelf dividers so folded stacks stay upright, a second hanging tier for short garments, vacuum bags for bulky off-season bedding and coats, overflow storage for what doesn't fit at all, and a home for the small stuff — belts, drawer contents, bags — that otherwise ends up in a pile because it never had an assigned spot.
 
 ---
 

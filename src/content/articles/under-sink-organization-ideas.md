@@ -1,6 +1,6 @@
 ---
-title: "4 Under-Sink Organization Ideas That Actually Work Around the Pipes"
-description: "Real products for under-sink organization — pull-out drawers that clear the U-bend, a leak-proof mat, a revolving turntable, and door-mounted spray bottle hooks."
+title: "6 Under-Sink Organization Ideas That Actually Work Around the Pipes"
+description: "Real products for under-sink organization — pull-out drawers that clear the U-bend, an expandable shelf for cabinets a pull-out won't fit, a leak-proof mat, a revolving turntable, a trash bag dispenser, and door-mounted spray bottle hooks."
 pubDate: 2026-09-05
 heroImage: "/images/products/mixeshop-pullout-organizer-1.jpg"
 category: "Under-Sink Organization"
@@ -25,9 +25,17 @@ products:
     asin: "B0B2VJQX53"
     image: "/images/products/taiyin-bottle-hooks-1.jpg"
     note: "Spray bottles are an awkward shape for any shelf or bin — they tip over and take up more width than their base needs. Hanging them on the inside of the cabinet door uses space that's otherwise doing nothing."
+  - name: "Simple Houseware Under Sink 2-Tier Expandable Organizer"
+    asin: "B01LWX3P9O"
+    image: "/images/products/simplehouseware-undersink-2tier-1.jpg"
+    note: "The lower-cost route when a pull-out drawer doesn't suit the cabinet. Width expands from 15.75 to 25 inches with four shelf-height levels, so it can be set to straddle the pipes, and each tier is rated for at least 22 pounds. It's a fixed shelf, not a drawer, so it rewards putting the things you reach for least at the back."
+  - name: "Vtopmart 2 Pack Clear Trash Bag Holder"
+    asin: "B0F7LNZR7Y"
+    image: "/images/products/vtopmart-trashbag-holder-1.jpg"
+    note: "Under the kitchen sink is usually where the spare trash bags live, as a wad of loose rolls. A clear stackable dispenser holds 13, 30, or 33-gallon rolls, opens at the front for one-handed pulling, and lets you see at a glance when the last roll is about to run out."
 ---
 
-The space under a sink is one of the most awkwardly shaped storage areas in a house — a pipe runs through the middle of it, the floor is the one place a leak actually matters, and it's deep enough that anything not pulled all the way out just gets forgotten. The four fixes below target those specific problems instead of treating it like a normal cabinet.
+The space under a sink is one of the most awkwardly shaped storage areas in a house — a pipe runs through the middle of it, the floor is the one place a leak actually matters, and it's deep enough that anything not pulled all the way out just gets forgotten. The six fixes below target those specific problems instead of treating it like a normal cabinet.
 
 ## Work around the pipes instead of fighting them
 
@@ -44,3 +52,11 @@ The space beside the pipes, especially in a corner cabinet, is oddly shaped and 
 ## Give spray bottles a spot that isn't the floor
 
 Spray bottles are too tall and top-heavy for most bins and too irregularly shaped to stack. Hooks mounted on the inside of the cabinet door use vertical space that's otherwise empty, and it keeps them from tipping into everything else stored below.
+
+## If a pull-out won't fit, expand a shelf around the pipes
+
+Pull-out drawers need clear depth and a cabinet floor that's free of obstructions, and not every cabinet has both. An expandable two-tier shelf is the cheaper alternative: set the width to span the plumbing, pick the shelf height that clears the U-bend, and everything sits on two levels instead of the floor. The trade-off is that it doesn't slide out, so the back stays the back.
+
+## Give spare trash bags a dispenser, not a drawer wad
+
+Spare bags end up under the sink almost by default, and they usually live as a tangle of loose rolls that unspool the moment something else gets moved. A dispenser with a front opening keeps the roll contained and one-handed to pull, and a clear body means you notice the supply running low before you're standing at a full trash can with none left.
