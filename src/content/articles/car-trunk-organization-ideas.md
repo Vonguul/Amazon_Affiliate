@@ -25,6 +25,10 @@ products:
     asin: "B07XKGWNP8"
     image: "/images/products/everlit-emergency-kit-1.jpg"
     note: "Before organizing what's already in the trunk, it's worth checking whether the actual emergency basics — jumper cables, a tire inflator, first aid — are in there at all. A pre-built kit means the answer is yes without assembling one piece by piece."
+  - name: "HOTOR Leakproof Car Trash Can, 2 Gallon"
+    asin: "B07VGRVKSN"
+    image: "/images/products/hotor-car-trash-can-1.jpg"
+    note: "The one item here that lives in the cabin, not the trunk. A collapsible 2-gallon bin with a leakproof lining, an adjustable strap that hangs from a front or rear seat, and magnetic snaps for holding a spare bag. It ends the loose wrapper pile on the floor for about ten dollars."
 ---
 
 A trunk holds three genuinely different categories of stuff — everyday loose items, groceries that need to stay cold on the way home, and emergency gear you hope to never need — and most trunk clutter comes from treating all three the same way instead of giving each one its own dedicated spot.
@@ -40,6 +44,10 @@ A regular organizer compartment does nothing for frozen food on a warm drive hom
 ## Kids in the back seat are a separate organization problem entirely
 
 Everything above lives in the trunk, but a family car's actual daily mess is usually in the back seat — snack wrappers, dropped toys, and shoes kicking the back of the front seat. A hanging seatback organizer with a tablet holder addresses that directly, and it's a genuinely different location and problem from anything trunk-based.
+
+## Give the trash a place, or it takes over the floor
+
+Whatever a trunk organizer does, the car's daily mess is mostly wrappers, cups, and receipts that have nowhere to go. A small leakproof bin that hangs from a seat gives trash a fixed spot that's easy to empty, which does more for how the car looks than any amount of trunk storage.
 
 ## Check the emergency basics before organizing around them
 

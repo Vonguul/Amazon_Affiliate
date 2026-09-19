@@ -1,6 +1,6 @@
 ---
-title: "4 Entryway Organization Ideas for the Chaos Right Inside Your Door"
-description: "Real products for the 4 things that pile up right inside every front door — shoes, coats and keys, umbrellas, and wet floors."
+title: "6 Entryway Organization Ideas for the Chaos Right Inside Your Door"
+description: "Real products for the things that pile up right inside every front door — shoes, coats and keys, umbrellas, wet floors, and the dirt that comes in on them."
 pubDate: 2026-09-02
 heroImage: "/images/products/hoobro-shoe-bench-1.jpg"
 category: "Entryway Organization"
@@ -25,6 +25,14 @@ products:
     asin: "B07DVQQH9R"
     image: "/images/products/ottomanson-boot-tray-1.jpg"
     note: "For wet or muddy shoes specifically — sits under the bench or by the door and is hose-washable, which a fabric mat never really is."
+  - name: "BEQHAUSE Dirt Trapper Door Mat, 20 x 32 Inches"
+    asin: "B0CSDF3YFB"
+    image: "/images/products/beqhause-dirt-trapper-mat-1.jpg"
+    note: "The mat that stops the mess before it needs a tray. Dense polypropylene yarn traps dirt and moisture, a non-slip backing keeps it in place on dry floors, and it's washable. It's a low-profile mat, not a rug, so it sits under a door without catching it."
+  - name: "Hoctieon Freestanding Coat Rack with Umbrella Holder"
+    asin: "B0B5D1ZTM6"
+    image: "/images/products/hoctieon-coat-tree-1.jpg"
+    note: "The alternative to wall hooks for a renter or a hallway where drilling isn't an option. A metal coat tree with 12 hooks at different heights and a built-in umbrella holder. It takes floor space that a wall-mounted rack doesn't, so it suits a hall with room to spare."
 ---
 
 The entryway is the one room in a home guaranteed to accumulate clutter daily, because it's the transition point for everything coming in and out — shoes, coats, keys, mail, umbrellas. Fixing it isn't about buying more storage everywhere; it's about giving each of those four categories a specific, obvious spot.
@@ -40,6 +48,14 @@ These three items scatter because they don't share a natural home — a coat goe
 ## Wet umbrellas need somewhere that isn't the floor
 
 An umbrella stand with a drip tray is a small, cheap fix for a recurring problem: a wet umbrella leaning in a corner leaves a puddle every single time it rains, and nobody remembers to put a towel down for it.
+
+## Stop the dirt at the door, not the tray
+
+Most of what ends up on an entryway floor is carried in on the soles of shoes. A dense, washable mat at the threshold catches the worst of it before it spreads, and it makes every other item on this list easier to keep clean.
+
+## No wall to drill? Use a coat tree
+
+Wall hooks are the tidiest answer, but they assume you can put holes in the wall. A freestanding coat rack with an umbrella holder solves the same problem on its own floor footprint, which is the practical choice in a rental or a narrow hall.
 
 ## Wet or muddy shoes need a surface that can actually be cleaned
 
