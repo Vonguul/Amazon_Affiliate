@@ -1,6 +1,6 @@
 ---
-title: "9 Kitchen Counter Organization Ideas for a Clutter-Free Countertop"
-description: "Real products for clearing kitchen counter clutter — paper towels, cutting boards, and the coffee station that keeps taking over."
+title: "11 Kitchen Counter Organization Ideas for a Clutter-Free Countertop"
+description: "Real products for clearing kitchen counter clutter — paper towels, cutting boards, the coffee station that keeps taking over, a tiered fruit basket, and a roll-up rack that dries dishes over the sink."
 pubDate: 2026-09-02
 heroImage: "/images/products/beygorm-coffee-station-1.jpg"
 category: "Kitchen Counter Organization"
@@ -45,6 +45,14 @@ products:
     asin: "B00008WQ3L"
     image: "/images/products/kamenstein-spice-rack-1.jpg"
     note: "For counter-based spice storage rather than a cabinet — comes pre-filled with 20 spices, so it's a complete solution rather than an empty rack you still have to stock."
+  - name: "Sevenblue 2-Tier Fruit Basket with Banana Hangers"
+    asin: "B0DBQKKMHM"
+    image: "/images/products/sevenblue-2tier-fruit-basket-1.jpg"
+    note: "Fruit spread across a counter in bags and bowls takes more room than fruit stacked upward. This two-tier metal basket has removable banana hangers and protective mats for small fruit like grapes. It sets up without tools and costs about $15."
+  - name: "Seropy Roll-Up Over-Sink Dish Drying Rack"
+    asin: "B09NY7S1DH"
+    image: "/images/products/seropy-roll-up-drying-rack-1.jpg"
+    note: "The most counter-friendly rack is one that isn't on the counter. This stainless-steel roll-up mat sits across the sink, drains straight into it, and rolls up when the dishes are put away. It's about 17.5 by 11.8 inches and costs about $7.50 with nearly 40,000 reviews at 4.6 stars, but it needs a sink wide enough to hold it."
 ---
 
 Kitchen counters lose usable space to the same few culprits over and over: a paper towel roll taking up prime counter real estate, cutting boards and pot lids propped against the backsplash because there's nowhere else for them to go, and a coffee station that expands a little more every time a new syrup or pod flavor gets added.
@@ -66,3 +74,11 @@ A coffee station is a slow leak of counter space — it rarely arrives all at on
 If you only fix one thing, fix whichever of these three is currently the most spread out in your specific kitchen — for most people that's the coffee station, since it tends to accumulate the most loose small items over time.
 
 The rest of the list handles the smaller everyday clutter points once the big three are under control: loose knives, a static utensil crock, a dish rack that's too big for a small counter, bread and baked goods left in bags, a permanently damp sponge, and spice jars stored wherever there was room instead of somewhere designed for them.
+
+## Stack the fruit instead of spreading it
+
+Fruit takes a surprising amount of counter when it sits in bags, bowls, and on paper towels. A two-tier basket stacks it up, and a banana hanger gets the bunch off the surface. It gives fruit air, which slows spoilage in some cases, though bananas ripen on their own schedule whatever you do. The basket is a fixed footprint, so it needs a spot you're willing to give it.
+
+## Dry dishes over the sink, not on the counter
+
+A conventional rack claims a permanent rectangle of counter, and the water drains where you'd rather not have it. A roll-up rack sits over the sink, drains into it, and stores away in a drawer. It holds fewer dishes than a full-size rack and isn't meant for heavy pots, so it suits a small household better than a large one.

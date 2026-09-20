@@ -1,5 +1,5 @@
 ---
-title: "8 Small Bathroom Storage Ideas That Don't Need a Renovation"
+title: "10 Small Bathroom Storage Ideas That Don't Need a Renovation"
 description: "Real small bathroom storage ideas — under the sink, above the toilet, and inside the shower — that install in minutes and don't involve drilling into tile."
 pubDate: 2026-08-31
 heroImage: "/images/products/arisework-toilet-storage-1.jpg"
@@ -41,6 +41,14 @@ products:
     asin: "B0DJQYXQX1"
     image: "/images/products/sevenblue-hairtool-organizer-1.jpg"
     note: "Curling irons and straighteners are awkward to store safely while still hot — this holds them off the counter without needing a drawer."
+  - name: "MOPMS Wall-Mounted Electric Toothbrush Holders, 2-Pack"
+    asin: "B0CXXBQJWN"
+    image: "/images/products/mopms-toothbrush-holder-1.jpg"
+    note: "A toothbrush cup takes counter space and collects water at the bottom. These barrel-shaped holders stick to the wall with adhesive, with a drain hole so the brush dries. No drilling. They're sized for electric toothbrushes, so check that yours fits."
+  - name: "Cesun Slim Bathroom Trash Can, 1.6 Gallon"
+    asin: "B09MTG329N"
+    image: "/images/products/cesun-slim-bathroom-trash-can-1.jpg"
+    note: "Where the bin goes matters as much as the size. This one is about 5.9 inches wide, with a step pedal and soft-close lid, so it fits into the gap between a toilet and a wall. The inner bucket lifts out to empty. It costs about $30, which is a lot for a bin, and it has more than 9,000 reviews at 4.5 stars."
 ---
 
 Small bathrooms lose usable storage to three spots almost every time: the cabinet under the sink (wasted to plumbing and clutter), the wall above the toilet (usually just... blank wall), and the shower itself (bottles balanced on the tub edge). None of these need a renovation to fix — they need the right small, install-in-minutes product.
@@ -61,7 +69,15 @@ Bottles balanced on a tub ledge or hung from a flimsy wire caddy over the shower
 
 If you can only fix one thing, fix the under-sink cabinet first — it's usually the largest single chunk of wasted storage in a small bathroom, and the one people avoid dealing with because it means getting on the floor to sort through what's back there.
 
-The rest of the list handles the smaller failure points once the big three are sorted: the counter itself, extra towel storage when there's no wall space to mount anything, the medicine cabinet, backup toilet paper, and hot tools that need somewhere safe to sit while they cool.
+The rest of the list handles the smaller failure points once the big three are sorted: the counter itself, extra towel storage when there's no wall space to mount anything, the medicine cabinet, backup toilet paper, hot tools that need somewhere safe to sit while they cool, toothbrushes, and a bin narrow enough to fit.
+
+## Get the toothbrush off the counter
+
+A toothbrush cup is a small item that occupies a lot of counter, and it leaves the brush sitting in water. A wall-mounted holder with a drain hole frees the counter and lets the brush dry in the air. Adhesive mounts hold best on clean, smooth tile or paint, so wipe the spot first and give the adhesive time to set before you load it.
+
+## Size the trash can to the space
+
+The wasted corner in a small bathroom is often where a bin should have gone. A slim bin, under six inches wide, fits between the toilet and the wall, and a lid with a soft-close pedal keeps it closed without a lot of noise. Measure the gap first, since most bins are wider than they look in photos.
 
 ---
 
