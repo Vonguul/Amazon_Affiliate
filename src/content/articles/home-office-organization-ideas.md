@@ -1,6 +1,6 @@
 ---
-title: "5 Home Office Organization Ideas for a Desk That Actually Works"
-description: "Real products for the desk clutter that builds up daily — cables, paper, drawers, and the floor space under the desk."
+title: "7 Home Office Organization Ideas for a Desk That Actually Works"
+description: "Real products for the desk clutter that builds up daily — cables, paper, drawers, the floor space under the desk, a label maker, and a slide-out drawer under the desktop."
 pubDate: 2026-09-02
 heroImage: "/images/products/gianotter-monitor-stand-1.jpg"
 category: "Home Office Organization"
@@ -29,6 +29,14 @@ products:
     asin: "B0DP4ZW2YH"
     image: "/images/products/sbanmao-rolling-filecart-1.jpg"
     note: "For anything that doesn't fit on the desk at all — active files and documents get a real home instead of stacking on the floor or a nearby chair, and it rolls out of the way when not needed."
+  - name: "Brother P-touch PT-D210 Label Maker"
+    asin: "B013DG2FNW"
+    image: "/images/products/brother-ptouch-d210-label-maker-1.jpg"
+    note: "An organizing system only holds if things are labeled. This handheld prints up to two lines on tape up to 12 mm wide, with 14 fonts, 97 frames, and over 600 symbols. It has 29,000 reviews at 4.7 stars. It costs about $59, which is the priciest item here, so it's worth it if you'll label more than one drawer."
+  - name: "Bostitch Konnect Under Desk Drawer, 2-Pack"
+    asin: "B0CJCLRXBK"
+    image: "/images/products/bostitch-under-desk-drawer-1.jpg"
+    note: "For a desk with no drawer at all, this slide-out tray sticks to the underside with adhesive and holds pens, sticky notes, and chargers behind a smooth-sliding front. It comes with four removable dividers. The adhesive backing means no drilling, but it's a good idea to test it on a spot that can take the weight."
 ---
 
 A home office desk accumulates clutter faster than almost any other surface in a house, because it's the landing spot for cables, paper, and loose supplies every single day. The fix isn't a bigger desk — it's giving each category of clutter a specific place that isn't "wherever there's room."
@@ -48,3 +56,11 @@ Paper piles grow because there's no clear separation between "just arrived," "st
 ## Drawers and floor storage last
 
 Once the desk surface itself is under control, a proper drawer organizer stops the junk-drawer problem, and a rolling file cart gives overflow documents a real home — off the floor, but out of the way until actually needed.
+
+## Add a drawer where the desk has none
+
+Many desks, especially small or standing ones, have a flat top and nothing else, so everything ends up on the surface. A slide-out drawer stuck to the underside adds a place for the small things you reach for daily and can't afford to lose: pens, tape, sticky notes, a charger. It's a small fix, and a good one when a full drawer unit won't fit under the desk.
+
+## Label the system so it lasts
+
+An organized desk drifts back to a pile when nobody remembers what goes where. A label maker turns the trays, drawers, and file boxes into a system that other people can follow. Labels also show when a category is getting too full, which is usually the first sign the desk is about to clutter up again.
