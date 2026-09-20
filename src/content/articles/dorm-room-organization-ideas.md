@@ -1,6 +1,6 @@
 ---
-title: "4 Dorm Room Organization Ideas for a Space You Have to Move Out of Every Year"
-description: "Real products for dorm room organization — a shared-bathroom shower caddy, collapsible storage that packs flat, a pop-up laundry hamper, and damage-free wall hooks."
+title: "6 Dorm Room Organization Ideas for a Space You Have to Move Out of Every Year"
+description: "Real products for dorm room organization — a shared-bathroom shower caddy, collapsible storage that packs flat, a pop-up laundry hamper, damage-free wall hooks, a hanging closet organizer, and bed risers with USB ports."
 pubDate: 2026-09-05
 heroImage: "/images/products/attmu-shower-caddy-1.jpg"
 category: "Dorm Room Organization"
@@ -25,9 +25,17 @@ products:
     asin: "B07712H557"
     image: "/images/products/command-hooks-variety-1.jpg"
     note: "Most dorm leases don't allow nails or screws, and a deposit is on the line either way. Adhesive strips and hooks hang coats, mirrors, and string lights without marking the wall, and come off clean at move-out."
+  - name: "MAX Houser 6-Tier Hanging Closet Organizer"
+    asin: "B07FX8RZJZ"
+    image: "/images/products/max-houser-hanging-closet-organizer-1.jpg"
+    note: "Dorm closets are usually one rod and no shelves. This fabric organizer hangs from the rod on two hooks and adds six open shelves for sweaters, jeans, and shoes. It folds flat for move-out and costs about $12, which is why it has over 14,000 reviews at 4.6 stars."
+  - name: "Bee Neat Bed Risers with USB Outlets, 7.25-Inch (4-Pack)"
+    asin: "B085VYP75C"
+    image: "/images/products/beeneat-bed-risers-usb-1.jpg"
+    note: "Lifting the bed 7 inches turns the floor beneath it into storage for bins, a mini fridge, or luggage, and these add two USB charging ports at the bed. Check your school's housing rules first, because some limit bed height, extra lifts, or power strips. They fit standard bed legs and cost around $40."
 ---
 
-A dorm room fails the same organization systems that work everywhere else for one specific reason: it's temporary, shared, and small all at once. Storage has to survive an annual move-out, a hallway walk to a shared bathroom, and a floor plan with almost no spare square footage. The four fixes below are built around that specific set of constraints instead of treating a dorm room like a smaller version of a bedroom.
+A dorm room fails the same organization systems that work everywhere else for one specific reason: it's temporary, shared, and small all at once. Storage has to survive an annual move-out, a hallway walk to a shared bathroom, and a floor plan with almost no spare square footage. The six fixes below are built around that specific set of constraints instead of treating a dorm room like a smaller version of a bedroom.
 
 ## Make the walk to a shared bathroom a one-trip job
 
@@ -44,3 +52,11 @@ A dorm room rarely has room for a permanent hamper, and a pile on the floor is t
 ## Hang things without touching the wall
 
 Most dorm leases don't allow nails or screws, and the security deposit depends on the walls going back the way they came. Adhesive strips and hooks handle coats, mirrors, and lights without a single hole, and pull off clean when it's time to move out.
+
+## Add shelves to a closet that has none
+
+A dorm closet is usually a single rod with a floor beneath it, so folded clothes end up in a pile. A hanging organizer uses the rod itself as the support and gives you six shelves in the same width. It comes down in a minute at move-out, and it doesn't touch the closet walls.
+
+## Use the space under the bed
+
+The floor under a bed is the biggest unused storage area in a dorm. Risers lift the frame high enough to slide in bins, a mini fridge, or a suitcase, and ones with USB ports put a charger within reach of the pillow. Two cautions: check your housing rules on bed height and power before buying, and make sure the frame's legs match the riser's cups.

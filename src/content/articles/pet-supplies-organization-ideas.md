@@ -1,6 +1,6 @@
 ---
-title: "4 Pet Supplies Organization Ideas for the Gear Taking Over Your House"
-description: "Real products for pet clutter — an airtight rolling food container, a collapsible toy basket, a wall-mounted leash and collar station, and airtight treat jars for the counter."
+title: "6 Pet Supplies Organization Ideas for the Gear Taking Over Your House"
+description: "Real products for pet clutter — an airtight rolling food container, a collapsible toy basket, a wall-mounted leash and collar station, airtight treat jars, a magnetic treat pouch, and a raised feeding stand with storage."
 pubDate: 2026-09-08
 heroImage: "/images/products/irisusa-dog-food-container-1.jpg"
 category: "Pet Supplies Organization"
@@ -25,9 +25,17 @@ products:
     asin: "B0DTK47PFF"
     image: "/images/products/hoytamdar-treat-containers-1.jpg"
     note: "A half-open treat bag clipped shut with a chip clip goes stale fast and doesn't stack with anything else on the counter. Three matching airtight jars with labels keep treats fresh and let different treat types stay visually separated instead of mixed in one bag."
+  - name: "Gobeigo 2-Cup Magnetic Dog Treat Pouch with Clicker"
+    asin: "B0D9GFLLYP"
+    image: "/images/products/gobeigo-dog-treat-pouch-1.jpg"
+    note: "Treats stuffed in a coat pocket crumble and spill, and they go missing the moment a walk needs one. This pouch clips to a belt or waistband, holds about two cups, closes with magnets, and has a built-in poop-bag holder and a clicker. It puts the treat, the bag, and the clicker in one place on the walk."
+  - name: "Lomivra Elevated Dog Bowl Stand with Toy Bin Basket"
+    asin: "B0CB5T5RG7"
+    image: "/images/products/lomivra-dog-feeding-stand-1.jpg"
+    note: "Loose bowls on a kitchen floor get kicked, spilled, and stepped around. This stand holds your own food and water bowls (up to 9.45 inches across) on a raised platform, adjusts to four heights, and has a metal basket for toys or supplies. Bowls aren't included. Ask your vet before raising a large, deep-chested dog's bowls, since raised feeders may not suit every dog."
 ---
 
-Pet supplies rarely start out as clutter — they start as a bag of food, a handful of toys, and a leash by the door, and multiply from there without ever getting an actual home. Food bags get propped in corners, toys end up scattered across every room, and leashes disappear into whatever pile is closest to the door. The four fixes below give pet gear real structure instead of letting it spread across the house.
+Pet supplies rarely start out as clutter — they start as a bag of food, a handful of toys, and a leash by the door, and multiply from there without ever getting an actual home. Food bags get propped in corners, toys end up scattered across every room, and leashes disappear into whatever pile is closest to the door. The six fixes below give pet gear real structure instead of letting it spread across the house.
 
 ## Keep food sealed and easy to move
 
@@ -44,3 +52,11 @@ Leashes, collars, and poop bags dropped by the door on the way in usually just s
 ## Keep treats fresh instead of clipped shut in a bag
 
 A half-open treat bag closed with a chip clip goes stale quickly and doesn't stack cleanly with anything else on the counter. A set of matching airtight jars keeps treats fresh longer and lets different types stay visually separated instead of mixed together in one bag.
+
+## Carry the walk kit on your body
+
+Treats, waste bags, and a clicker end up in three different pockets, and one is always missing at the door. A pouch that clips on with a built-in bag holder puts them in one place, closes so nothing spills, and can be hung by the leash hooks between walks. It's small enough to be a habit and too small to serve as storage for the whole treat supply.
+
+## Give the bowls a home
+
+A feeding area is a permanent floor mess of bowls, scoops, and spilled kibble. A stand defines the spot, keeps bowls from sliding, and gives the scoop and a few supplies a place underneath. The raised height suits some dogs and not others, so check with your vet if yours is large, deep-chested, or has had digestive problems.
