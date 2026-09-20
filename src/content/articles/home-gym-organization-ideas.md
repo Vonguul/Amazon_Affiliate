@@ -1,6 +1,6 @@
 ---
-title: "4 Home Gym Organization Ideas for Small Spaces That Double as Living Rooms"
-description: "Real products for home gym organization — an all-in-one rack for dumbbells and mats, a wall rack for tangled bands, a 5-tier yoga mat holder, and wall-mounted weight plate storage."
+title: "6 Home Gym Organization Ideas for Small Spaces That Double as Living Rooms"
+description: "Real products for home gym organization — an all-in-one rack for dumbbells and mats, a wall rack for tangled bands, a 5-tier yoga mat holder, wall-mounted weight plate storage, interlocking floor tiles, and an adjustable kettlebell that replaces six."
 pubDate: 2026-09-06
 heroImage: "/images/products/mythinglogic-gym-rack-1.jpg"
 category: "Home Gym Organization"
@@ -25,9 +25,17 @@ products:
     asin: "B0CLC8FW47"
     image: "/images/products/miuono-weightplate-holder-1.jpg"
     note: "Weight plates stacked on the floor are a tripping hazard and the least space-efficient way to store them. Pegs mounted directly on the wall hold plates vertically, using space that would otherwise sit empty."
+  - name: "ProsourceFit Exercise Puzzle Mat, 1/2-Inch, 24 Sq Ft (6 Tiles)"
+    asin: "B0B1LQCLNS"
+    image: "/images/products/prosourcefit-floor-tiles-1.jpg"
+    note: "Not storage, but it's what marks the gym off from the rest of the room. Foam tiles lock together over a floor or carpet to protect it and cushion the workout, then come apart and stack away. This set covers about 24 square feet, roughly a 5x5 workout area, so it suits a corner and not a whole room."
+  - name: "BowFlex SelectTech 840 Adjustable Kettlebell"
+    asin: "B07X64MXBS"
+    image: "/images/products/bowflex-840-kettlebell-1.jpg"
+    note: "The most space-efficient storage is owning less. One dial-adjustable kettlebell covers 8 to 40 lb, which BowFlex says replaces six fixed kettlebells. It costs $149, so it makes sense when you'd otherwise buy several weights, and less so if you already own a set."
 ---
 
-A home gym rarely gets its own room. It's a corner of a bedroom, a slice of the garage, or a patch of living room floor that has to reset back into normal life between workouts, and the equipment that makes that possible is exactly the kind that resists being put away — dumbbells that roll, bands that tangle, mats that won't stay rolled. The four fixes below are built around getting everything off the floor and onto a wall or a rack, so the space can go back to being a bedroom or a living room in the time it takes to walk away.
+A home gym rarely gets its own room. It's a corner of a bedroom, a slice of the garage, or a patch of living room floor that has to reset back into normal life between workouts, and the equipment that makes that possible is exactly the kind that resists being put away — dumbbells that roll, bands that tangle, mats that won't stay rolled. The six fixes below are built around getting everything off the floor and onto a wall or a rack, so the space can go back to being a bedroom or a living room in the time it takes to walk away.
 
 ## Put weights and mats on wheels, not the floor
 
@@ -44,3 +52,11 @@ A mat leaned in a corner falls over on its own on a regular basis, then slowly u
 ## Store plates vertically instead of stacking them
 
 Weight plates stacked flat on the floor are both a tripping hazard and the least space-efficient way to store anything round and heavy. Pegs mounted directly on the wall hold plates on edge, turning empty wall space into storage that the floor never has to give up.
+
+## Mark the workout zone, then take it apart
+
+A gym that shares a room needs a clear boundary, both to protect the floor and to signal where the workout ends. Interlocking foam tiles do both. They cushion floors and carpet under weights, and because they snap apart, the zone stacks into a closet when the room goes back to being a living room.
+
+## Own fewer weights
+
+The hardest gym clutter to store is the pile of fixed weights that builds up as you progress. An adjustable kettlebell trades six separate weights for one you set with a dial, so there is nothing to rack and nothing to trip over. It's a bigger upfront cost, and a dial mechanism is a little slower to change than grabbing a different weight, so it helps most if you'd have bought the whole set anyway.

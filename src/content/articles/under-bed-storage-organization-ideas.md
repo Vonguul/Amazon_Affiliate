@@ -1,6 +1,6 @@
 ---
-title: "4 Under-Bed Storage Ideas for the Space You're Probably Wasting"
-description: "Real products for under-bed storage — rolling bins, foldable large-capacity containers, bed risers to create more clearance, and a shoe-specific organizer."
+title: "6 Under-Bed Storage Ideas for the Space You're Probably Wasting"
+description: "Real products for under-bed storage — rolling bins, foldable large-capacity containers, bed risers to create more clearance, a shoe-specific organizer, sliding drawers, and latching wheeled boxes."
 pubDate: 2026-09-07
 heroImage: "/images/products/gomaihe-underbed-wheels-1.jpg"
 category: "Under-Bed Storage"
@@ -25,9 +25,17 @@ products:
     asin: "B07VBJ5MSH"
     image: "/images/products/onlyeasy-underbed-shoe-organizer-1.jpg"
     note: "Shoes tossed into a general storage bin lose their pairs and get crushed under whatever else is in there. Individual compartments keep each pair separate and visible through the clear cover, so finding a specific pair doesn't mean unpacking the whole bin."
+  - name: "IRIS USA Under Bed Storage Bins with Sliding Drawers, 27 Qt (4-Pack)"
+    asin: "B074V2CD35"
+    image: "/images/products/iris-underbed-drawers-1.jpg"
+    note: "A drawer format instead of a lift-off lid: the bin slides out from under the bed on its own track, so you don't have to move or stack anything to reach it. Each is about 6 inches tall and holds around 27 quarts, so it suits folded clothes, shoes, and linens. It is sold as a four-pack at around $117, so it is the priciest option here."
+  - name: "Sterilite Wheeled Latching Box, 56 Qt (4-Pack)"
+    asin: "B01MRZE720"
+    image: "/images/products/sterilite-wheeled-latch-box-1.jpg"
+    note: "Same idea as the wheeled bins above, with a latching lid and a long record: the listing has over 14,000 reviews at 4.6 stars. The clear body shows what's inside, and the latches keep the lid shut and dust out. It's about 7 inches tall, so check your clearance first."
 ---
 
-The space under a bed is often the single largest unused storage area in a bedroom, and it stays unused for a predictable set of reasons: bins are a hassle to drag out, the bed doesn't sit high enough to fit anything, or whatever gets shoved under there becomes impossible to find again. The four fixes below solve those specific problems instead of just adding another box to slide under and forget about.
+The space under a bed is often the single largest unused storage area in a bedroom, and it stays unused for a predictable set of reasons: bins are a hassle to drag out, the bed doesn't sit high enough to fit anything, or whatever gets shoved under there becomes impossible to find again. The six fixes below solve those specific problems instead of just adding another box to slide under and forget about.
 
 ## Make pulling bins out effortless
 
@@ -44,3 +52,11 @@ A bed frame sitting low to the ground doesn't have usable under-bed storage at a
 ## Give shoes their own compartments
 
 Shoes tossed into a general-purpose storage bin lose track of their pairs and get crushed under whatever else ends up on top of them. An organizer with individual compartments keeps each pair separate and visible through a clear cover, so finding one specific pair doesn't mean unpacking the entire bin to look for it.
+
+## Use drawers instead of lids
+
+A bin with a lid has to be pulled all the way out and opened before you can see anything. A sliding drawer opens in place, so you can reach in while the bin stays partly under the bed. That makes it a good home for things you use weekly, like the sweater or sheet set you rotate, and less of a place for things you forget about.
+
+## Choose a latching lid for what you don't want dusty
+
+Under a bed is where dust collects. A hard-sided bin with latches keeps documents, keepsakes, and off-season clothes closed off, and the clear body shows what's stored where. Measure the gap under your frame before ordering: the boxes are about 7 inches tall, and a bed that sits lower needs the risers above first.
