@@ -1,5 +1,23 @@
 # Vonguul Picks — Pin Refresh List (drafted 2026-09-19)
 
+## STATUS (applied 2026-09-20)
+
+**Part A: done.** Each live pin was read back from Pinterest before editing; all matched their drafts.
+- **14 Pinterest pins edited** (title and/or description; destination links untouched):
+  02 Pin 3 (title), 02 Pin 2 x2 (description; the known duplicate exists twice, both edited, neither deleted),
+  03 Pin 2, 04 Pin 1, 04 Pin 2, 05 Pin 1, 05 Pin 2, 06 Pin 1, 06 Pin 2, 07 Pin 1, 07 Pin 2, 08 Pin 1, 09 Pin 1.
+- **Skipped:** batch 10 (linen closet). The live linen pins do not match the draft and carry no counts, so nothing to fix.
+- **6 Instagram captions edited** (leading count only: kitchen 11, entryway 6, garage/office/laundry/kids 7). Verified after reload.
+- **Tracking gap found (not changed):** the live pins for batches 02, 03 and 04 link to the article WITHOUT `?src=pinterest`,
+  so their clicks are not attributed to the Pinterest tracking ID. Editing each pin's link would fix it. Awaiting a go-ahead.
+
+**Part B Tier 1: done (9 fresh pins published, all tagged `?src=pinterest`):**
+kitchen counter (roll-up dish rack), garage (tool rail), laundry (lint bin), small bathroom (slim trash can),
+home office (under-desk drawer), kids' toy room (Lay-n-Go mat), entryway (doormat), small bedroom closet (double rod),
+linen closet (motion lights). Topics tags set at creation. Tier 2 and the Clarity list are not started.
+
+---
+
 **Why this exists.** Product-expansion batches 1-9 added verified products (usually 2, sometimes 1) and new
 sections to 36 Picks articles, and changed the numbered title on 23 of them. Live social copy was
 written before that. This list says exactly what is out of date and what new pins are worth making.
