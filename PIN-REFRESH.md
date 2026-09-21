@@ -24,10 +24,10 @@ pet, jewelry, craft | home-gym, under-bed, cleaning, under-sink, car-trunk | hol
 cord-cable. All link with `?src=pinterest`. Check `/lakeramw/scheduled-pins/`.
 - **Real board names differ from the Tier 2 entries below** (those names did not exist): wine -> "Wine & Bar Cart Organization",
   holiday -> "Holiday & Seasonal Decor Storage", cord-cable -> "Home Office Organization", junk-drawer -> "Drawer Organization".
-- **Two scheduled pins carry wrong topic tags** (Pinterest suggested them and the first version of my script accepted the top
-  suggestion): the compost bin pin (09/22 9 AM) is tagged "Computer" and the dog treat pouch pin (09/23 3 PM) is tagged
-  "Dog Tattoo". Scheduled pins cannot be edited for tags (edit page has title, description, link, board, section only).
-  Fix: delete and recreate both, or accept it. All other pins used exact-match tag lists.
+- **Two mis-tagged pins fixed (2026-09-21).** The compost bin pin was tagged "Computer" and the dog treat pouch pin "Dog Tattoo"
+  (my first script accepted Pinterest's top suggestion). Scheduled pins cannot be edited for tags, so both were deleted and
+  recreated in the same slots: compost bin (09/22 9 AM, tag "Composting", new ID 3877099375104857024) and dog treat pouch
+  (09/23 3 PM, tag "Dog Training Tips", new ID 3877105513821510656). Still 26 scheduled. All other pins used exact-match tag lists.
 
 ---
 
