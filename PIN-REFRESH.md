@@ -8,13 +8,26 @@
   03 Pin 2, 04 Pin 1, 04 Pin 2, 05 Pin 1, 05 Pin 2, 06 Pin 1, 06 Pin 2, 07 Pin 1, 07 Pin 2, 08 Pin 1, 09 Pin 1.
 - **Skipped:** batch 10 (linen closet). The live linen pins do not match the draft and carry no counts, so nothing to fix.
 - **6 Instagram captions edited** (leading count only: kitchen 11, entryway 6, garage/office/laundry/kids 7). Verified after reload.
-- **Tracking gap found (not changed):** the live pins for batches 02, 03 and 04 link to the article WITHOUT `?src=pinterest`,
-  so their clicks are not attributed to the Pinterest tracking ID. Editing each pin's link would fix it. Awaiting a go-ahead.
+- **Tracking gap (2026-09-21): 5 of 13 fixed.** 13 live pins in batches 02-04 linked to the article without `?src=pinterest`.
+  Link edited on pins 690658, 690699, 690710, 672289, 672267 (each edit shows a "Heads up" confirm: the pin's engagement
+  metrics reset). **8 still untagged: Pinterest returns 401 on the link edit** (684175, 684180, 684195, 672221, 672210,
+  671358, 671348, 671164; the bathroom, closet and pantry pins). Fix by hand in the Pinterest UI, or delete and recreate.
 
 **Part B Tier 1: done (9 fresh pins published, all tagged `?src=pinterest`):**
 kitchen counter (roll-up dish rack), garage (tool rail), laundry (lint bin), small bathroom (slim trash can),
 home office (under-desk drawer), kids' toy room (Lay-n-Go mat), entryway (doormat), small bedroom closet (double rod),
-linen closet (motion lights). Topics tags set at creation. Tier 2 and the Clarity list are not started.
+linen closet (motion lights). Topics tags set at creation. The Clarity list is not started.
+
+**Part B Tier 2: all 26 scheduled (2026-09-21).** 5 per day, from 09/21 9:00 AM to 09/26 9:00 AM (the last one).
+Order: refrigerator, spice, food-storage, freezer, coffee | recycling, wine, water-bottle, dorm, nursery | sock-drawer, makeup,
+pet, jewelry, craft | home-gym, under-bed, cleaning, under-sink, car-trunk | holiday, junk-drawer, shoe, board-game, bookshelf |
+cord-cable. All link with `?src=pinterest`. Check `/lakeramw/scheduled-pins/`.
+- **Real board names differ from the Tier 2 entries below** (those names did not exist): wine -> "Wine & Bar Cart Organization",
+  holiday -> "Holiday & Seasonal Decor Storage", cord-cable -> "Home Office Organization", junk-drawer -> "Drawer Organization".
+- **Two scheduled pins carry wrong topic tags** (Pinterest suggested them and the first version of my script accepted the top
+  suggestion): the compost bin pin (09/22 9 AM) is tagged "Computer" and the dog treat pouch pin (09/23 3 PM) is tagged
+  "Dog Tattoo". Scheduled pins cannot be edited for tags (edit page has title, description, link, board, section only).
+  Fix: delete and recreate both, or accept it. All other pins used exact-match tag lists.
 
 ---
 
