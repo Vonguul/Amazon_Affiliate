@@ -87,6 +87,16 @@ All 24 original Picks articles have Instagram feed coverage.
 12 of the 13 new articles from this week's research batches now have
 Instagram feed coverage too. 1 new article remains: baking-supplies-bakeware.
 
+## Status update (2026-09-22)
+
+| Article | Posted |
+|---|---|
+| baking-supplies-bakeware-organization-ideas.md | posted 2026-09-22 |
+| car-trunk-organization-ideas.md (2nd post, tire inflator angle) | posted 2026-09-22 |
+| spice-rack-organization-ideas.md (2nd post, uniform jars angle) | posted 2026-09-22 |
+
+All 37 Picks articles now have at least one Instagram feed post.
+
 **Upload method update (2026-09-13):** discovered Instagram's own "Create
 new post" dialog uses a real `<input type=file>` element (unlike Meta
 Business Suite's Story composer, which uses an unautomatable native file
