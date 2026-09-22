@@ -71,6 +71,9 @@ review before posting — real account, real followers, no undo on X.
 | recycling-trash-bin-organization-ideas.md | opinion | posted 2026-09-17 |
 | water-bottle-tumbler-organization-ideas.md | linked | posted 2026-09-17 |
 | bookshelf-home-library-organization-ideas.md | opinion | posted 2026-09-17 |
+| baking-supplies-bakeware-organization-ideas.md | opinion | posted 2026-09-22 |
+| car-trunk-organization-ideas.md (2nd post, tire inflator angle) | opinion | posted 2026-09-22 |
+| kitchen-counter-organization-ideas.md (2nd post, roll-up rack angle) | linked | posted 2026-09-22 |
 
 All 24 original Picks articles have X coverage (17 opinion, 7 linked).
 12 of the 13 new articles from this week's research batches now have X
