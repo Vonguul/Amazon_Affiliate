@@ -29,6 +29,19 @@ cord-cable. All link with `?src=pinterest`. Check `/lakeramw/scheduled-pins/`.
   recreated in the same slots: compost bin (09/22 9 AM, tag "Composting", new ID 3877099375104857024) and dog treat pouch
   (09/23 3 PM, tag "Dog Training Tips", new ID 3877105513821510656). Still 26 scheduled. All other pins used exact-match tag lists.
 
+**Tier 3: 3 fresh pins published (2026-09-22), part of a fill-round covering Threads/X/Pinterest/Instagram
+together (see `THREADS-POSTS.md`, `X-POSTS.md`, `INSTAGRAM-POSTS.md` for the matching posts on those platforms):**
+- **baking-supplies-bakeware-organization-ideas** (new article, first pin) — Board: Kitchen & Home Organization.
+  Tag: exact match found ("Baking Organization"). Link tagged `?src=pinterest`.
+- **car-trunk-organization-ideas** (2nd pin, tire inflator angle) — Board: Car & On-the-Go Organization.
+  No exact-match tag for "tire inflator"/"car emergency kit"; used "Car Care Tips" instead. Link tagged `?src=pinterest`.
+- **spice-rack-organization-ideas** (2nd pin, uniform jars angle) — Board: Spice Rack Organization.
+  Tag: exact match found ("Spice Storage"). Link tagged `?src=pinterest`.
+
+All published immediately (not scheduled). 20 of 23 Part-B-and-beyond fresh pins now done across both sites combined
+(see `vonguul-clarity/PIN-REFRESH.md` for that side's 20-of-23 count); the 8 still-untagged-link Picks pins from the
+2026-09-21 tracking gap remain open (401 on link edit — needs manual fix or delete/recreate).
+
 ---
 
 **Why this exists.** Product-expansion batches 1-9 added verified products (usually 2, sometimes 1) and new
