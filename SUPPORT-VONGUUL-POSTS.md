@@ -46,10 +46,24 @@ becomes useful/momentum").
 
 ## Asset
 
-Text-only branded card (no product photo needed): `support-card.html` in
-the scratchpad, same local-server render pipeline as `canvas-card.html`
-(1200×750, same save-server on port 8791). Params: `headline`, `subtext`,
-`brand`, `outname`. Reuse or regenerate per week's variant.
+Branded card: `support-card.html` in the scratchpad, same local-server
+render pipeline as `canvas-card.html` (1200×750, same save-server on port
+8791). Params: `headline`, `subtext`, `cta`, `outname`. Reuse or regenerate
+per week's variant.
+
+**Upgraded 2026-09-23** (per user request for better imagery): the card now
+uses real assets pulled from vonguul.com itself instead of a flat gradient —
+the homepage hero's sacred-geometry mandala background
+(`gemini-2.5-flash-image_Create_a_visually_pleasing_picture...jpg`, saved
+locally as `assets/hero-bg.jpg`) and the actual gold "VONGUUL" wordmark PNG
+(`assets/logo.png`, cropped in-canvas via a source rect to just the text
+band — the full asset is a very tall image with a decorative mark above the
+wordmark). This makes the weekly card visually on-brand with the site
+instead of a generic dark card. First rendered as `support-passing-2.png`.
+This upgrade is confirmed in for next week's post at minimum; whether the
+2026-09-22 post's original card (`support-passing-1.png`, flat gradient)
+gets swapped on the 4 already-live platforms is a separate call — ask the
+user before touching those live posts.
 
 ## Platform notes
 
