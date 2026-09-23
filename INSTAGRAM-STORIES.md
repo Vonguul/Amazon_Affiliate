@@ -69,6 +69,9 @@ movement framing first. This is the fix being tested for that funnel gap.
 | recycling-trash-bin-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 34 Story. Confirmed Instagram-only. |
 | water-bottle-tumbler-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 35 Story. Confirmed Instagram-only. |
 | bookshelf-home-library-organization-ideas.md | posted 2026-09-17 | "See full breakdown" | Batch 36 Story, last of this week's Picks batches. Confirmed Instagram-only. |
+| baking-supplies-bakeware-organization-ideas.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-baking.png`. Confirmed live via /stories/offbahr/, link sticker tappable. First attempt (before fixing process) used a new vertical no-link asset and was deleted/redone correctly — see "Process correction" note below. |
+| car-trunk-organization-ideas.md (2nd post, tire inflator angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-cartrunk2.png`. Confirmed Instagram-only, Original crop. |
+| spice-rack-organization-ideas.md (2nd post, uniform jars angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-spicerack2.png`. Confirmed Instagram-only, Original crop. |
 
 ## Checkbox gotcha (found 2026-09-10, confirmed 2026-09-12)
 
@@ -116,3 +119,16 @@ confirm only `offbahr` remains checked.
   posting for the board-game-puzzle-storage/recycling-trash-bin/
   water-bottle-tumbler/bookshelf-home-library batch to register any clicks
   yet. Re-check in a few days for that batch's signal.
+
+## Process correction (2026-09-22)
+
+A resumed session (after a multi-day gap, driven partly by the user relaying
+instructions from a native file-picker dialog it couldn't see) initially
+posted the baking/car-trunk/spice-rack batch as plain static images on a
+**new vertical 9:16 template**, with no link sticker at all — missing the
+entire point of VG-52. Caught before any real traffic accrued, all 3 were
+deleted and reposted correctly per the process above (existing 1200×750
+feed cards, Original crop, Link sticker with `?src=instagram` + "See full
+breakdown"). Lesson: always re-read this file's posting process before
+resuming Stories work in a new session — don't rebuild the workflow from
+memory or general Instagram/Meta Business Suite familiarity.
