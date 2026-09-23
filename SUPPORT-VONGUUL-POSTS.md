@@ -60,10 +60,16 @@ locally as `assets/hero-bg.jpg`) and the actual gold "VONGUUL" wordmark PNG
 band — the full asset is a very tall image with a decorative mark above the
 wordmark). This makes the weekly card visually on-brand with the site
 instead of a generic dark card. First rendered as `support-passing-2.png`.
-This upgrade is confirmed in for next week's post at minimum; whether the
-2026-09-22 post's original card (`support-passing-1.png`, flat gradient)
-gets swapped on the 4 already-live platforms is a separate call — ask the
-user before touching those live posts.
+
+**Retroactive swap done 2026-09-23**: per explicit user request, the
+2026-09-22 post's original card (`support-passing-1.png`, flat gradient) was
+replaced with `support-passing-2.png` on all 4 already-live platforms —
+same caption/text on each, only the image changed. Mechanism: none of these
+platforms allow swapping media on a published post (Instagram's "Edit info"
+only touches caption/location/tags; Threads, X, and TikTok have no media-edit
+option at all), so each was **deleted and reposted** with the new image and
+the original caption pulled from the live post before deleting it. See the
+gotcha below on the delete-confirmation-dialog trap this surfaced.
 
 ## Platform notes
 
@@ -104,12 +110,32 @@ user before touching those live posts.
 - **X's composer sometimes doesn't receive the first `type()` call after
   page load** (same intermittent issue documented in `X-POSTS.md`) — a
   second attempt via fresh `find` + click always worked.
+- **None of the 4 platforms allow swapping media on a live post** — confirmed
+  2026-09-23 while replacing the first post's image. Instagram's "Edit info"
+  only exposes caption/location/collaborators/AI-label/accessibility, no
+  photo change. Threads, X, and TikTok have no edit-media option in their
+  "..." menus at all. The only path is delete + repost with the original
+  caption preserved (grab the exact text from the live post before deleting).
+- **Threads' delete needs an explicit confirm click** — the "..." → Delete
+  menu item does NOT delete immediately; it opens a second "Delete post?"
+  dialog with its own Delete/Cancel buttons. Clicking only the menu item and
+  moving on (as happened once during the 2026-09-23 swap) leaves the post
+  live — it just closes the menu. Always screenshot/verify after clicking
+  Delete to confirm the confirmation dialog actually appeared and was
+  confirmed, not just that the menu closed.
+- **TikTok Studio's screenshot/zoom calls can time out** ("renderer
+  busy/frozen") right after a menu click or while a confirm dialog is
+  animating in — this is a rendering hiccup, not a stuck page. `get_page_text`
+  kept working through it and is the reliable way to read the actual state
+  (e.g. confirming a "Delete post?" dialog is present) when `screenshot`
+  times out; retry `screenshot` after a short wait once the DOM read confirms
+  what's on screen.
 
 ## Status
 
 | Week of | Angle | Platforms | Notes |
 |---|---|---|---|
-| 2026-09-22 | "Support in Passing" — the affiliate-link mechanism as low-effort support, contrasted with take-only businesses, tied to Vonguul's stated plan/resources need, softened toward belief-affirming language, closes with a comment/DM invite for missing products | Instagram feed, Threads, X, TikTok (with sound: "Epic Cinematic Inspirational" by Alex Chernykh) | First post of this recurring series. All 4 confirmed live. Went through 3 rounds of tone editing with the user before lock-in (see tone calibration note above) — this history matters for future variants, don't re-litigate from scratch. |
+| 2026-09-22 | "Support in Passing" — the affiliate-link mechanism as low-effort support, contrasted with take-only businesses, tied to Vonguul's stated plan/resources need, softened toward belief-affirming language, closes with a comment/DM invite for missing products | Instagram feed, Threads, X, TikTok (with sound: "Epic Cinematic Inspirational" by Alex Chernykh) | First post of this recurring series. All 4 confirmed live. Went through 3 rounds of tone editing with the user before lock-in (see tone calibration note above) — this history matters for future variants, don't re-litigate from scratch. **Image swapped 2026-09-23** on all 4 platforms from `support-passing-1.png` (flat gradient) to `support-passing-2.png` (real vonguul.com mandala background + gold wordmark) — same captions, delete+repost on each since none of the platforms allow media edits on a live post. Re-verified live on all 4 after the swap. |
 
 ## How to apply for the next week's post
 
