@@ -72,6 +72,9 @@ movement framing first. This is the fix being tested for that funnel gap.
 | baking-supplies-bakeware-organization-ideas.md | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-baking.png`. Confirmed live via /stories/offbahr/, link sticker tappable. First attempt (before fixing process) used a new vertical no-link asset and was deleted/redone correctly — see "Process correction" note below. |
 | car-trunk-organization-ideas.md (2nd post, tire inflator angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-cartrunk2.png`. Confirmed Instagram-only, Original crop. |
 | spice-rack-organization-ideas.md (2nd post, uniform jars angle) | posted 2026-09-22 | "See full breakdown" | Reused `ig-card-spicerack2.png`. Confirmed Instagram-only, Original crop. |
+| cleaning-supplies-closet-organization-ideas.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-cleaning.png`. Confirmed Instagram-only, Original crop, live via /stories/offbahr/. |
+| cord-cable-management-ideas.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-cordcable.png`. Confirmed Instagram-only, Original crop. |
+| dorm-room-organization-ideas.md | posted 2026-09-23 | "See full breakdown" | Reused `ig-card-dorm.png`. Confirmed Instagram-only, Original crop. |
 
 ## Checkbox gotcha (found 2026-09-10, confirmed 2026-09-12)
 
