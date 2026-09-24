@@ -8,21 +8,18 @@ direct — not neutral marketing copy, not the movement/reciprocity framing.
 
 ## Tracking ID status
 
-X does not have a dedicated Amazon Associates tracking ID, and per decision
-(2026-09-08) it isn't getting one for now — registering `vgpicksx-20` via
-Associates Central failed 5+ times across two sessions with "Error occurred
-while creating tracking id. Please try again later." (consistent server-side
-error, not a validation issue). Rather than keep retrying, links posted to
-X use each site's **default** tag (`vonguul-20` for Picks, no `?src=` param)
-going forward, indefinitely — this is the settled approach, not a temporary
-placeholder.
+**Fixed 2026-09-24.** The prior server-side creation errors (2026-09-08,
+5+ failed attempts) turned out to be transient — `vgpickx-20` was
+successfully registered in Associates Central this session, and `TAG_MAP` in
+`src/layouts/BaseLayout.astro` now maps `x → vgpickx-20`. Every future
+**linked** X post must append `?src=x` to the article URL (e.g.
+`https://vonguul-picks.vercel.app/articles/<slug>/?src=x`) for the tag swap
+to fire — opinion posts with no link don't need it.
 
-**If a tracking ID ever does get created** (e.g. the user registers it
-manually on Amazon's side and asks to wire it up): add `x: 'vgpicksx-20'` to
-`TAG_MAP` in `src/layouts/BaseLayout.astro` (mirrors the pinterest/reddit/
-instagram entries already there), update this file, and use `?src=x` on
-links in new posts from that point on. Don't attempt this unprompted — the
-user closed this out; only revisit if they raise it again.
+Per the project's established pattern (tags aren't retroactively editable —
+see [[pinterest-threads-tags-not-retroactively-editable]]), the prior linked
+posts in the table below (posted before this fix) used the default
+`vonguul-20` tag and are left as-is; this fix applies going forward only.
 
 ## Format
 
