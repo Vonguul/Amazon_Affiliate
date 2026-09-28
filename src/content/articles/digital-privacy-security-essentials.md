@@ -1,6 +1,6 @@
 ---
-title: "5 Digital Privacy Tools That Actually Protect You (Not Just Feel Like They Do)"
-description: "Real fixes for specific, documented risks — a genuine RFID-blocking wallet, a webcam cover, a Faraday bag that actually blocks signal, a hardware security key that stops phishing, and an RF/AirTag detector for hotels and rentals."
+title: "6 Digital Privacy Tools That Actually Protect You (Not Just Feel Like They Do)"
+description: "Real fixes for specific, documented risks — a genuine RFID-blocking wallet, a webcam cover, a Faraday bag that actually blocks signal, a hardware security key that stops phishing, an RF/AirTag detector for hotels and rentals, and a USB data blocker for public charging ports."
 pubDate: 2026-09-23
 heroImage: "/images/products/buffway-rfid-wallet-1.jpg"
 category: "Digital Privacy & Security"
@@ -31,6 +31,10 @@ products:
     asin: "B0FCCVZTY2"
     image: "/images/products/spyfinder-rf-detector-1.jpg"
     note: "Handheld RF and Bluetooth scanner built for the actual use case: a quick sweep of a hotel room, Airbnb, or rental car for hidden cameras and trackers you didn't put there. Not a substitute for a security audit — a fast, practical first check."
+  - name: "BUISAMG USB Data Blocker, 6-Pack (USB-A and USB-C)"
+    asin: "B0CRDVDYCR"
+    image: "/images/products/buisamg-usb-data-blocker-1.jpg"
+    note: "Public USB charging ports — airports, hotels, rental cars — can carry data as well as power, which is the actual mechanism behind 'juice jacking.' This adapter physically breaks the data pins so the port can only charge, not read or write anything. 4.6 stars across roughly 490 reviews; a handful of reviews mention slower charging speeds through it, which is the expected tradeoff for a device that's deliberately not passing a full connection."
 ---
 
 Most "privacy gadget" advice online skips the part where it explains what the product actually stops. Every item below is matched to a specific, documented risk — card skimming, a camera left active without you knowing, signal tracking, phishing, and a planted tracker — rather than a vague sense of being watched.
