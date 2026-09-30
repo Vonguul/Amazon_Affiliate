@@ -95,6 +95,7 @@ Instagram feed coverage too. 1 new article remains: baking-supplies-bakeware.
 | car-trunk-organization-ideas.md (2nd post, tire inflator angle) | posted 2026-09-22 |
 | spice-rack-organization-ideas.md (2nd post, uniform jars angle) | posted 2026-09-22 |
 | digital-privacy-security-essentials.md | posted 2026-09-24 |
+| gift-ideas-for-people-who-love-organizing.md (3-product collage card, PIL-rendered; caption names the site since the bio links to vonguul.com/support) | posted 2026-09-30 |
 
 All 37 Picks articles now have at least one Instagram feed post.
 

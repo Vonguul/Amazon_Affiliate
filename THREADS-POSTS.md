@@ -36,6 +36,7 @@ no undo. Set the "Community or topic" field to a relevant topic (e.g.
 | refrigerator-organization-ideas.md | opinion | posted 2026-09-22 |
 | baking-supplies-bakeware-organization-ideas.md | linked | posted 2026-09-22 |
 | spice-rack-organization-ideas.md | opinion | posted 2026-09-22 |
+| gift-ideas-for-people-who-love-organizing.md | linked (`?src=threads`), topic "gift ideas" | posted 2026-09-30 |
 
 First 3 Threads posts for Picks. 34 articles remain uncovered on this
 platform.
