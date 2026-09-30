@@ -48,7 +48,7 @@ products:
   - name: "Cesun Slim Bathroom Trash Can, 1.6 Gallon"
     asin: "B09MTG329N"
     image: "/images/products/cesun-slim-bathroom-trash-can-1.jpg"
-    note: "Where the bin goes matters as much as the size. This one is about 5.9 inches wide, with a step pedal and soft-close lid, so it fits into the gap between a toilet and a wall. The inner bucket lifts out to empty. It costs about $30, which is a lot for a bin, and it has more than 9,000 reviews at 4.5 stars."
+    note: "Where the bin goes matters as much as the size. This one is about 5.9 inches wide, with a step pedal and soft-close lid, so it fits into the gap between a toilet and a wall. The inner bucket lifts out to empty. It costs more than a basic bin, and it has more than 9,000 reviews at 4.5 stars."
 ---
 
 Small bathrooms lose usable storage to three spots almost every time: the cabinet under the sink (wasted to plumbing and clutter), the wall above the toilet (usually just... blank wall), and the shower itself (bottles balanced on the tub edge). None of these need a renovation to fix — they need the right small, install-in-minutes product.

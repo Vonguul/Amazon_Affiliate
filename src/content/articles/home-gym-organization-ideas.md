@@ -32,7 +32,7 @@ products:
   - name: "BowFlex SelectTech 840 Adjustable Kettlebell"
     asin: "B07X64MXBS"
     image: "/images/products/bowflex-840-kettlebell-1.jpg"
-    note: "The most space-efficient storage is owning less. One dial-adjustable kettlebell covers 8 to 40 lb, which BowFlex says replaces six fixed kettlebells. It costs $149, so it makes sense when you'd otherwise buy several weights, and less so if you already own a set."
+    note: "The most space-efficient storage is owning less. One dial-adjustable kettlebell covers 8 to 40 lb, which BowFlex says replaces six fixed kettlebells. It's a real expense, so it makes sense when you'd otherwise buy several weights, and less so if you already own a set."
 ---
 
 A home gym rarely gets its own room. It's a corner of a bedroom, a slice of the garage, or a patch of living room floor that has to reset back into normal life between workouts, and the equipment that makes that possible is exactly the kind that resists being put away — dumbbells that roll, bands that tangle, mats that won't stay rolled. The six fixes below are built around getting everything off the floor and onto a wall or a rack, so the space can go back to being a bedroom or a living room in the time it takes to walk away.

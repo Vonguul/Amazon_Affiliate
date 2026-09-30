@@ -32,7 +32,7 @@ products:
   - name: "FoodSaver Compact Vacuum Sealer with Bags and Roll"
     asin: "B08BDHZ1PV"
     image: "/images/products/foodsaver-compact-sealer-1.jpg"
-    note: "The fix for freezer burn, which is caused by air, not time. FoodSaver says it keeps food fresh in the freezer up to five times longer. It's the most expensive item here at $69.99, and it carries an ongoing bag cost, so it earns its place mainly if you buy meat in bulk or freeze a lot of leftovers."
+    note: "The fix for freezer burn, which is caused by air, not time. FoodSaver says it keeps food fresh in the freezer up to five times longer. It's the most expensive item here, and it carries an ongoing bag cost, so it earns its place mainly if you buy meat in bulk or freeze a lot of leftovers."
 ---
 
 A freezer gets disorganized differently depending on which kind it is — a chest freezer buries things under their own depth, while an upright freezer lets things slide and tip on open shelves. Both end in the same place (frozen mystery bags, food that expired without anyone noticing), but the actual fix depends on which failure mode you're dealing with.

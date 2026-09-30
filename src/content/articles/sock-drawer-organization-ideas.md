@@ -28,7 +28,7 @@ products:
   - name: "BoxLegend V3 Shirt Folder Board"
     asin: "B077XV9VZG"
     image: "/images/products/boxlegend-shirt-folder-1.jpg"
-    note: "Dividers help only if shirts are folded to a size that fits. This plastic board folds a T-shirt into the same rectangle every time, which makes uniform stacks that stand on edge in a drawer. It costs about $15 and has over 35,000 reviews at 4.6 stars."
+    note: "Dividers help only if shirts are folded to a size that fits. This plastic board folds a T-shirt into the same rectangle every time, which makes uniform stacks that stand on edge in a drawer. It's inexpensive and has over 35,000 reviews at 4.6 stars."
   - name: "Glomen Non-Slip Drawer and Shelf Liner, 12 in x 10 ft"
     asin: "B091P2B16W"
     image: "/images/products/glomen-drawer-liner-1.jpg"

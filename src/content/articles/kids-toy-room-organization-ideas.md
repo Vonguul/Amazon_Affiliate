@@ -32,11 +32,11 @@ products:
   - name: "Lay-n-Go 18-Inch Drawstring Play Mat and Toy Organizer"
     asin: "B007JT7GKW"
     image: "/images/products/laynago-toy-mat-1.jpg"
-    note: "A play mat that turns into the storage bag. Spread the mat flat with a raised edge to play on, then pull the drawstring and the toys close up inside it. It has a mesh pocket for small pieces and straps to carry it, and it's machine washable. This is the 18-inch size at about $20, and the brand also sells larger mats."
+    note: "A play mat that turns into the storage bag. Spread the mat flat with a raised edge to play on, then pull the drawstring and the toys close up inside it. It has a mesh pocket for small pieces and straps to carry it, and it's machine washable. This is the 18-inch size, and the brand also sells larger mats."
   - name: "JARLINK Over-the-Door Toy Organizer, 5 Shelves"
     asin: "B0DZWXG5XL"
     image: "/images/products/jarlink-over-door-toy-organizer-1.jpg"
-    note: "A door is empty vertical space in every kid's room. This fabric organizer hangs over the top of a door and has five shelf bins with a clear window. It's 57.8 inches tall, holds about 44 lbs, and costs about $13. The fabric is soft, so it suits small light toys and stuffed animals and not heavy blocks."
+    note: "A door is empty vertical space in every kid's room. This fabric organizer hangs over the top of a door and has five shelf bins with a clear window. It's 57.8 inches tall and holds about 44 lbs. The fabric is soft, so it suits small light toys and stuffed animals and not heavy blocks."
 ---
 
 A toy room only stays organized if the system works for the kid using it, not just for whoever set it up. That means fewer "correct" places for every item and more big, forgiving categories a young kid can actually manage without adult help every time.

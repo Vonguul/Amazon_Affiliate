@@ -28,7 +28,7 @@ products:
   - name: "HBlife Clear Acrylic Makeup Compact Organizer, 8 Spaces"
     asin: "B07C3VTMHF"
     image: "/images/products/hblife-acrylic-makeup-compact-organizer-1.jpg"
-    note: "Eyeshadow palettes and compacts stacked flat hide everything under the top one. This stand has eight narrow slots that hold them on edge, so every palette is visible from the front. It measures about 10 by 3.5 inches, holds thin items, and costs under $8."
+    note: "Eyeshadow palettes and compacts stacked flat hide everything under the top one. This stand has eight narrow slots that hold them on edge, so every palette is visible from the front. It measures about 10 by 3.5 inches, holds thin items, and is one of the cheapest items here."
   - name: "Relavel Travel Makeup Train Case with Adjustable Dividers"
     asin: "B072B94GXN"
     image: "/images/products/relavel-makeup-train-case-1.jpg"

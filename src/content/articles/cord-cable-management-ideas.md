@@ -32,7 +32,7 @@ products:
   - name: "Delamu TV Cord Hider for 3-4 Wires"
     asin: "B07GPDT7PQ"
     image: "/images/products/delamu-tv-cord-hider-1.jpg"
-    note: "For a wall-mounted TV, where the cords hang down the wall in plain view. This adhesive raceway snaps over three or four wires and runs from the TV to the outlet or media console. It's cuttable to length and paintable to match the wall, and it costs about $10."
+    note: "For a wall-mounted TV, where the cords hang down the wall in plain view. This adhesive raceway snaps over three or four wires and runs from the TV to the outlet or media console. It's cuttable to length, paintable to match the wall, and one of the cheapest items here."
   - name: "Wrap-It Cable Labels, 30-Pack"
     asin: "B08HR4RLFS"
     image: "/images/products/wrapit-cable-labels-1.jpg"

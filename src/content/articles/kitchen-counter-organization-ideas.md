@@ -48,11 +48,11 @@ products:
   - name: "Sevenblue 2-Tier Fruit Basket with Banana Hangers"
     asin: "B0DBQKKMHM"
     image: "/images/products/sevenblue-2tier-fruit-basket-1.jpg"
-    note: "Fruit spread across a counter in bags and bowls takes more room than fruit stacked upward. This two-tier metal basket has removable banana hangers and protective mats for small fruit like grapes. It sets up without tools and costs about $15."
+    note: "Fruit spread across a counter in bags and bowls takes more room than fruit stacked upward. This two-tier metal basket has removable banana hangers and protective mats for small fruit like grapes. It sets up without tools."
   - name: "Seropy Roll-Up Over-Sink Dish Drying Rack"
     asin: "B09NY7S1DH"
     image: "/images/products/seropy-roll-up-drying-rack-1.jpg"
-    note: "The most counter-friendly rack is one that isn't on the counter. This stainless-steel roll-up mat sits across the sink, drains straight into it, and rolls up when the dishes are put away. It's about 17.5 by 11.8 inches and costs about $7.50 with nearly 40,000 reviews at 4.6 stars, but it needs a sink wide enough to hold it."
+    note: "The most counter-friendly rack is one that isn't on the counter. This stainless-steel roll-up mat sits across the sink, drains straight into it, and rolls up when the dishes are put away. It's about 17.5 by 11.8 inches and is one of the cheapest items here, with nearly 40,000 reviews at 4.6 stars, but it needs a sink wide enough to hold it."
 ---
 
 Kitchen counters lose usable space to the same few culprits over and over: a paper towel roll taking up prime counter real estate, cutting boards and pot lids propped against the backsplash because there's nowhere else for them to go, and a coffee station that expands a little more every time a new syrup or pod flavor gets added.

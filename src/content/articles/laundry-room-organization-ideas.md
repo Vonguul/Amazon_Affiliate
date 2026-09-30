@@ -32,7 +32,7 @@ products:
   - name: "GOGOODA Mesh Laundry Bags for Delicates, 7-Piece Set"
     asin: "B075YV41GQ"
     image: "/images/products/gogooda-mesh-laundry-bags-1.jpg"
-    note: "Sorting isn't only by color: bras, tights, and knits need protection in the machine. This set has bags in five sizes plus two bra bags, with zippers that lock, so a delicate load is sorted before it's washed. It costs about $10 and has more than 48,000 reviews at 4.7 stars."
+    note: "Sorting isn't only by color: bras, tights, and knits need protection in the machine. This set has bags in five sizes plus two bra bags, with zippers that lock, so a delicate load is sorted before it's washed. It's inexpensive and has more than 48,000 reviews at 4.7 stars."
   - name: "Picowe Magnetic Lint Bin"
     asin: "B088FQ7YMP"
     image: "/images/products/picowe-magnetic-lint-bin-1.jpg"

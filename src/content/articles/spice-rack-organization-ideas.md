@@ -32,7 +32,7 @@ products:
   - name: "432-Piece Preprinted Spice Jar Labels"
     asin: "B0CB8JVZ6X"
     image: "/images/products/spice-labels-432-1.jpg"
-    note: "The cheapest change on this page. 12 sheets of black round labels, 378 of them preprinted with common spice names and 54 blank for the ones that aren't, so a jar is identified from the top or the side without opening it. At $5.97, it's worth doing before any of the more expensive fixes."
+    note: "The cheapest change on this page. 12 sheets of black round labels, 378 of them preprinted with common spice names and 54 blank for the ones that aren't, so a jar is identified from the top or the side without opening it. It costs less than anything else here, so it's worth doing before any of the more expensive fixes."
 ---
 
 A spice cabinet rarely starts out chaotic — it starts as a handful of jars from whatever store was closest, in whatever size they came in, stacked wherever there was room. The shapes never match, half of them get buried behind the other half, and finding one specific spice means pulling out several others first. The six fixes below solve that with actual structure instead of another shelf to lose things on.

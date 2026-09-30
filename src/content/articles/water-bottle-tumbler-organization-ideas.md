@@ -32,7 +32,7 @@ products:
   - name: "Holikme Bottle Brush Cleaning Set with Long Handle"
     asin: "B086D7SX8K"
     image: "/images/products/holikme-bottle-brush-set-1.jpg"
-    note: "Bottles and tumblers get shoved to the back of a cabinet when they're annoying to clean. This set includes brushes of several lengths, from thin straw cleaners to a 16-inch long-handle bottle brush, so the bottom of a tall bottle and the inside of a straw are both reachable. It costs about $9 and has more than 37,000 reviews at 4.6 stars."
+    note: "Bottles and tumblers get shoved to the back of a cabinet when they're annoying to clean. This set includes brushes of several lengths, from thin straw cleaners to a 16-inch long-handle bottle brush, so the bottom of a tall bottle and the inside of a straw are both reachable. It's inexpensive and has more than 37,000 reviews at 4.6 stars."
 ---
 
 The cabinet that won't close is almost never actually short on space — it's short on structure. A dozen water bottles and tumblers stacked loose take up far more room than the same dozen standing upright in individual slots, and the lids and straws that come off them scatter to wherever there's room, usually a totally different drawer.

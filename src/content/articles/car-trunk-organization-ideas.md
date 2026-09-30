@@ -28,11 +28,11 @@ products:
   - name: "HOTOR Leakproof Car Trash Can, 2 Gallon"
     asin: "B07VGRVKSN"
     image: "/images/products/hotor-car-trash-can-1.jpg"
-    note: "The one item here that lives in the cabin, not the trunk. A collapsible 2-gallon bin with a leakproof lining, an adjustable strap that hangs from a front or rear seat, and magnetic snaps for holding a spare bag. It ends the loose wrapper pile on the floor for about ten dollars."
+    note: "The one item here that lives in the cabin, not the trunk. A collapsible 2-gallon bin with a leakproof lining, an adjustable strap that hangs from a front or rear seat, and magnetic snaps for holding a spare bag. It ends the loose wrapper pile on the floor for very little money."
   - name: "AstroAI AIRUN H Portable Tire Inflator, 12V"
     asin: "B07QR4Q42L"
     image: "/images/products/astroai-airun-tire-inflator-1.jpg"
-    note: "A low tire is one of the most likely reasons to open a trunk kit, and kit contents vary, so a dedicated inflator with a gauge is worth having on its own. This one plugs into the car's 12V outlet with a 9.8-foot cord, has a digital gauge with auto shut-off and a built-in LED light, and comes with nozzles for balls and bikes. It costs about $30 and has over 106,000 reviews at 4.5 stars. It adds air to a slow leak; it doesn't fix a puncture."
+    note: "A low tire is one of the most likely reasons to open a trunk kit, and kit contents vary, so a dedicated inflator with a gauge is worth having on its own. This one plugs into the car's 12V outlet with a 9.8-foot cord, has a digital gauge with auto shut-off and a built-in LED light, and comes with nozzles for balls and bikes. It has over 106,000 reviews at 4.5 stars. It adds air to a slow leak; it doesn't fix a puncture."
 ---
 
 A trunk holds three genuinely different categories of stuff — everyday loose items, groceries that need to stay cold on the way home, and emergency gear you hope to never need — and most trunk clutter comes from treating all three the same way instead of giving each one its own dedicated spot.

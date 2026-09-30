@@ -28,7 +28,7 @@ products:
   - name: "IRIS USA Under Bed Storage Bins with Sliding Drawers, 27 Qt (4-Pack)"
     asin: "B074V2CD35"
     image: "/images/products/iris-underbed-drawers-1.jpg"
-    note: "A drawer format instead of a lift-off lid: the bin slides out from under the bed on its own track, so you don't have to move or stack anything to reach it. Each is about 6 inches tall and holds around 27 quarts, so it suits folded clothes, shoes, and linens. It is sold as a four-pack at around $117, so it is the priciest option here."
+    note: "A drawer format instead of a lift-off lid: the bin slides out from under the bed on its own track, so you don't have to move or stack anything to reach it. Each is about 6 inches tall and holds around 27 quarts, so it suits folded clothes, shoes, and linens. It is sold as a four-pack, which makes it the priciest option here."
   - name: "Sterilite Wheeled Latching Box, 56 Qt (4-Pack)"
     asin: "B01MRZE720"
     image: "/images/products/sterilite-wheeled-latch-box-1.jpg"

@@ -32,11 +32,11 @@ products:
   - name: "Rubbermaid FastTrack Garage Tool Hanging Kit"
     asin: "B077TM47TL"
     image: "/images/products/rubbermaid-fasttrack-tool-kit-1.jpg"
-    note: "A pegboard handles small hand tools, but rakes, shovels, and brooms need a rail. This kit has two 32-inch steel rails, a utility hook, a two-handle hook, a power tool holder, and a multi-purpose hook. Rubbermaid rates the locking hooks at 50 lbs. It costs about $66, and the rail system is expandable if you want to add more hooks later."
+    note: "A pegboard handles small hand tools, but rakes, shovels, and brooms need a rail. This kit has two 32-inch steel rails, a utility hook, a two-handle hook, a power tool holder, and a multi-purpose hook. Rubbermaid rates the locking hooks at 50 lbs. The rail system is expandable if you want to add more hooks later."
   - name: "8-Tier Detachable Wall-Mounted Ball Rack, Holds 14 Balls"
     asin: "B0BQC1J556"
     image: "/images/products/garage-ball-rack-8tier-1.jpg"
-    note: "Balls roll and end up in a bin, a corner, and under the car. This metal rack mounts on the wall vertically or horizontally, has hooks of three sizes for basketballs, soccer balls, and footballs, and a basket for the small ones. It's a generic brand at $30 with about 320 reviews at 4.5 stars, so it's a budget pick."
+    note: "Balls roll and end up in a bin, a corner, and under the car. This metal rack mounts on the wall vertically or horizontally, has hooks of three sizes for basketballs, soccer balls, and footballs, and a basket for the small ones. It's a generic brand with about 320 reviews at 4.5 stars, so treat it as a budget pick."
 ---
 
 A garage almost always has plenty of storage capacity — the problem is that nearly all of it is on the floor, which is also the only space actually needed for parking a car or moving around. The fix is the same in every case: use the walls and the ceiling, and give the floor back.
