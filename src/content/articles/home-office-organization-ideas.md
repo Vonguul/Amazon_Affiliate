@@ -2,6 +2,7 @@
 title: "7 Home Office Organization Ideas for a Desk That Actually Works"
 description: "Real products for the desk clutter that builds up daily — cables, paper, drawers, the floor space under the desk, a label maker, and a slide-out drawer under the desktop."
 pubDate: 2026-09-02
+updatedDate: 2026-09-30
 heroImage: "/images/products/gianotter-monitor-stand-1.jpg"
 category: "Home Office Organization"
 keywords:
@@ -29,10 +30,10 @@ products:
     asin: "B0DP4ZW2YH"
     image: "/images/products/sbanmao-rolling-filecart-1.jpg"
     note: "For anything that doesn't fit on the desk at all — active files and documents get a real home instead of stacking on the floor or a nearby chair, and it rolls out of the way when not needed."
-  - name: "Brother P-touch PT-D210 Label Maker"
-    asin: "B013DG2FNW"
-    image: "/images/products/brother-ptouch-d210-label-maker-1.jpg"
-    note: "An organizing system only holds if things are labeled. This handheld prints up to two lines on tape up to 12 mm wide, with 14 fonts, 97 frames, and over 600 symbols. It has 29,000 reviews at 4.7 stars. It costs about $59, which is the priciest item here, so it's worth it if you'll label more than one drawer."
+  - name: "Brother P-touch PT-D210 Label Maker Bundle (4 Tapes Included)"
+    asin: "B09QXZ7ZRD"
+    image: "/images/products/brother-ptouch-d210-bundle-1.jpg"
+    note: "An organizing system only holds if things are labeled. This handheld prints up to two lines on tape up to 12 mm wide, with 14 fonts, 97 frames, and over 600 symbols. This listing is the bundle with four tapes included, sold and shipped by Amazon, so there's nothing extra to buy before the first label. It's the priciest item here, so it's worth it if you'll label more than one drawer."
   - name: "Bostitch Konnect Under Desk Drawer, 2-Pack"
     asin: "B0CJCLRXBK"
     image: "/images/products/bostitch-under-desk-drawer-1.jpg"
