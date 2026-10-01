@@ -35,6 +35,6 @@
 
 ## Status
 - [x] Pin images sourced — product shots from `public/images/products/`
-- [ ] Article approved and deployed
-- [ ] Board created in Pinterest ("Indoor Gardening" board — new, on the Picks account @lakeramw; confirm logged-in account before posting)
-- [ ] Pins posted
+- [x] Article approved and deployed (2026-10-01)
+- [x] Board created in Pinterest ("Indoor Gardening", public, on @lakeramw — account confirmed before posting)
+- [x] Pins posted (2026-10-01) — all 3 verified linking with `?src=pinterest`. Tags: Indoor Garden (pins 1-2), Hydroponics (pin 3)
