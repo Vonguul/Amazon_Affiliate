@@ -18,7 +18,7 @@ products:
   - name: "Spigen Ultra Hybrid MagFit for iPhone 15 Pro Max"
     asin: "B0C5S9JVJR"
     image: "/images/products/spigen-ultra-hybrid-magfit-15pm-1.jpg"
-    note: "Clear back so the phone's color shows, with a magnet ring built in for MagSafe. Raised edges around the screen and cameras, and air-cushioned corners. Sold by Spigen."
+    note: "A hard see-through back with a magnet ring built in for MagSafe. This listing is the 'Zero One' design, printed to look like the inside of the phone, so it's a styled take on a clear case. Raised edges around the screen and cameras, and air-cushioned corners. Sold by Spigen."
   - name: "ESR Classic Hybrid for iPhone 15 Pro Max (Clear)"
     asin: "B0CC1F4V7Q"
     image: "/images/products/esr-classic-hybrid-15pm-1.jpg"
@@ -63,7 +63,7 @@ The Spigen Tough Armor MagFit is the default recommendation: a hard shell over a
 
 ## Clear
 
-Clear cases show off the phone's color, and both clear picks here have magnets. The ESR Classic Hybrid is the most reviewed and uses an anti-yellowing coating. Clear cases still yellow over time to some degree, but coated ones hold up longer. The Spigen Ultra Hybrid MagFit is the alternative from the brand behind the top all-round pick.
+Clear cases show off the phone's color, and both clear picks here have magnets. The ESR Classic Hybrid is the most reviewed and uses an anti-yellowing coating. Clear cases still yellow over time to some degree, but coated ones hold up longer. The Spigen Ultra Hybrid MagFit is the alternative from the brand behind the top all-round pick; the version linked here is the 'Zero One' design, a see-through back printed to look like the phone's internals.
 
 ## Slim
 
