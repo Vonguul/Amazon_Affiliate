@@ -37,6 +37,8 @@ no undo. Set the "Community or topic" field to a relevant topic (e.g.
 | baking-supplies-bakeware-organization-ideas.md | linked | posted 2026-09-22 |
 | spice-rack-organization-ideas.md | opinion | posted 2026-09-22 |
 | gift-ideas-for-people-who-love-organizing.md | linked (`?src=threads`), topic "gift ideas" | posted 2026-09-30 |
+| indoor-growing-systems-guide.md | linked (`?src=threads`), topic "gardening" | posted 2026-10-04 |
+| iphone-15-pro-max-cases.md | linked (`?src=threads`), topic "iPhone" | posted 2026-10-04 |
 
 First 3 Threads posts for Picks. 34 articles remain uncovered on this
 platform.

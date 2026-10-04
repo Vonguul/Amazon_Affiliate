@@ -72,6 +72,10 @@ review before posting — real account, real followers, no undo on X.
 | car-trunk-organization-ideas.md (2nd post, tire inflator angle) | opinion | posted 2026-09-22 |
 | kitchen-counter-organization-ideas.md (2nd post, roll-up rack angle) | linked | posted 2026-09-22 |
 | gift-ideas-for-people-who-love-organizing.md | linked (`?src=x`) | posted 2026-09-30 |
+| indoor-growing-systems-guide.md | linked (`?src=x`) | posted 2026-10-04 |
+| iphone-15-pro-max-cases.md | linked (`?src=x`) | posted 2026-10-04 |
+
+**Check the signed-in X account before every post.** This browser also holds @RedVbox and @GoatDragon74256; on 2026-10-04 a post was nearly sent from the wrong one. Confirm the account switcher shows @OffbahrV in the same step as clicking Post.
 
 All 24 original Picks articles have X coverage (17 opinion, 7 linked).
 12 of the 13 new articles from this week's research batches now have X
