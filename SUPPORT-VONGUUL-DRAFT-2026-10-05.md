@@ -1,4 +1,4 @@
-# Support Vonguul — week of 2026-10-05 — DRAFT for approval (not posted)
+# Support Vonguul — week of 2026-10-05 — POSTED 2026-10-05 as drafted (all 4 platforms)
 
 **Angle (approved by the user 2026-10-04):** "It worked" — the first purchases through Vonguul links came in
 this week, as proof that Support in Passing is real. No dollar amounts and no order counts are stated.
