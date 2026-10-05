@@ -43,6 +43,7 @@ field or clicking Post.
 | baking-supplies-bakeware-organization-ideas.md | "The Baking Cabinet Organizer Nobody Tells You to Buy" | posted 2026-09-22 |
 | car-trunk-organization-ideas.md (2nd post, tire inflator angle) | "A Tire Inflator That Lives in Your Trunk for Emergencies" | posted 2026-09-22 |
 | spice-rack-organization-ideas.md (2nd post, uniform jars angle) | "Why Matching Spice Jars Actually Save You Time" | posted 2026-09-22 |
+| winter-gear-storage-ideas.md | "Wet boots by the door are still wet in the morning. Fix that." (sound: "Floating Dreams (Lofi)") | posted 2026-10-05, confirmed "Everyone" |
 
 First 3 TikTok Photo Mode posts for Picks. 34 articles remain uncovered on
 this platform (same backlog size as Threads' first-batch note, since TikTok
