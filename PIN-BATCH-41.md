@@ -34,5 +34,7 @@
 
 ## Status
 - [x] Pin images sourced — product shots from `public/images/products/`
-- [ ] Article approved and deployed
-- [ ] Pins posted
+- [x] Article approved and deployed (2026-10-05)
+- [x] Pins posted (2026-10-05) — all 3 verified linking with `?src=pinterest`
+
+Posted to the existing Entryway Organization board on @lakeramw (account confirmed). Topic tags: Entryway (pins 1-2), Closet Organization (pin 3).
