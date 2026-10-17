@@ -135,3 +135,32 @@ feed cards, Original crop, Link sticker with `?src=instagram` + "See full
 breakdown"). Lesson: always re-read this file's posting process before
 resuming Stories work in a new session — don't rebuild the workflow from
 memory or general Instagram/Meta Business Suite familiarity.
+
+## Catch-up round 2026-10-17
+
+Cards: the new vertical 1080x1350 cards from the TikTok repost round (Original crop, fits a Story
+with small letterbox), not the old 1200x750 feed cards. Link sticker with `?src=instagram`.
+Confirmed live: 10 segments in /stories/offbahr/ after the round (5 Picks + 5 Clarity).
+
+**File picker solved (2026-10-17):** the "Add photo/video" button creates a hidden file input and
+calls `.click()` on it, which opens the native OS dialog. Before clicking it, run in the page:
+`const o=HTMLInputElement.prototype.click; HTMLInputElement.prototype.click=function(){if(this.type==='file'){if(!this.isConnected){document.body.appendChild(this)}return}return o.call(this)}`
+Then click Add photo/video, `find` the file input, and `file_upload` to it. No user action needed.
+Re-run the patch after every page load. Share-to defaults to BOTH offbar1 (Facebook Page) and
+offbahr each time; uncheck offbar1 every time.
+
+Fixed coordinates at a 1568x779 viewport: Share-to dropdown (600,105), offbar1 checkbox (410,168),
+Edit (715,214), More stickers (393,347), Link sticker (628,213), link field (620,358), sticker
+text (610,428), sticker Apply (727,468), editor Apply (1198,605), Share (1243,530).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| indoor-growing-systems-guide.md | posted 2026-10-17 | "See full breakdown" |
+| iphone-15-pro-max-cases.md | posted 2026-10-17 | "See full breakdown" |
+| gift-ideas-for-people-who-love-organizing.md | posted 2026-10-17 | "See all 18 gifts" |
+| winter-gear-storage-ideas.md | posted 2026-10-17 | "See full breakdown" |
+| holiday-seasonal-decor-storage-ideas.md | posted 2026-10-17 | "See full breakdown" |
+
+**Never had a Story yet (18):** digital-privacy, food-storage, garage, home-gym, home-office,
+jewelry, junk-drawer, kids-toy-room, laundry, linen-closet, makeup-vanity, nursery, pet-supplies,
+refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart.

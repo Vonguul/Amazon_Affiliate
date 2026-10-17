@@ -43,3 +43,31 @@ no undo. Set the "Community or topic" field to a relevant topic (e.g.
 
 First 3 Threads posts for Picks. 34 articles remain uncovered on this
 platform.
+
+## Catch-up batch 2026-10-17 (articles never posted to Threads)
+
+All linked (`?src=threads`), one tip from the article plus the link. Verified once each on the
+@offbahr profile. Spreading the rest over a few days rather than flooding the feed.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| holiday-seasonal-decor-storage-ideas.md | linked | Home Decor | 2026-10-17 |
+| small-pantry-organization-ideas.md | linked | organization | 2026-10-17 |
+| kitchen-counter-organization-ideas.md | linked | organization | 2026-10-17 |
+| entryway-organization-ideas.md | linked | organization | 2026-10-17 |
+| garage-organization-ideas.md | linked | organization | 2026-10-17 |
+| home-office-organization-ideas.md | linked | organization | 2026-10-17 |
+| small-bathroom-storage-ideas.md | linked | organization | 2026-10-17 |
+| small-bedroom-closet-organization-ideas.md | linked | organization | 2026-10-17 |
+| kids-toy-room-organization-ideas.md | linked | organization | 2026-10-17 |
+| cord-cable-management-ideas.md | linked | organization | 2026-10-17 |
+
+**Still never on Threads (24):** board-game, bookshelf, car-trunk, cleaning-supplies, coffee-bar,
+craft-room, digital-privacy, dorm-room, food-storage, freezer, home-gym, jewelry, junk-drawer,
+laundry, linen-closet, makeup-vanity, nursery, pet-supplies, recycling, shoe-storage, sock-drawer,
+under-bed, under-sink, water-bottle, wine-bar-cart.
+
+**Composer gotcha:** opening the composer and typing in the same browser batch as the previous
+Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
+start of the text). Post, wait, then open the composer in a separate call and confirm the
+focused element is "Empty text field" before typing. Pick topics via `find` for the exact option.
