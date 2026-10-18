@@ -17,6 +17,9 @@ Business Suite). Work in a new tab and close it at the end.
    both `INSTAGRAM-STORIES.md` files). Once empty, keep 5 a day cycling through all articles,
    oldest Story first. Stories expire after 24 hours, so this keeps something live every day.
 3. Alternate Picks and Clarity where both have backlog. Skip any article marked `unlisted: true`.
+4. The quota is per calendar day. Before posting, count rows already logged with today's date in
+   the four trackers and post only the remainder, so a manual "Run now" plus the 10:00 run never
+   doubles a day.
 
 ## Content rules (non-negotiable)
 
