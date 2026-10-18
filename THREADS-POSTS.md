@@ -62,10 +62,24 @@ All linked (`?src=threads`), one tip from the article plus the link. Verified on
 | kids-toy-room-organization-ideas.md | linked | organization | 2026-10-17 |
 | cord-cable-management-ideas.md | linked | organization | 2026-10-17 |
 
-**Still never on Threads (24):** board-game, bookshelf, car-trunk, cleaning-supplies, coffee-bar,
-craft-room, digital-privacy, dorm-room, food-storage, freezer, home-gym, jewelry, junk-drawer,
-laundry, linen-closet, makeup-vanity, nursery, pet-supplies, recycling, shoe-storage, sock-drawer,
-under-bed, under-sink, water-bottle, wine-bar-cart.
+## Daily round 2026-10-18
+
+All linked (`?src=threads`), topic "organization". Verified once each on the @offbahr profile.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| junk-drawer-organization-ideas.md | linked | organization | 2026-10-18 |
+| laundry-room-organization-ideas.md | linked | organization | 2026-10-18 |
+| under-sink-organization-ideas.md | linked | organization | 2026-10-18 |
+| freezer-organization-ideas.md | linked | organization | 2026-10-18 |
+| shoe-storage-organization-ideas.md | linked | organization | 2026-10-18 |
+| coffee-bar-station-organization-ideas.md | linked | organization | 2026-10-18 |
+| pet-supplies-organization-ideas.md | linked | organization | 2026-10-18 |
+| dorm-room-organization-ideas.md | linked | organization | 2026-10-18 |
+
+**Still never on Threads (17):** board-game, bookshelf, car-trunk, cleaning-supplies, craft-room,
+digital-privacy, food-storage, home-gym, jewelry, linen-closet, makeup-vanity, nursery, recycling,
+sock-drawer, under-bed, water-bottle, wine-bar-cart.
 
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the

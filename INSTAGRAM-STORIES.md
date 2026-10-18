@@ -160,7 +160,14 @@ text (610,428), sticker Apply (727,468), editor Apply (1198,605), Share (1243,53
 | gift-ideas-for-people-who-love-organizing.md | posted 2026-10-17 | "See all 18 gifts" |
 | winter-gear-storage-ideas.md | posted 2026-10-17 | "See full breakdown" |
 | holiday-seasonal-decor-storage-ideas.md | posted 2026-10-17 | "See full breakdown" |
+| junk-drawer-organization-ideas.md | posted 2026-10-18 | "See full breakdown" |
+| laundry-room-organization-ideas.md | posted 2026-10-18 | "See all 7 ideas" |
+| pet-supplies-organization-ideas.md | posted 2026-10-18 | "See all 6 ideas" |
 
-**Never had a Story yet (18):** digital-privacy, food-storage, garage, home-gym, home-office,
-jewelry, junk-drawer, kids-toy-room, laundry, linen-closet, makeup-vanity, nursery, pet-supplies,
-refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart.
+## Daily round 2026-10-18
+
+(Rows above: 2026-10-18; Clarity rows are in `../vonguul-clarity/INSTAGRAM-STORIES.md`.)
+
+**Never had a Story yet (15):** digital-privacy, food-storage, garage, home-gym, home-office,
+jewelry, kids-toy-room, linen-closet, makeup-vanity, nursery, refrigerator, small-pantry,
+sock-drawer, under-bed, wine-bar-cart.
