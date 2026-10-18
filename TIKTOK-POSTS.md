@@ -121,3 +121,16 @@ height changed mid-run, which moved the Post button (779px tall: y=740; 737px: y
 | makeup-vanity-organization-ideas.md | "The vanity counter that's always cluttered" | posted 2026-10-16 |
 | pet-supplies-organization-ideas.md | "Pet gear taking over the house?" | posted 2026-10-16 |
 | digital-privacy-security-essentials.md | "Privacy tools that actually protect you" | posted 2026-10-16 |
+
+## Daily round 2026-10-18 (new high-ticket guides, first time on TikTok)
+
+Vertical 1080x1350 cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto Lofi).
+All showed "Everyone" in TikTok Studio's content list after the round.
+
+| Article | Title | Status |
+|---|---|---|
+| home-espresso-machine-and-gear-guide.md | "The grinder matters as much as the espresso machine" | posted 2026-10-18 |
+| robot-vacuum-buying-guide.md | "Pick a robot vacuum by your floors, not the hype" | posted 2026-10-18 |
+| home-office-upgrade-chair-desk-guide.md | "Home office upgrades: chair first, then the rest" | posted 2026-10-18 |
+
+Every Picks article now has at least one TikTok.
