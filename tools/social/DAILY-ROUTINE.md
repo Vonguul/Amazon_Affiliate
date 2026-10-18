@@ -1,4 +1,4 @@
-# Daily social routine (Threads + Instagram Stories)
+# Daily social routine (Threads, Instagram Stories, Pinterest, TikTok)
 
 Runs every day at 10:00 AM as the scheduled task `vonguul-daily-social`. Owner: offbahr@vonguul.com.
 Sites: Vonguul Picks (`C:\Users\laker\Downloads\vonguul-picks`, https://vonguul-picks.vercel.app)
@@ -17,8 +17,14 @@ Business Suite). Work in a new tab and close it at the end.
    both `INSTAGRAM-STORIES.md` files). Once empty, keep 5 a day cycling through all articles,
    oldest Story first. Stories expire after 24 hours, so this keeps something live every day.
 3. Alternate Picks and Clarity where both have backlog. Skip any article marked `unlisted: true`.
-4. The quota is per calendar day. Before posting, count rows already logged with today's date in
-   the four trackers and post only the remainder, so a manual "Run now" plus the 10:00 run never
+4. **Pinterest: up to 5 fresh pins** and **TikTok: up to 5 Photo Mode posts** (added 2026-10-18).
+   Order for both: articles that have never had one first (new articles go first: check
+   `src/content/articles/` in both repos for anything with no `PIN-BATCH-*.md` / no row in
+   `TIKTOK-POSTS.md`), then articles whose most recent pin or TikTok is oldest. Alternate Picks
+   and Clarity where both have backlog. Use a fresh angle (a different product or tip) for a
+   repeat pin; never reuse the same title or text.
+5. The quota is per calendar day. Before posting, count rows already logged with today's date in
+   the trackers (Threads, Stories, Pinterest PIN-BATCH status lines, TikTok) and post only the remainder, so a manual "Run now" plus the 10:00 run never
    doubles a day.
 
 ## Content rules (non-negotiable)
@@ -79,6 +85,54 @@ Instagram's website cannot create Stories; use Business Suite.
 Coordinates are for a 1568x779 viewport. If the layout looks different, take a screenshot and
 adjust instead of clicking blind.
 
+## Pinterest procedure (added 2026-10-18; no verified coordinates yet, screenshot before clicking)
+
+Accounts: Picks = @lakeramw (the Chrome session is normally signed in as this one); Clarity =
+@vonguulian, reached via the account menu > "Your accounts" > Vonguul Clarity. Switch BACK to
+Picks when done. Confirm the account name before every pin; stop if it is not the expected one.
+
+1. Draft first. For each article create the next `PIN-BATCH-NN.md` in that site's repo (copy the
+   layout of `vonguul-picks/PIN-BATCH-41.md`): Board, Article, Destination URL, then one pin with
+   Title (under 100 chars, no prices), Description (the article's tip + 2-3 hashtags, no prices;
+   Clarity: reflection framing, never proof) and the product image from `public/images/products/`.
+2. Destination URL: `https://<site>/articles/<slug>/?src=pinterest` (the tag is mandatory).
+3. Board: verify the real board name in the pin builder's board search (names in
+   `PINTEREST-BOARDS.md` and `PIN-REFRESH.md` have been wrong before). Click into the board search
+   box first, then pick the exact match. If no board fits, skip that article and report it.
+4. Tagged topic: set it at creation (it cannot be edited later). Never accept Pinterest's first
+   suggestion. Wait for suggestions to settle, read the option list, and choose an exact or clearly
+   relevant match (e.g. "Baking Organization", "Spice Storage"). If none is clearly right, use a
+   safe generic one and log it. A wrong topic ("Computer", "Dog Tattoo") has happened before.
+5. Publish immediately (do not use Schedule). Upload the image with `file_upload` (copy the image
+   to the scratchpad first; it only reads that folder). Pin pages only hydrate after a screenshot,
+   so take one after navigating. JS-clicking `[role=option]` and `button[role=menuitem]` works for
+   tags and menus.
+6. Verify the pin appears on the board and its link is the tagged URL (check from the pin page).
+   Output containing URLs with query strings can be blocked in the JS tool: return booleans.
+7. Log: set the PIN-BATCH status line (`Pins posted (date), verified linking with ?src=pinterest`),
+   and in Clarity's `PINTEREST-BOARDS.md` set the row to `posted` if all its pins are live.
+
+## TikTok procedure (added 2026-10-18; account @offbahrvonguul, shared by Picks and Clarity)
+
+Photo Mode only. Full gotchas are in `TIKTOK-POSTS.md` (read its "Format", "Gotcha" and "Repost
+round" sections before the first post of the day).
+
+1. Card: reuse the vertical 1080x1350 card for the article if it exists in the scratchpad,
+   otherwise render one with `render_card.py` exactly as in the Stories procedure.
+2. Open `https://www.tiktok.com/tiktokstudio/upload?tab=photo`, confirm the account is
+   @offbahrvonguul, then `find` the file input and `file_upload` the card.
+3. Title: punchy, under 90 characters, no prices. Description: a short caption ending
+   "Full guide on the Vonguul Picks site, link in bio." (Clarity: "Vonguul Clarity") plus 5 hashtags.
+   Re-`find` the field and retype if it still shows 0 characters; screenshot to confirm both fields
+   hold text before Post. Sound: Picks "Lofi Chill", Clarity an ambient piano track, if offered.
+4. Leave "Now" / "Everyone" selected. Never use "Schedule" (it triggers a consent prompt that must
+   not be accepted). The Post button moves with viewport height: screenshot, then click it.
+   Click Post in its own batch, then start the next upload in a separate batch.
+5. "Content under review" / "Only me" right after posting is normal and clears by itself.
+6. After the round, open TikTok Studio's content list and confirm each new post is listed.
+7. Log: add rows to the newest dated table in `vonguul-picks/TIKTOK-POSTS.md` or
+   `vonguul-clarity/TIKTOK-POSTS.md` (article, title, posted date).
+
 ## Logging
 
 - Threads: add rows to the dated catch-up table in `vonguul-picks/THREADS-POSTS.md` or
@@ -86,12 +140,16 @@ adjust instead of clicking blind.
   Threads" list.
 - Stories: add rows to the newest dated table in each `INSTAGRAM-STORIES.md` (article, date,
   sticker text) and update the "Never had a Story yet" lists.
+- Pinterest: the new `PIN-BATCH-NN.md` files and, for Clarity, `PINTEREST-BOARDS.md`. TikTok: the
+  two `TIKTOK-POSTS.md` files.
 - In each repo: `git pull --rebase`, `git add` only the tracker files you changed, commit with a
   message ending in `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, push.
 
 ## Stop conditions
 
 Stop posting (log what was done, report it) if: the wrong account is signed in; a platform shows
-a limit or "try again later" message; a post fails to appear after a retry; or anything asks for
+a limit or "try again later" message (TikTok "Too many uploading attempts" ends TikTok for the day;
+Pinterest rate or spam warnings end Pinterest for the day); a post fails to appear after a retry; or anything asks for
 a password, consent, terms or payment. Never accept consent prompts (for example TikTok's
-"Allow your video to be saved for scheduled posting").
+"Allow your video to be saved for scheduled posting"). Pinterest and TikTok stop independently:
+if one platform hits a stop condition, finish the others and report it.
