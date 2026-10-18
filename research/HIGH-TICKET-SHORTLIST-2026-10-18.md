@@ -161,3 +161,22 @@ Dropped: Aeron (3P, 3.4 to 3.9 stars), Rancilio Silvia Pro X (3P, 29 reviews), L
 
 Still unverified: exact commission category per ASIN (confirm in Associates Central link builder),
 whether Amazon applies the May 2026 cuts, and whether the listed Barista Express is a CR pick.
+
+---
+
+# Addendum: Clarity tech items with a metaphysical use (VERIFY, 2026-10-18)
+
+Scope per owner: Clarity may sell tech when there is a related metaphysical reason.
+
+| Product | ASIN | Rating (count) | Seller | Verdict |
+|---|---|---|---|---|
+| Luminara flameless pillar candles x3 | B09S24TQVP | 4.6 (1,942) | Amazon | PASS (low ticket) |
+| GenSwin rechargeable taper candles | B0FGD92WN9 | 4.5 (16,072) | Amazon | PASS (low ticket) |
+| Govee Smart Table Lamp 2 | B0D41XL87F | 4.7 (2,566) | Amazon | PASS |
+| Philips Hue Go | B0BG99KDKP | 4.4 (429) | Amazon | PASS |
+| Hatch Restore 3 | B0DLLTJFJL | 4.2 (3,351) | Amazon (other listing is 3P) | PASS, note subscription |
+| Kindle Paperwhite | B0CFPJYX7P | 4.6 (23,614) | Amazon | PASS, held: metaphysical link is thin (reading source books) |
+| Muse S Athena headband | B0F4F15WDD | 3.6 (82) | Amazon | FAIL: low rating, category Health/Alternative Medicine (rate likely low), health claims |
+| Soundcore Sleep A30 | B0FYFV2HLM | 3.6 (3,040) | Amazon | FAIL: rating |
+
+Built as guide: flameless-candles-smart-lighting-for-ritual (Clarity), held for review.
