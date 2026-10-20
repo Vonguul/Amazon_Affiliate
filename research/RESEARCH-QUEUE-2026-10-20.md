@@ -15,11 +15,12 @@ then fetch('/s?k=...') and fetch('/dp/ASIN') from page JS and parse with DOMPars
 | 1b | Holiday entertaining and hosting (extra seating, folding tables, beverage tubs, guest coat storage, serving organization) | Picks | done | same file |
 | 1c | Guest room prep (air mattress or folding bed, luggage rack, guest bath and bedside basics) | Picks | done | same file |
 | 2 | Scrying (obsidian mirrors, crystal or glass balls, stands, books) | Clarity | done | ../vonguul-clarity/research/RESEARCH-SCRYING-2026-10-20.md |
-| 3a | Air purifiers by room size (RTINGS / CR picks) | Picks | todo | research/RESEARCH-HIGH-TICKET-2-2026-10-20.md |
-| 3b | Mattresses and bedding (RTINGS / CR picks available on Amazon) | Picks | todo | same file |
+| 3a | Air purifiers by room size (RTINGS / CR picks) | Picks | done | research/RESEARCH-HIGH-TICKET-2-2026-10-20.md |
+| 3b | Mattresses and bedding (RTINGS / CR picks available on Amazon) | Picks | done | same file |
 
 When every row is done: tell the owner, with a recommended build list, and wait for approval.
 
 ## Progress log
 - 2026-10-20 12:05 CDT: rows 1a-1c done, findings in research/RESEARCH-HOLIDAY-2026-10-20.md (21 products verified, 3 builds recommended).
 - 2026-10-20 12:20 CDT: row 2 done, findings in ../vonguul-clarity/research/RESEARCH-SCRYING-2026-10-20.md (12 products verified, 1 article recommended).
+- 2026-10-20 14:15 CDT: rows 3a-3b done (after a usage-limit pause), findings in research/RESEARCH-HIGH-TICKET-2-2026-10-20.md. All rows done; waiting for owner approval on builds.
