@@ -77,9 +77,24 @@ All linked (`?src=threads`), topic "organization". Verified once each on the @of
 | pet-supplies-organization-ideas.md | linked | organization | 2026-10-18 |
 | dorm-room-organization-ideas.md | linked | organization | 2026-10-18 |
 
-**Still never on Threads (17):** board-game, bookshelf, car-trunk, cleaning-supplies, craft-room,
-digital-privacy, food-storage, home-gym, jewelry, linen-closet, makeup-vanity, nursery, recycling,
-sock-drawer, under-bed, water-bottle, wine-bar-cart.
+## Daily round 2026-10-19
+
+All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts from
+this round are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| board-game-puzzle-storage-ideas.md | linked | organization | 2026-10-19 |
+| bookshelf-home-library-organization-ideas.md | linked | organization | 2026-10-19 |
+| car-trunk-organization-ideas.md | linked | organization | 2026-10-19 |
+| cleaning-supplies-closet-organization-ideas.md | linked | organization | 2026-10-19 |
+| craft-room-organization-ideas.md | linked | organization | 2026-10-19 |
+| home-espresso-machine-and-gear-guide.md | linked | Espresso | 2026-10-19 |
+
+**Still never on Threads (14):** digital-privacy, food-storage, home-gym, jewelry, linen-closet,
+makeup-vanity, nursery, recycling, sock-drawer, under-bed, water-bottle, wine-bar-cart,
+robot-vacuum-buying-guide, home-office-upgrade-chair-desk-guide (the last two were missing from this
+list; added 2026-10-19).
 
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
