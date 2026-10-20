@@ -134,3 +134,15 @@ All showed "Everyone" in TikTok Studio's content list after the round.
 | home-office-upgrade-chair-desk-guide.md | "Home office upgrades: chair first, then the rest" | posted 2026-10-18 |
 
 Every Picks article now has at least one TikTok.
+
+## Daily round 2026-10-20 (repeats, oldest TikTok first)
+
+Vertical cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto Lofi), Now / Everyone.
+Both listed once in TikTok Studio's content list as "Everyone". The baking post replaced a stale
+unsaved photo draft left in Studio from an earlier session (an old baking card with no caption).
+Clarity's 3 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| baking-supplies-bakeware-organization-ideas.md | "Baking pans should stand, not stack" | posted 2026-10-20 |
+| car-trunk-organization-ideas.md | "Your trunk holds three different kinds of stuff" | posted 2026-10-20 |
