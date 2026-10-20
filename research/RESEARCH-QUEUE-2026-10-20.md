@@ -11,9 +11,9 @@ then fetch('/s?k=...') and fetch('/dp/ASIN') from page JS and parse with DOMPars
 
 | # | Topic | Site | Status | Output |
 |---|---|---|---|---|
-| 1a | Gift-wrap station and storage (beyond the wrapping-paper organizer already in holiday-seasonal-decor-storage-ideas) | Picks | todo | research/RESEARCH-HOLIDAY-2026-10-20.md |
-| 1b | Holiday entertaining and hosting (extra seating, folding tables, beverage tubs, guest coat storage, serving organization) | Picks | todo | same file |
-| 1c | Guest room prep (air mattress or folding bed, luggage rack, guest bath and bedside basics) | Picks | todo | same file |
+| 1a | Gift-wrap station and storage (beyond the wrapping-paper organizer already in holiday-seasonal-decor-storage-ideas) | Picks | done | research/RESEARCH-HOLIDAY-2026-10-20.md |
+| 1b | Holiday entertaining and hosting (extra seating, folding tables, beverage tubs, guest coat storage, serving organization) | Picks | done | same file |
+| 1c | Guest room prep (air mattress or folding bed, luggage rack, guest bath and bedside basics) | Picks | done | same file |
 | 2 | Scrying (obsidian mirrors, crystal or glass balls, stands, books) | Clarity | todo | ../vonguul-clarity/research/RESEARCH-SCRYING-2026-10-20.md |
 | 3a | Air purifiers by room size (RTINGS / CR picks) | Picks | todo | research/RESEARCH-HIGH-TICKET-2-2026-10-20.md |
 | 3b | Mattresses and bedding (RTINGS / CR picks available on Amazon) | Picks | todo | same file |
@@ -21,3 +21,4 @@ then fetch('/s?k=...') and fetch('/dp/ASIN') from page JS and parse with DOMPars
 When every row is done: tell the owner, with a recommended build list, and wait for approval.
 
 ## Progress log
+- 2026-10-20 12:05 CDT: rows 1a-1c done, findings in research/RESEARCH-HOLIDAY-2026-10-20.md (21 products verified, 3 builds recommended).
