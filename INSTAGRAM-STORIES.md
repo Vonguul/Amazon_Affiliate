@@ -170,9 +170,8 @@ text (610,428), sticker Apply (727,468), editor Apply (1198,605), Share (1243,53
 
 ## Daily round 2026-10-20
 
-Verified as 6 "Instagram, Active" stories in Business Suite's Planner for 10/20 (Picks + Clarity).
-The instagram.com/stories/offbahr/ check was not done: the browser asked for site approval and the
-scheduled run was unattended.
+Verified as 6 "Instagram, Active" stories in Business Suite's Planner for 10/20 (Picks + Clarity),
+then confirmed at instagram.com/stories/offbahr/ (6 segments) once the user approved the site.
 
 | Article | Posted | Link sticker text |
 |---|---|---|
