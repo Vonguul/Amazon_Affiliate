@@ -168,6 +168,18 @@ text (610,428), sticker Apply (727,468), editor Apply (1198,605), Share (1243,53
 
 (Rows above: 2026-10-18; Clarity rows are in `../vonguul-clarity/INSTAGRAM-STORIES.md`.)
 
-**Never had a Story yet (15):** digital-privacy, food-storage, garage, home-gym, home-office,
-jewelry, kids-toy-room, linen-closet, makeup-vanity, nursery, refrigerator, small-pantry,
-sock-drawer, under-bed, wine-bar-cart.
+## Daily round 2026-10-20
+
+Verified as 6 "Instagram, Active" stories in Business Suite's Planner for 10/20 (Picks + Clarity).
+The instagram.com/stories/offbahr/ check was not done: the browser asked for site approval and the
+scheduled run was unattended.
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| digital-privacy-security-essentials.md | posted 2026-10-20 | "See all 6 tools" |
+| food-storage-container-organization-ideas.md | posted 2026-10-20 | "See all 5 fixes" |
+| garage-organization-ideas.md | posted 2026-10-20 | "See all 7 ideas" |
+| home-gym-organization-ideas.md | posted 2026-10-20 | "See all 6 ideas" |
+
+**Never had a Story yet (11):** home-office, jewelry, kids-toy-room, linen-closet, makeup-vanity,
+nursery, refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart.
