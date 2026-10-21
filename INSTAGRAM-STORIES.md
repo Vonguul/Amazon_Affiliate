@@ -180,5 +180,20 @@ then confirmed at instagram.com/stories/offbahr/ (6 segments) once the user appr
 | garage-organization-ideas.md | posted 2026-10-20 | "See all 7 ideas" |
 | home-gym-organization-ideas.md | posted 2026-10-20 | "See all 6 ideas" |
 
-**Never had a Story yet (11):** home-office, jewelry, kids-toy-room, linen-closet, makeup-vanity,
-nursery, refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart.
+## Daily round 2026-10-21
+
+Verified as 6 "Instagram, Active" stories in Business Suite's Planner for 10/21 (Picks + Clarity),
+Instagram icon only. The instagram.com/stories/offbahr/ check was not done: the site-approval prompt
+went unanswered in the unattended run.
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| home-office-organization-ideas.md | posted 2026-10-21 | "See all 7 fixes" |
+| jewelry-organization-ideas.md | posted 2026-10-21 | "See all 6 fixes" |
+| kids-toy-room-organization-ideas.md | posted 2026-10-21 | "See all 7 ideas" |
+
+**Never had a Story yet (16):** linen-closet, makeup-vanity, nursery, refrigerator, small-pantry,
+sock-drawer, under-bed, wine-bar-cart, plus guides missing from this list until now:
+home-espresso-machine-and-gear-guide, home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
+air-purifiers-by-room-size, humidifiers-by-room-size, holiday-hosting-seating-serving-storage,
+guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage.

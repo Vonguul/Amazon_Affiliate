@@ -146,3 +146,18 @@ Clarity's 3 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS.md`.
 |---|---|---|
 | baking-supplies-bakeware-organization-ideas.md | "Baking pans should stand, not stack" | posted 2026-10-20 |
 | car-trunk-organization-ideas.md | "Your trunk holds three different kinds of stuff" | posted 2026-10-20 |
+
+## Daily round 2026-10-21 (new 2026-10-20 guides, first time on TikTok)
+
+Vertical cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto Lofi), Now / Everyone.
+All listed once in TikTok Studio's content list (holiday hosting still "Content under review" at
+check time, which clears by itself). Clarity's 2 posts from this round are in
+`../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| air-purifiers-by-room-size.md | "Air purifier boxes overstate room size. Divide by 5." | posted 2026-10-21 |
+| humidifiers-by-room-size.md | "Measure your humidity before you buy a humidifier" | posted 2026-10-21 |
+| holiday-hosting-seating-serving-storage.md | "Holiday hosting gear that folds away for the other 11 months" | posted 2026-10-21 |
+
+Still never on TikTok: guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage.

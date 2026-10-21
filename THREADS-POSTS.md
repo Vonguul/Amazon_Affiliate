@@ -106,8 +106,23 @@ round is in `../vonguul-clarity/THREADS-POSTS.md`.)
 | makeup-vanity-organization-ideas.md | linked | organization | 2026-10-20 |
 | nursery-organization-ideas.md | linked | organization | 2026-10-20 |
 
-**Still never on Threads (7):** recycling, sock-drawer, under-bed, water-bottle, wine-bar-cart,
-robot-vacuum-buying-guide, home-office-upgrade-chair-desk-guide.
+## Daily round 2026-10-21
+
+All linked (`?src=threads`), topic "organization". Verified once each on the @offbahr profile.
+(Clarity's 3 posts from this round are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| recycling-trash-bin-organization-ideas.md | linked | organization | 2026-10-21 |
+| sock-drawer-organization-ideas.md | linked | organization | 2026-10-21 |
+| under-bed-storage-organization-ideas.md | linked | organization | 2026-10-21 |
+| water-bottle-tumbler-organization-ideas.md | linked | organization | 2026-10-21 |
+| wine-bar-cart-organization-ideas.md | linked | organization | 2026-10-21 |
+
+**Still never on Threads (7):** robot-vacuum-buying-guide, home-office-upgrade-chair-desk-guide,
+plus the five 2026-10-20 guides: air-purifiers-by-room-size, humidifiers-by-room-size,
+holiday-hosting-seating-serving-storage, guest-room-ready-for-holiday-visitors,
+holiday-baking-setup-mixer-tools-storage.
 
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
