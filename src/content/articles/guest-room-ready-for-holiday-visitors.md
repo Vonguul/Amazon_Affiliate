@@ -19,6 +19,18 @@ products:
     asin: "B0C7JG2J6K"
     image: "/images/products/econohome-folding-bed-1.jpg"
     note: "A real frame with a mattress that folds up on wheels and rolls into a closet. No inflating, and no slow leak overnight. Note the size: 75 by 31 inches is cot width, narrower than a twin (38 inches). Best for one adult or a kid. 4.4 stars from over 1,500 reviews."
+  - name: "Niagara Ultra Soft Queen Mattress Topper"
+    asin: "B07D5DN269"
+    image: "/images/products/niagara-mattress-topper-1.jpg"
+    note: "The upgrade that turns an air mattress into a bed people sleep well on. A plush topper with a deep-pocket skirt softens the feel of the vinyl and holds in place, so the sheets stop sliding around. It works on a guest bed or a sofa bed too. 4.3 stars from over 61,000 reviews."
+  - name: "California Design Den 100% Cotton Sateen Sheet Set, Queen"
+    asin: "B06XS1P6NG"
+    image: "/images/products/caldesignden-sateen-sheets-1.jpg"
+    note: "A set of sheets that belongs to the guest bed, so you're not hunting for a matching fitted sheet the night before. Cotton sateen is smooth and has a slight sheen. 4.5 stars from almost 48,000 reviews. Check the deep-pocket depth against an air mattress before buying."
+  - name: "EASELAND Down-Alternative Comforter, Queen"
+    asin: "B075GGR33H"
+    image: "/images/products/easeland-comforter-1.jpg"
+    note: "A real comforter instead of whatever spare blankets are in the closet. Down-alternative fill is machine-washable, which matters for a guest bed that gets used by different people. 4.6 stars from over 41,000 reviews."
   - name: "oakvivo Fully Assembled Bamboo Luggage Racks, Set of 2"
     asin: "B0DLW514V1"
     image: "/images/products/oakvivo-bamboo-luggage-racks-1.jpg"
@@ -44,6 +56,10 @@ A spare room, a home office or a corner of the basement becomes a guest room wit
 You have two realistic choices for a room that isn't a bedroom the rest of the year. A raised air mattress sleeps two on a queen footprint and packs into a bag. A folding bed takes more closet space, but there's no inflating and nothing to leak.
 
 For couples, the air mattress is the practical choice. For a single adult or a child, especially for a longer stay, the folding bed avoids the first-night problem of air mattresses: the material stretches as it settles, so it feels softer in the morning. Inflate it the day before, then top it up before bedtime.
+
+## Then make it a real bed
+
+What makes a guest bed comfortable is mostly what goes on top of it. A topper hides the air-mattress feel and keeps the sheets from sliding. A set of sheets and a comforter that belong to the guest room mean nothing has to be borrowed from your own bed. Keep them together in one bag or bin in the linen closet so the next visit is a ten-minute setup.
 
 ## Get the suitcase off the floor
 
