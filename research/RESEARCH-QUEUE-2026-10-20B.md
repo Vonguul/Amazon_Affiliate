@@ -14,10 +14,11 @@ then fetch('/s?k=...') and fetch('/dp/ASIN') from page JS and parse with DOMPars
 | 1b | Cordless stick vacuums (high-ticket) | robot-vacuum-buying-guide | Picks | done | same |
 | 1c | Holiday baking upgrades (stand mixer etc.) | baking-supplies, holiday-hosting | Picks | done | same |
 | 1d | Bedding: verify topper, sheets, comforter | guest-room, linen-closet | Picks | done | same |
-| 2a | Altar setup (cloth, candle holders, offering bowls, small table) | scrying, candle-magic | Clarity | todo | ../vonguul-clarity/research/RESEARCH-SPINOFFS-CLARITY-2026-10-20.md |
-| 2b | Yule / winter solstice | moon-phases, candle-magic | Clarity | todo | same |
-| 2c | Tea leaf reading (tasseography) | scrying | Clarity | todo | same |
+| 2a | Altar setup (cloth, candle holders, offering bowls, small table) | scrying, candle-magic | Clarity | done | ../vonguul-clarity/research/RESEARCH-SPINOFFS-CLARITY-2026-10-20.md |
+| 2b | Yule / winter solstice | moon-phases, candle-magic | Clarity | done | same |
+| 2c | Tea leaf reading (tasseography) | scrying | Clarity | done | same |
 
 ## Progress log
 - 2026-10-20: queue created.
 - 2026-10-20 evening: rows 1a-1d done (humidifiers BUILD, stick vacuums HOLD, baking BUILD, bedding ADD to guest room).
+- 2026-10-20 evening: rows 2a-2c done (altar MERGE into Yule, Wheel of the Year/Yule BUILD, tea leaf reading BUILD). All rows done; waiting for owner approval on builds.
