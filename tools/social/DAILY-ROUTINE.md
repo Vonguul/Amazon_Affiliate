@@ -9,7 +9,7 @@ Business Suite). Work in a new tab and close it at the end.
 **Shell: use the Bash tool only, never PowerShell.** The run's permission allow rules cover these
 Bash forms: `python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_card.py ...`,
 `cd /c/Users/laker/Downloads/vonguul-picks` (or `vonguul-clarity`), `git pull/fetch/status/log/diff/add/commit/push`,
-`ls`, `grep`, `date`. Read files with the Read tool and change trackers with the Edit tool.
+`ls`, `grep`, `date`, and `tail`, `head`, `wc`, `sort` as pipe filters. Read files with the Read tool and change trackers with the Edit tool.
 Anything else will stop the run on an approval prompt.
 
 ## Daily quota
