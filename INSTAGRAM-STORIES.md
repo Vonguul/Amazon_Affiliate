@@ -192,8 +192,19 @@ went unanswered in the unattended run.
 | jewelry-organization-ideas.md | posted 2026-10-21 | "See all 6 fixes" |
 | kids-toy-room-organization-ideas.md | posted 2026-10-21 | "See all 7 ideas" |
 
-**Never had a Story yet (16):** linen-closet, makeup-vanity, nursery, refrigerator, small-pantry,
-sock-drawer, under-bed, wine-bar-cart, plus guides missing from this list until now:
+## Daily round 2026-10-22
+
+Confirmed at instagram.com/stories/offbahr/: 6 segments (3 Picks + 3 Clarity), link stickers visible.
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| linen-closet-organization-ideas.md | posted 2026-10-22 | "See all 6 fixes" |
+| makeup-vanity-organization-ideas.md | posted 2026-10-22 | "See all 6 fixes" |
+| nursery-organization-ideas.md | posted 2026-10-22 | "See all 6 ideas" |
+
+**Never had a Story yet (16):** refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart,
 home-espresso-machine-and-gear-guide, home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
 air-purifiers-by-room-size, humidifiers-by-room-size, holiday-hosting-seating-serving-storage,
-guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage.
+guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage, plus the 2026-10-21
+guides: space-heaters-heated-throws-warm-one-room, artificial-christmas-trees-and-tree-storage,
+home-gym-equipment-for-small-spaces.

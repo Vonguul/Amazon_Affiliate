@@ -104,7 +104,12 @@ Picks when done. Confirm the account name before every pin; stop if it is not th
 2. Destination URL: `https://<site>/articles/<slug>/?src=pinterest` (the tag is mandatory).
 3. Board: verify the real board name in the pin builder's board search (names in
    `PINTEREST-BOARDS.md` and `PIN-REFRESH.md` have been wrong before). Click into the board search
-   box first, then pick the exact match. If no board fits, skip that article and report it.
+   box first, then pick the exact match. If no existing board fits (e.g. a new Clarity practice
+   like Palmistry), create one (added 2026-10-22 at the user's request): "Create board" at the
+   bottom of the board picker, named after the practice or topic in the style of the existing
+   boards (e.g. "Palmistry", "Tea Leaf Reading"), public (not secret), on the account you are
+   pinning to. Confirm the account first, never create a duplicate of an existing board, and log
+   the new board in the PIN-BATCH file (and add a row to Clarity's `PINTEREST-BOARDS.md`).
 4. Tagged topic: set it at creation (it cannot be edited later). Never accept Pinterest's first
    suggestion. Wait for suggestions to settle, read the option list, and choose an exact or clearly
    relevant match (e.g. "Baking Organization", "Spice Storage"). If none is clearly right, use a

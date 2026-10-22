@@ -160,4 +160,16 @@ check time, which clears by itself). Clarity's 2 posts from this round are in
 | humidifiers-by-room-size.md | "Measure your humidity before you buy a humidifier" | posted 2026-10-21 |
 | holiday-hosting-seating-serving-storage.md | "Holiday hosting gear that folds away for the other 11 months" | posted 2026-10-21 |
 
-Still never on TikTok: guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage.
+## Daily round 2026-10-22 (first time on TikTok)
+
+Vertical cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto Lofi), Now / Everyone.
+All listed once in TikTok Studio's content list (space heaters still "Content under review" at check
+time). Clarity's 2 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| guest-room-ready-for-holiday-visitors.md | "Guest room ready in an afternoon, and it all packs away after" | posted 2026-10-22 |
+| holiday-baking-setup-mixer-tools-storage.md | "Your stand mixer gets used more when it's easy to reach" | posted 2026-10-22 |
+| space-heaters-heated-throws-warm-one-room.md | "Warm the room you're in, not the whole house" | posted 2026-10-22 |
+
+Still never on TikTok: artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.

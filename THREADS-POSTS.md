@@ -119,10 +119,23 @@ All linked (`?src=threads`), topic "organization". Verified once each on the @of
 | water-bottle-tumbler-organization-ideas.md | linked | organization | 2026-10-21 |
 | wine-bar-cart-organization-ideas.md | linked | organization | 2026-10-21 |
 
-**Still never on Threads (7):** robot-vacuum-buying-guide, home-office-upgrade-chair-desk-guide,
-plus the five 2026-10-20 guides: air-purifiers-by-room-size, humidifiers-by-room-size,
-holiday-hosting-seating-serving-storage, guest-room-ready-for-holiday-visitors,
-holiday-baking-setup-mixer-tools-storage.
+## Daily round 2026-10-22
+
+All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's post from this
+round is in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| robot-vacuum-buying-guide.md | linked | Cleaning | 2026-10-22 |
+| home-office-upgrade-chair-desk-guide.md | linked | home office | 2026-10-22 |
+| air-purifiers-by-room-size.md | linked | air quality | 2026-10-22 |
+| humidifiers-by-room-size.md | linked | Humidifiers | 2026-10-22 |
+| holiday-hosting-seating-serving-storage.md | linked | organization | 2026-10-22 |
+| guest-room-ready-for-holiday-visitors.md | linked | organization | 2026-10-22 |
+| holiday-baking-setup-mixer-tools-storage.md | linked | Baking | 2026-10-22 |
+
+**Still never on Threads (3):** the three 2026-10-21 guides: space-heaters-heated-throws-warm-one-room,
+artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.
 
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
