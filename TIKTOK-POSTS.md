@@ -172,4 +172,18 @@ time). Clarity's 2 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS
 | holiday-baking-setup-mixer-tools-storage.md | "Your stand mixer gets used more when it's easy to reach" | posted 2026-10-22 |
 | space-heaters-heated-throws-warm-one-room.md | "Warm the room you're in, not the whole house" | posted 2026-10-22 |
 
-Still never on TikTok: artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.
+Still never on TikTok (as of 2026-10-22): artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces (both posted 2026-10-23, below).
+
+## Daily round 2026-10-23 (2 first-time + 1 repeat, oldest TikTok first)
+
+Vertical cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto Lofi), Now / Everyone.
+All listed once in TikTok Studio's content list (spice rack still "Content under review" at check
+time). Clarity's 2 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| artificial-christmas-trees-and-tree-storage.md | "Measure your ceiling before you buy a Christmas tree" | posted 2026-10-23 (first TikTok) |
+| home-gym-equipment-for-small-spaces.md | "One pair of adjustable dumbbells replaces a whole rack" | posted 2026-10-23 (first TikTok) |
+| spice-rack-organization-ideas.md | "Label your spice jars before you buy another rack" | posted 2026-10-23 |
+
+Every Picks article now has at least one TikTok. Next repeats, oldest first: the 2026-10-16 repost round.

@@ -134,8 +134,19 @@ round is in `../vonguul-clarity/THREADS-POSTS.md`.)
 | guest-room-ready-for-holiday-visitors.md | linked | organization | 2026-10-22 |
 | holiday-baking-setup-mixer-tools-storage.md | linked | Baking | 2026-10-22 |
 
-**Still never on Threads (3):** the three 2026-10-21 guides: space-heaters-heated-throws-warm-one-room,
-artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.
+## Daily round 2026-10-23
+
+All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's fresh-angle post
+from this round is in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| space-heaters-heated-throws-warm-one-room.md | linked | space heaters | 2026-10-23 |
+| artificial-christmas-trees-and-tree-storage.md | linked | Christmas Tree | 2026-10-23 |
+| home-gym-equipment-for-small-spaces.md | linked | home gym | 2026-10-23 |
+
+**Still never on Threads (0).** Every Picks article has a Threads post. From here the routine drops
+to 4 a day, fresh angles for the articles whose latest thread is oldest.
 
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the

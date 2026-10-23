@@ -202,8 +202,22 @@ Confirmed at instagram.com/stories/offbahr/: 6 segments (3 Picks + 3 Clarity), l
 | makeup-vanity-organization-ideas.md | posted 2026-10-22 | "See all 6 fixes" |
 | nursery-organization-ideas.md | posted 2026-10-22 | "See all 6 ideas" |
 
-**Never had a Story yet (16):** refrigerator, small-pantry, sock-drawer, under-bed, wine-bar-cart,
-home-espresso-machine-and-gear-guide, home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
+## Daily round 2026-10-23
+
+All 6 from the never-had-a-Story list (Clarity has none left, so all 6 went to Picks). Each shown
+"Your story has been published" in Business Suite, then confirmed at instagram.com/stories/offbahr/:
+6 segments, link stickers visible.
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| refrigerator-organization-ideas.md | posted 2026-10-23 | "See all 6 ideas" |
+| small-pantry-organization-ideas.md | posted 2026-10-23 | "See all 12 ideas" |
+| sock-drawer-organization-ideas.md | posted 2026-10-23 | "See all 6 ideas" |
+| under-bed-storage-organization-ideas.md | posted 2026-10-23 | "See all 6 ideas" |
+| wine-bar-cart-organization-ideas.md | posted 2026-10-23 | "See all 7 ideas" |
+| home-espresso-machine-and-gear-guide.md | posted 2026-10-23 | "See the 3 machines" |
+
+**Never had a Story yet (10):** home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
 air-purifiers-by-room-size, humidifiers-by-room-size, holiday-hosting-seating-serving-storage,
 guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage, plus the 2026-10-21
 guides: space-heaters-heated-throws-warm-one-room, artificial-christmas-trees-and-tree-storage,
