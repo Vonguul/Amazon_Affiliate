@@ -8,9 +8,11 @@ Business Suite). Work in a new tab and close it at the end.
 
 **Shell: use the Bash tool only, never PowerShell.** The run's permission allow rules cover these
 Bash forms: `python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_card.py ...`,
-`cd /c/Users/laker/Downloads/vonguul-picks` (or `vonguul-clarity`), `git pull/fetch/status/log/diff/add/commit/push`,
+`git -C /c/Users/laker/Downloads/vonguul-picks <pull/fetch/status/log/diff/add/commit/push ...>` (or `vonguul-clarity`),
 `ls`, `grep`, `date`, and `tail`, `head`, `wc`, `sort` as pipe filters. Read files with the Read tool and change trackers with the Edit tool.
-Anything else will stop the run on an approval prompt.
+Anything else will stop the run on an approval prompt. **Never write `cd <repo> && git ...`**: a
+cd followed by git always asks for approval, which stalled the 2026-10-23 run for six hours. Use
+`git -C <repo>` and one git command per Bash call.
 
 ## Daily quota
 
@@ -153,7 +155,7 @@ round" sections before the first post of the day).
   sticker text) and update the "Never had a Story yet" lists.
 - Pinterest: the new `PIN-BATCH-NN.md` files and, for Clarity, `PINTEREST-BOARDS.md`. TikTok: the
   two `TIKTOK-POSTS.md` files.
-- In each repo: `git pull --rebase`, `git add` only the tracker files you changed, commit with a
+- In each repo, with `git -C <repo>` (never `cd`): `pull --rebase`, `add` only the tracker files you changed, commit with a
   message ending in `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, push.
 
 ## Stop conditions
