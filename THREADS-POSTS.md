@@ -148,6 +148,20 @@ from this round is in `../vonguul-clarity/THREADS-POSTS.md`.)
 **Still never on Threads (0).** Every Picks article has a Threads post. From here the routine drops
 to 4 a day, fresh angles for the articles whose latest thread is oldest.
 
+## Daily round 2026-10-24 (new 2026-10-23 guides)
+
+Run by hand after the scheduled 10:00 run stalled on a shell approval prompt. All linked
+(`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 3 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| pots-and-pans-organization-and-cookware-guide.md | linked | organization | 2026-10-24 |
+| kitchen-knives-and-knife-storage-guide.md | linked | Cooking | 2026-10-24 |
+| holiday-travel-packing-luggage-guide.md | linked | Travel Tips | 2026-10-24 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

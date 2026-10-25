@@ -187,3 +187,19 @@ time). Clarity's 2 posts from this round are in `../vonguul-clarity/TIKTOK-POSTS
 | spice-rack-organization-ideas.md | "Label your spice jars before you buy another rack" | posted 2026-10-23 |
 
 Every Picks article now has at least one TikTok. Next repeats, oldest first: the 2026-10-16 repost round.
+
+## Daily round 2026-10-24 (new 2026-10-23 guides, first time on TikTok)
+
+Run by hand after the scheduled run stalled; the session hit a usage limit partway through, so the
+round finished after midnight (knives and travel are dated 2026-10-25 and count toward that day's
+TikTok quota). Vertical cards from `tools/social/render_card.py`, sound "Lofi Chill" (Alberto
+Lofi), Now / Everyone. All listed once in TikTok Studio's content list (travel still "Content under
+review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| pots-and-pans-organization-and-cookware-guide.md | "Stop stacking your pans. Store them on edge." | posted 2026-10-24 |
+| kitchen-knives-and-knife-storage-guide.md | "Honing isn't sharpening. Here's the difference." | posted 2026-10-25 |
+| holiday-travel-packing-luggage-guide.md | "Pack for the holidays in one carry-on" | posted 2026-10-25 |
+
+Every Picks article has at least one TikTok.

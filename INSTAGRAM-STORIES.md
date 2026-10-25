@@ -217,6 +217,18 @@ All 6 from the never-had-a-Story list (Clarity has none left, so all 6 went to P
 | wine-bar-cart-organization-ideas.md | posted 2026-10-23 | "See all 7 ideas" |
 | home-espresso-machine-and-gear-guide.md | posted 2026-10-23 | "See the 3 machines" |
 
+## Daily round 2026-10-24 (new 2026-10-23 guides)
+
+Run by hand (scheduled run stalled). Screenshots timed out in Business Suite, so every step used
+`find` refs instead of coordinates; Share to checked as "offbahr" only via read_page before each
+Share. Confirmed at instagram.com/stories/offbahr/: 6 segments (3 Picks + 3 Clarity).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| pots-and-pans-organization-and-cookware-guide.md | posted 2026-10-24 | "See the storage fixes" |
+| kitchen-knives-and-knife-storage-guide.md | posted 2026-10-24 | "See the 4 knives" |
+| holiday-travel-packing-luggage-guide.md | posted 2026-10-24 | "See the packing list" |
+
 **Never had a Story yet (10):** home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
 air-purifiers-by-room-size, humidifiers-by-room-size, holiday-hosting-seating-serving-storage,
 guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage, plus the 2026-10-21
