@@ -162,6 +162,17 @@ Run by hand after the scheduled 10:00 run stalled on a shell approval prompt. Al
 
 **Still never on Threads (0).**
 
+## Daily round 2026-10-25 (fresh angles, oldest thread first)
+
+Backlog empty, so 4 posts: 2 Picks + 2 Clarity, articles whose latest thread was oldest (2026-09-22).
+All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| refrigerator-organization-ideas.md | linked, fresh angle: rolling caddy for the back of the shelf | organization | 2026-10-25 |
+| spice-rack-organization-ideas.md | linked, fresh angle: over-the-door rack and grip liner | organization | 2026-10-25 |
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

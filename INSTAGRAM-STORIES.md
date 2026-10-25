@@ -229,8 +229,24 @@ Share. Confirmed at instagram.com/stories/offbahr/: 6 segments (3 Picks + 3 Clar
 | kitchen-knives-and-knife-storage-guide.md | posted 2026-10-24 | "See the 4 knives" |
 | holiday-travel-packing-luggage-guide.md | posted 2026-10-24 | "See the packing list" |
 
-**Never had a Story yet (10):** home-office-upgrade-chair-desk-guide, robot-vacuum-buying-guide,
-air-purifiers-by-room-size, humidifiers-by-room-size, holiday-hosting-seating-serving-storage,
-guest-room-ready-for-holiday-visitors, holiday-baking-setup-mixer-tools-storage, plus the 2026-10-21
-guides: space-heaters-heated-throws-warm-one-room, artificial-christmas-trees-and-tree-storage,
-home-gym-equipment-for-small-spaces.
+## Daily round 2026-10-25
+
+All 6 from the never-had-a-Story list (Clarity has none left). Share to set to `offbahr` only
+before each Share (zoom check). All 6 shown "Instagram, Active" in Business Suite's Planner for
+10/25; instagram.com/stories/offbahr/ showed 12 segments (these 6 plus the 6 from 10/24), and 5 of
+the 6 were viewed there directly (the guest-room one was not viewed: the viewer froze on the last
+screenshots). Coordinates moved slightly this run: More stickers (393,330), Link sticker (628,197),
+link field (617,343); sticker text field via `find` "Custom sticker text", sticker Apply (727,452),
+editor Apply (1197,590).
+
+| Article | Posted | Link sticker text |
+|---|---|---|
+| home-office-upgrade-chair-desk-guide.md | posted 2026-10-25 | "See the 5 upgrades" |
+| robot-vacuum-buying-guide.md | posted 2026-10-25 | "See the 6 models" |
+| air-purifiers-by-room-size.md | posted 2026-10-25 | "Match one to your room" |
+| humidifiers-by-room-size.md | posted 2026-10-25 | "See the 6 humidifiers" |
+| holiday-hosting-seating-serving-storage.md | posted 2026-10-25 | "See the hosting gear" |
+| guest-room-ready-for-holiday-visitors.md | posted 2026-10-25 | "Get the room ready" |
+
+**Never had a Story yet (4):** holiday-baking-setup-mixer-tools-storage, space-heaters-heated-throws-warm-one-room,
+artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.

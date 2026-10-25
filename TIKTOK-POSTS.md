@@ -203,3 +203,16 @@ review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POST
 | holiday-travel-packing-luggage-guide.md | "Pack for the holidays in one carry-on" | posted 2026-10-25 |
 
 Every Picks article has at least one TikTok.
+
+## Daily round 2026-10-25 (repeat, oldest TikTok first)
+
+The 2026-10-24 round already put 3 TikToks on 10/25 (knives, travel, Enneagram), so this run posted the
+remaining 2 (one Picks, one Clarity). Vertical card from `tools/social/render_card.py`, sound "Lofi
+Chill" (Alberto Lofi), Now / Everyone. Listed once in TikTok Studio's content list ("Content under
+review" at check time). Clarity's post is in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title | Status |
+|---|---|---|
+| winter-gear-storage-ideas.md | "One pocket per person ends the lost-glove hunt" | posted 2026-10-25 |
+
+Next repeats, oldest first: the 2026-10-16 repost round.
