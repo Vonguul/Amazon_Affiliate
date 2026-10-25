@@ -284,6 +284,27 @@ def draw_symbol(name, t, reveal):
 
 # ---------------------------------------------------------------- backgrounds
 
+BG_DIR = os.path.join(HERE, 'backgrounds', 'picks')
+BG_TOPICS = [  # first keyword found in the slug wins; scene files live in backgrounds/picks/
+    ('kitchen', ['kitchen', 'pantry', 'spice', 'coffee', 'espresso', 'baking', 'refrigerator', 'freezer', 'food-storage',
+                 'under-sink', 'wine', 'water-bottle', 'knife', 'knives', 'pots-and-pans', 'cookware']),
+    ('closet', ['closet', 'bedroom', 'shoe', 'sock', 'jewelry', 'makeup', 'under-bed', 'linen', 'guest-room', 'dorm', 'nursery']),
+    ('entryway', ['entryway', 'winter-gear', 'garage', 'car-', 'pet', 'laundry', 'recycling', 'cleaning', 'travel']),
+    ('home-office', ['office', 'desk', 'cord', 'cable', 'bookshelf', 'craft', 'digital', 'iphone', 'board-game', 'junk-drawer']),
+    ('winter-living-room', ['humidifier', 'purifier', 'heater', 'holiday', 'christmas', 'robot-vacuum', 'gift', 'hosting',
+                            'living-room', 'game-room', 'home-gym', 'indoor-growing', 'bathroom']),
+]
+
+
+def auto_background(slug):
+    for name, keys in BG_TOPICS:
+        if any(k in slug for k in keys):
+            path = os.path.join(BG_DIR, name + '.jpg')
+            if os.path.exists(path):
+                return path
+    return None
+
+
 
 def starfield(seed):
     rnd = random.Random(seed)
@@ -369,7 +390,10 @@ def render(site, slug, headline, out, symbol=None, bg_path=None):
         base, stars = starfield(int(hashlib.md5(slug.encode()).hexdigest(), 16) % 10 ** 6)
         photo = None
     else:
-        if bg_path and os.path.exists(bg_path):
+        if bg_path == 'auto':
+            bg_path = auto_background(slug)
+            print('background:', os.path.basename(bg_path) if bg_path else 'none (no scene matches; blurred product)')
+        if bg_path and bg_path != 'none' and os.path.exists(bg_path):
             photo = photo_background(bg_path)
         else:  # no AI scene: a blurred, enlarged real product photo behind everything
             photo = photo_background(prods[0]).filter(ImageFilter.GaussianBlur(38))
@@ -468,6 +492,6 @@ if __name__ == '__main__':
     ap.add_argument('headline')
     ap.add_argument('out')
     ap.add_argument('--symbol', choices=sorted(list(FIGURES) + list(SOLIDS)))
-    ap.add_argument('--bg', help='Picks background image (AI room scene)')
+    ap.add_argument('--bg', help="Picks background: 'auto' (AI room scene matched to the topic), 'none' (blurred product photo), or a file path")
     a = ap.parse_args()
     render(a.site, a.slug, a.headline, a.out, a.symbol, a.bg)
