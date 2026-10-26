@@ -13,11 +13,6 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
-| Thanksgiving prep (roaster, thermometers, carving, gravy) | Picks | 2026-10-26 | research/RESEARCH-QUEUE-E-PICKS-2026-10-26.md (7a) | publish by early Nov |
-| Winter car and driveway (brush, cover, shovel, ice melt) | Picks | 2026-10-26 | same (7b) | publish early Nov |
-| Air fryers by household size | Picks | 2026-10-26 | same (7d) | evergreen |
-| 2027 astrology and moon planners and calendars | Clarity | 2026-10-26 | ../vonguul-clarity/research/RESEARCH-QUEUE-E-CLARITY-2026-10-26.md (8a) | publish by mid-Nov |
-| Incense for beginners | Clarity | 2026-10-26 | same (8b) | evergreen |
 
 ## Hold (recheck after the date)
 
@@ -52,3 +47,11 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 Built and published topics are in each repo's `src/content/articles/`; the research files in
 `research/` hold their product evidence.
+
+| Topic | Site | Live | Article |
+|---|---|---|---|
+| Thanksgiving prep | Picks | 2026-10-26 | thanksgiving-turkey-tools-roaster-thermometer |
+| Winter car and driveway | Picks | 2026-10-26 | winter-car-driveway-snow-tools |
+| Air fryers by household size | Picks | 2026-10-26 | air-fryers-by-household-size |
+| 2027 astrology and moon planners | Clarity | 2026-10-26 | 2027-astrology-moon-planners-calendars |
+| Incense for beginners | Clarity | 2026-10-26 | incense-for-beginners-sticks-cones-holders |
