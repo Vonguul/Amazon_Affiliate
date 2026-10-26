@@ -13,6 +13,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
+| Stocking stuffers that organize | Picks | 2026-10-26 | research/RESEARCH-AUTO-2026-10-26-stocking-stuffers-that-organize.md | 8 pass; BUILD (or ADD to the organizing gift guide); publish early to mid Nov |
+| Imbolc for beginners | Clarity | 2026-10-26 | ../vonguul-clarity/research/RESEARCH-AUTO-2026-10-26-imbolc-for-beginners.md | 5 pass (all Amazon-sold books); BUILD; publish by mid-Jan |
 
 ## Hold (recheck after the date)
 
@@ -31,8 +33,6 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
-| Stocking stuffers that organize (small gifts, no prices) | Picks | Nov to mid-Dec |
-| Imbolc (Llewellyn Sabbat Essentials + candles), next Wheel of the Year festival | Clarity | publish by mid-Jan |
 | New-year reset: label makers, drawer systems, closet systems | Picks | late Dec to Jan |
 | Dream interpretation books and dream journals | Clarity | evergreen |
 | Jung and archetypes for beginners (Man and His Symbols etc.) | Clarity | evergreen |
