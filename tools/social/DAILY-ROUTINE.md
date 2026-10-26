@@ -54,7 +54,7 @@ Keep Bash for the allowed forms above, one simple command per call.
   sticker `?src=instagram`. Format: `https://<site>/articles/<slug>/?src=...`
 - Do not post Support Vonguul posts, replies, DMs or anything else. Those need the user's approval.
 
-## Videos (since 2026-10-25: Stories, TikTok and Pinterest use motion videos, not still cards)
+## Videos (since 2026-10-25: TikTok and Pinterest use motion videos; Stories use the video's still last frame, since 2026-10-26)
 
 The owner switched visuals from still cards to 9-second vertical videos. Render ONE video per
 article per day and reuse it on every platform it goes to (each render takes about 75 s; give the
@@ -76,6 +76,10 @@ characters, no prices. Check the printed `background:` / `symbol:` line.
   - `--bg none` uses a blurred real product photo. Format `motion-plain`. No label.
   - For Instagram Stories, always render Picks with `--bg none` unless Business Suite shows an
     "AI info"/AI label option you can switch on (Meta labeling is not verified in this workflow).
+- **Instagram Stories use the still, not the video** (owner decision 2026-10-26). Business Suite
+  disables "Add link" for an uploaded video and its video editor has no stickers, so a video Story
+  cannot carry the link sticker. Upload the `<slug>.png` last frame that `render_motion.py` writes
+  next to the MP4 instead; the link sticker matters more than the motion. Log the format as `still`.
 - Log the format with every TikTok row, Story row and PIN-BATCH file (see Logging), so the weekly
   review can compare `motion-ai` and `motion-plain` views. The still-card renderer `render_card.py`
   is only a fallback if a video render fails.
@@ -101,8 +105,9 @@ characters, no prices. Check the printed `background:` / `symbol:` line.
 
 Instagram's website cannot create Stories; use Business Suite.
 
-1. Render (or reuse) the article's video as in "Videos" above (Picks Stories: `--bg none`).
-   `file_upload` only reads files in the session's scratchpad, so the MP4 must be there.
+1. Render (or reuse) the article's video as in "Videos" above (Picks Stories: `--bg none`) and use
+   its `<slug>.png` last frame, not the MP4: video Stories can't take a link sticker (see "Videos").
+   `file_upload` only reads files in the session's scratchpad, so the PNG must be there.
 2. Open `https://business.facebook.com/latest/story_composer/?asset_id=109580998478548&business_id=123462012162006`.
 3. Share to: click the dropdown (600,105). It defaults to BOTH `offbar1` (Facebook Page) and
    `offbahr`. Click `offbar1` (410,168) to uncheck it, zoom to confirm only `offbahr` is checked,
@@ -110,9 +115,12 @@ Instagram's website cannot create Stories; use Business Suite.
 4. Before clicking "Add photo/video", run this in the page so no native file dialog opens:
    `if(!window.__patched){const o=HTMLInputElement.prototype.click;HTMLInputElement.prototype.click=function(){if(this.type==='file'){if(!this.isConnected){document.body.appendChild(this)}return}return o.call(this)};window.__patched=true}`
    Then `find` and click "Add photo/video", `find` "file input element (type=file)", and
-   `file_upload` the MP4 to it. Wait 15 s for the video to process (screenshot to confirm the
-   preview shows it). If the video will not load after a retry, upload the matching `.png` instead.
-5. Edit (715,214) → More stickers (393,347) → Link sticker (628,213) → click the link field
+   `file_upload` the PNG to it. Wait 5 s.
+5. Business Suite screenshots often time out here; `find` refs work reliably (verified 2026-10-26:
+   "Edit button next to uploaded media" → "More stickers button" → "Create link sticker button" →
+   "Link textbox" / "Custom sticker text textbox" / sticker "Apply" → editor "Apply" → "Share
+   button (not Share now)"; confirm Share to with `document.querySelector('[role=combobox]').textContent`).
+   Coordinates, if screenshots work: Edit (715,214) → More stickers (393,347) → Link sticker (628,213) → click the link field
    (620,358) and type the URL → click the sticker text field (610,428) and type the sticker text
    (25 characters max, e.g. "See full breakdown") → zoom to check both fields, and read the
    input values with JS to confirm the URL → Apply (727,468) → editor Apply (1198,605).
@@ -194,7 +202,7 @@ Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIK
 - Stories: add rows to the newest dated table in each `INSTAGRAM-STORIES.md` (article, date,
   sticker text, format) and update the "Never had a Story yet" lists.
 - Format values: `motion-geometry` (Clarity), `motion-ai` / `motion-plain` (Picks test), `still`
-  (fallback card). Add a `**Format:**` line to each new PIN-BATCH file.
+  (fallback card, and every Instagram Story since 2026-10-26). Add a `**Format:**` line to each new PIN-BATCH file.
 - Pinterest: the new `PIN-BATCH-NN.md` files and, for Clarity, `PINTEREST-BOARDS.md`. TikTok: the
   two `TIKTOK-POSTS.md` files.
 - In each repo, with `git -C <repo>` (never `cd`): `pull --rebase`, `add` only the tracker files you changed, commit with a
