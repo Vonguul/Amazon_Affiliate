@@ -173,6 +173,19 @@ All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarit
 | refrigerator-organization-ideas.md | linked, fresh angle: rolling caddy for the back of the shelf | organization | 2026-10-25 |
 | spice-rack-organization-ideas.md | linked, fresh angle: over-the-door rack and grip liner | organization | 2026-10-25 |
 
+## Daily round 2026-10-26 (new 2026-10-26 guides)
+
+All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| thanksgiving-turkey-tools-roaster-thermometer.md | linked, tip: 165°F in three spots, probe plus instant-read | Thanksgiving | 2026-10-26 |
+| winter-car-driveway-snow-tools.md | linked, tip: windshield cover the night before | winter | 2026-10-26 |
+| air-fryers-by-household-size.md | linked, tip: size by household, quarts guide | Air fryer | 2026-10-26 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

@@ -250,3 +250,26 @@ editor Apply (1197,590).
 
 **Never had a Story yet (4):** holiday-baking-setup-mixer-tools-storage, space-heaters-heated-throws-warm-one-room,
 artificial-christmas-trees-and-tree-storage, home-gym-equipment-for-small-spaces.
+
+## Daily round 2026-10-26
+
+6 never-had-a-Story articles: 4 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`).
+Share to set to `offbahr` only before each Share (checked via the combobox text). Confirmed at
+instagram.com/stories/offbahr/: 12 segments (the 6 from 10/25 plus these 6), link sticker visible.
+
+**Video Stories can't carry a link (found 2026-10-26).** With an MP4 uploaded, Business Suite's
+"Add link" button is disabled (`aria-disabled="true"`) and the video editor only offers Trim and
+Crop, no stickers. So a motion-video Story has no link sticker. Each Story used the `.png` last
+frame that `render_motion.py` writes next to the MP4 (same design, still), which keeps the link
+sticker: Edit -> More stickers -> Create link sticker. Format logged as `still`. Business Suite
+screenshots timed out again; every step used `find` refs (ref ids were stable across all 6).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| thanksgiving-turkey-tools-roaster-thermometer.md | posted 2026-10-26 | "See the turkey tools" | still (motion last frame) |
+| holiday-baking-setup-mixer-tools-storage.md | posted 2026-10-26 | "See the baking setup" | still (motion last frame) |
+| space-heaters-heated-throws-warm-one-room.md | posted 2026-10-26 | "Warm just one room" | still (motion last frame) |
+| artificial-christmas-trees-and-tree-storage.md | posted 2026-10-26 | "See the 5 trees" | still (motion last frame) |
+
+**Never had a Story yet (3):** home-gym-equipment-for-small-spaces, winter-car-driveway-snow-tools,
+air-fryers-by-household-size.

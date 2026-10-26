@@ -216,3 +216,19 @@ review" at check time). Clarity's post is in `../vonguul-clarity/TIKTOK-POSTS.md
 | winter-gear-storage-ideas.md | "One pocket per person ends the lost-glove hunt" | posted 2026-10-25 |
 
 Next repeats, oldest first: the 2026-10-16 repost round.
+
+## Daily round 2026-10-26 (new 2026-10-26 guides, first time on TikTok)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Thanksgiving
+and air fryers were rendered with `--bg auto` but the renderer printed `background: none` (no scene
+matched), so all three are `motion-plain` and carry no AI label. All listed once in TikTok Studio's
+content list (air fryers still "Content under review" at check time). Clarity's 2 posts are in
+`../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| thanksgiving-turkey-tools-roaster-thermometer.md | "Is the turkey done? The clock can't tell you." | posted 2026-10-26 (first TikTok) | motion-plain |
+| winter-car-driveway-snow-tools.md | "Skip scraping the windshield this winter." | posted 2026-10-26 (first TikTok) | motion-plain |
+| air-fryers-by-household-size.md | "What size air fryer do you actually need?" | posted 2026-10-26 (first TikTok) | motion-plain |
+
+Every Picks article has at least one TikTok. Next repeats, oldest first: the 2026-10-16 repost round.
