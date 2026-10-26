@@ -195,6 +195,43 @@ Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIK
 - In each repo, with `git -C <repo>` (never `cd`): `pull --rebase`, `add` only the tracker files you changed, commit with a
   message ending in `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, push.
 
+## Content pipeline (last step of every run, added 2026-10-26)
+
+So the backlog never runs dry, end every run by keeping researched topics waiting for the owner.
+Do this AFTER posting and logging are pushed, and skip it if the run hit a stop condition.
+
+1. Read `vonguul-picks/research/PIPELINE.md`. Count the rows in "Researched, waiting for the
+   owner's approval" per site. If both sites have 3 or more, stop here (nothing to do).
+2. Otherwise research ONE new topic for each site that is short (at most 2 topics per run). Take the
+   first fitting row from "Ideas" (seasonal window first), or a "Hold" row whose recheck date has
+   passed, or a spin-off of a recently published article. Skip anything an existing article already
+   covers: `grep -ril "<keyword>" /c/Users/laker/Downloads/vonguul-picks/src/content/articles /c/Users/laker/Downloads/vonguul-clarity/src/content/articles`.
+3. Verify products on live Amazon pages with the built-in browser (`mcp__Claude_Browser__*`):
+   navigate to https://www.amazon.com/robots.txt, then from page JS `fetch('/s?k=...')` for search and
+   `fetch('/dp/<ASIN>')` for each product page, parsed with DOMParser (rating `#acrPopover
+   .a-icon-alt`, reviews `#acrCustomerReviewText`, stock `#availability`, seller
+   `#merchantInfoFeature_feature_div`, buy box `#add-to-cart-button`). Keep each JS call under ~8
+   product fetches (45 s timeout). If the built-in browser is unavailable or asks for approval, use
+   Claude in Chrome on an amazon.com tab with the same fetch method; if that is blocked too, skip
+   research today and say so in the report.
+4. Quality bar (same as every batch): in stock, rating about 4.3 or better with a real review count,
+   an Amazon-sold or reputable seller, and an ASIN not already on either site (check with
+   `grep -rh 'asin: "' /c/Users/laker/Downloads/vonguul-picks/src/content/articles /c/Users/laker/Downloads/vonguul-clarity/src/content/articles`).
+   Aim for 5 to 9 passing products. No prices in anything meant for an article (prices may appear in
+   the research file as internal notes). Clarity: plan a "Worth being direct about" angle; no health
+   or efficacy claims.
+5. Write the findings with the Write tool to `vonguul-picks/research/RESEARCH-AUTO-<YYYY-MM-DD>-<topic-slug>.md`
+   (Clarity: `vonguul-clarity/research/...`), in the same table format as
+   `RESEARCH-QUEUE-E-PICKS-2026-10-26.md`: product, ASIN, rating (reviews), seller, verdict, plus
+   writing notes and a recommendation (BUILD, ADD to an existing article, or HOLD with a reason).
+6. Update `PIPELINE.md`: move the topic from Ideas/Hold to "Researched, waiting for the owner's
+   approval" (or to Hold with a recheck date if it failed the bar). Commit only the research files
+   and PIPELINE.md with `git -C` (pull --rebase, add, commit, push), message ending in the
+   Co-Authored-By line.
+7. **Never build, draft or publish an article in this routine.** Building needs the owner's approval
+   in a session. In the final report, list every topic waiting for approval (site, topic, product
+   count, recommendation) so the owner can reply "build X".
+
 ## Stop conditions
 
 Stop posting (log what was done, report it) if: the wrong account is signed in; a platform shows
