@@ -13,6 +13,11 @@ Bash forms: `python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_m
 Anything else will stop the run on an approval prompt. **Never write `cd <repo> && git ...`**: a
 cd followed by git always asks for approval, which stalled the 2026-10-23 run for six hours. Use
 `git -C <repo>` and one git command per Bash call.
+**No shell loops or command substitution** (`for`, `while`, `$(...)`, backticks, `xargs`): they are not
+covered by the allow rules and stalled the 2026-10-26 run on an approval prompt. To search the
+trackers or articles use the **Grep** tool (e.g. pattern = the slug, path = the repo, glob = `*.md`,
+output_mode = files_with_matches or count) and the **Glob** tool to list files; read files with Read.
+Keep Bash for the allowed forms above, one simple command per call.
 
 ## Daily quota
 
