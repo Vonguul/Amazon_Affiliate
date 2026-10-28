@@ -272,4 +272,22 @@ screenshots timed out again; every step used `find` refs (ref ids were stable ac
 | artificial-christmas-trees-and-tree-storage.md | posted 2026-10-26 | "See the 5 trees" | still (motion last frame) |
 
 **Never had a Story yet (3):** home-gym-equipment-for-small-spaces, winter-car-driveway-snow-tools,
-air-fryers-by-household-size.
+air-fryers-by-household-size (all posted 2026-10-28, below).
+
+## Daily round 2026-10-28
+
+The last 3 never-had-a-Story articles plus the oldest Stories (2026-09-10): 4 Picks + 2 Clarity
+(Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Picks stills rendered `--bg none`.
+Share to set to `offbahr` only before each Share (combobox text). Business Suite screenshots timed out
+again partway through; `find` refs worked (same ids each time). Confirmed at
+instagram.com/stories/offbahr/: 6 segments, link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| home-gym-equipment-for-small-spaces.md | posted 2026-10-28 | "See the 7 picks" | still (motion last frame) |
+| winter-car-driveway-snow-tools.md | posted 2026-10-28 | "See the winter kit" | still (motion last frame) |
+| air-fryers-by-household-size.md | posted 2026-10-28 | "Find your size" | still (motion last frame) |
+| under-sink-organization-ideas.md | posted 2026-10-28 (repeat, oldest Story) | "See all 6 fixes" | still (motion last frame) |
+
+**Never had a Story yet (0).** From here, cycle oldest Story first (next: craft-room 2026-09-10, then the
+2026-09-12 batch).

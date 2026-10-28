@@ -186,6 +186,19 @@ All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarit
 
 **Still never on Threads (0).**
 
+## Daily round 2026-10-28 (fresh angles, oldest thread first)
+
+Backlog empty, so 4 posts: 2 Picks + 2 Clarity, articles whose latest thread was oldest. All linked
+(`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.) No 2026-10-27 round is logged in any tracker.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| baking-supplies-bakeware-organization-ideas.md | linked, fresh angle: cookie cutters and piping tips are a small-parts problem | Organization | 2026-10-28 |
+| gift-ideas-for-people-who-love-organizing.md | linked, fresh angle: gift a fix for a daily annoyance they'd never buy themselves | gift ideas | 2026-10-28 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

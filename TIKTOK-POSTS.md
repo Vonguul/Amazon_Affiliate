@@ -232,3 +232,18 @@ content list (air fryers still "Content under review" at check time). Clarity's 
 | air-fryers-by-household-size.md | "What size air fryer do you actually need?" | posted 2026-10-26 (first TikTok) | motion-plain |
 
 Every Picks article has at least one TikTok. Next repeats, oldest first: the 2026-10-16 repost round.
+
+## Daily round 2026-10-28 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B:
+laundry `--bg auto` (background `entryway.jpg`), under-sink `--bg none`, craft room `--bg auto`
+(background `home-office.jpg`). Both `motion-ai` posts had "AI-generated content" switched on (the first
+toggle of the day shows a "Labeling AI-generated content" explainer; its "Turn on" applies the label to
+that post). All listed once in TikTok Studio's content list (craft room and under-sink still "Content
+under review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| laundry-room-organization-ideas.md | "Sort laundry as it goes in, not on wash day." | posted 2026-10-28 | motion-ai (AI label on) |
+| under-sink-organization-ideas.md | "Under-sink storage that works around the pipes." | posted 2026-10-28 | motion-plain |
+| craft-room-organization-ideas.md | "Craft supplies that actually have a home." | posted 2026-10-28 | motion-ai (AI label on) |
