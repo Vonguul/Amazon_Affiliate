@@ -15,6 +15,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 |---|---|---|---|---|
 | Stocking stuffers that organize | Picks | 2026-10-26 | research/RESEARCH-AUTO-2026-10-26-stocking-stuffers-that-organize.md | 8 pass; BUILD (or ADD to the organizing gift guide); publish early to mid Nov |
 | Imbolc for beginners | Clarity | 2026-10-26 | ../vonguul-clarity/research/RESEARCH-AUTO-2026-10-26-imbolc-for-beginners.md | 5 pass (all Amazon-sold books); BUILD; publish by mid-Jan |
+| New-year reset: label makers, closet systems, clear bins | Picks | 2026-10-29 | research/RESEARCH-AUTO-2026-10-29-new-year-reset.md | 7 pass (4 Amazon-sold); BUILD; publish last week of Dec |
+| Dream interpretation books | Clarity | 2026-10-29 | ../vonguul-clarity/research/RESEARCH-AUTO-2026-10-29-dream-interpretation-books.md | 7 pass (all Amazon-sold books); BUILD; evergreen |
 
 ## Hold (recheck after the date)
 
@@ -33,8 +35,6 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
-| New-year reset: label makers, drawer systems, closet systems | Picks | late Dec to Jan |
-| Dream interpretation books and dream journals | Clarity | evergreen |
 | Jung and archetypes for beginners (Man and His Symbols etc.) | Clarity | evergreen |
 | Paper and document organization (tax season) | Picks | Jan to Mar |
 | Crystal storage and display | Clarity | evergreen |
