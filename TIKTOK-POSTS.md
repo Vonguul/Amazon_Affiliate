@@ -247,3 +247,17 @@ under review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTO
 | laundry-room-organization-ideas.md | "Sort laundry as it goes in, not on wash day." | posted 2026-10-28 | motion-ai (AI label on) |
 | under-sink-organization-ideas.md | "Under-sink storage that works around the pipes." | posted 2026-10-28 | motion-plain |
 | craft-room-organization-ideas.md | "Craft supplies that actually have a home." | posted 2026-10-28 | motion-ai (AI label on) |
+
+## Daily round 2026-10-29 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B:
+home office `--bg auto` (background `home-office.jpg`, "AI-generated content" switched on), small bathroom
+`--bg none`, kids' toy room `--bg auto` but the renderer printed `background: none` (no scene matched), so it
+is `motion-plain` with no label. All listed once in TikTok Studio's content list (kids' toy room still
+"Content under review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| home-office-organization-ideas.md | "Get the cable tangle off the floor first." | posted 2026-10-29 | motion-ai (AI label on) |
+| small-bathroom-storage-ideas.md | "Small bathroom storage, no drilling into tile." | posted 2026-10-29 | motion-plain |
+| kids-toy-room-organization-ideas.md | "Toy storage a kid can clean up alone." | posted 2026-10-29 | motion-plain |

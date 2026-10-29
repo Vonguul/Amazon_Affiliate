@@ -199,6 +199,19 @@ Backlog empty, so 4 posts: 2 Picks + 2 Clarity, articles whose latest thread was
 
 **Still never on Threads (0).**
 
+## Daily round 2026-10-29 (fresh angles, oldest thread first)
+
+Backlog empty, so 4 posts: 2 Picks + 2 Clarity, articles whose latest thread was oldest (2026-10-04). All
+linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| indoor-growing-systems-guide.md | linked, fresh angle: decide how much you want to grow first; a plain grow light needs a timer | gardening | 2026-10-29 |
+| iphone-15-pro-max-cases.md | linked, fresh angle: the no-MagSafe-magnets mistake; wallet cases block wireless charging | iPhone | 2026-10-29 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

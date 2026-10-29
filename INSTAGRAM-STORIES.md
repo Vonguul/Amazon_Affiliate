@@ -291,3 +291,19 @@ instagram.com/stories/offbahr/: 6 segments, link sticker visible.
 
 **Never had a Story yet (0).** From here, cycle oldest Story first (next: craft-room 2026-09-10, then the
 2026-09-12 batch).
+
+## Daily round 2026-10-29 (repeats, oldest Story first)
+
+5 Stories (the routine's "keep 5 a day" once the never-had list is empty): 3 Picks + 2 Clarity (Clarity
+rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Picks stills rendered `--bg none`. Share to set to
+`offbahr` only before each Share (combobox text). Business Suite screenshots timed out again; `find` refs
+worked (same ids each time). Each showed "story is being published"; confirmed at
+instagram.com/stories/offbahr/: 5 segments, link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| craft-room-organization-ideas.md | posted 2026-10-29 (repeat, oldest Story) | "See all 6 ideas" | still (motion last frame) |
+| small-bathroom-storage-ideas.md | posted 2026-10-29 (repeat) | "See all 10 ideas" | still (motion last frame) |
+| small-bedroom-closet-organization-ideas.md | posted 2026-10-29 (repeat) | "See all 11 ideas" | still (motion last frame) |
+
+Next oldest: entryway and kitchen-counter (2026-09-12), then the 2026-09-15 batch.
