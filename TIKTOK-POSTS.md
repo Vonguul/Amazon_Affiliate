@@ -261,3 +261,17 @@ is `motion-plain` with no label. All listed once in TikTok Studio's content list
 | home-office-organization-ideas.md | "Get the cable tangle off the floor first." | posted 2026-10-29 | motion-ai (AI label on) |
 | small-bathroom-storage-ideas.md | "Small bathroom storage, no drilling into tile." | posted 2026-10-29 | motion-plain |
 | kids-toy-room-organization-ideas.md | "Toy storage a kid can clean up alone." | posted 2026-10-29 | motion-plain |
+
+## Daily round 2026-10-30 (new guide, then repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B: stocking
+stuffers `--bg auto` but the renderer printed `background: none`, so it is `motion-plain` with no label; linen closet
+`--bg auto` (background `closet.jpg`, "AI-generated content" switched on); nursery `--bg none`. All listed once in
+TikTok Studio's content list (nursery still "Content under review" at check time). Clarity's 2 posts are in
+`../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| stocking-stuffers-that-organize.md | "The best stocking stuffers fix one tiny annoyance." | posted 2026-10-30 (first TikTok) | motion-plain |
+| linen-closet-organization-ideas.md | "Your linen closet needs boundaries, not more shelves." | posted 2026-10-30 | motion-ai (AI label on) |
+| nursery-organization-ideas.md | "Baby clothes stop fitting every couple of months." | posted 2026-10-30 | motion-plain |

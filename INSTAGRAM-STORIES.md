@@ -307,3 +307,19 @@ instagram.com/stories/offbahr/: 5 segments, link sticker visible.
 | small-bedroom-closet-organization-ideas.md | posted 2026-10-29 (repeat) | "See all 11 ideas" | still (motion last frame) |
 
 Next oldest: entryway and kitchen-counter (2026-09-12), then the 2026-09-15 batch.
+
+## Daily round 2026-10-30 (new guide, then repeats, oldest Story first)
+
+6 Stories: 3 Picks + 3 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Picks stills rendered
+`--bg none`. Share to set to `offbahr` only before each Share (combobox text). `find` refs worked; the editor Apply
+ref can read `ref_192` instead of `ref_191`, but `ref_191` still applied the sticker (checked by reopening the
+editor). Each showed "story is being published"; instagram.com/stories/offbahr/ showed 9 segments (these 6 plus,
+apparently, 3 from 10/29 not yet expired), link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| stocking-stuffers-that-organize.md | posted 2026-10-30 (first Story) | "See the 8 small gifts" | still (motion last frame) |
+| entryway-organization-ideas.md | posted 2026-10-30 (repeat, oldest Story) | "See all 6 ideas" | still (motion last frame) |
+| kitchen-counter-organization-ideas.md | posted 2026-10-30 (repeat) | "See all 11 ideas" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the 2026-09-15 batch (shoe storage, coffee bar, freezer, car trunk).

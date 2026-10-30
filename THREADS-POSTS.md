@@ -212,6 +212,19 @@ linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 
 
 **Still never on Threads (0).**
 
+## Daily round 2026-10-30 (new guides, then fresh angles)
+
+4 posts: 2 Picks + 2 Clarity, the two new 2026-10-30 guides plus the oldest threads. All linked
+(`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| stocking-stuffers-that-organize.md | linked, tip: each one fixes one tiny annoyance people don't buy for themselves | Organization | 2026-10-30 |
+| winter-gear-storage-ideas.md | linked, fresh angle: a tray only protects the floor; a forced-air dryer dries boots from inside overnight | Organization | 2026-10-30 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the
