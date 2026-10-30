@@ -13,6 +13,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
+| Paper and document organization (tax season) | Picks | 2026-10-30 | research/RESEARCH-AUTO-2026-10-30-paper-document-organization.md | 9 products pass; BUILD, publish early January |
+| Jung and archetypes for beginners | Clarity | 2026-10-30 | vonguul-clarity research/RESEARCH-AUTO-2026-10-30-jung-archetypes.md | 9 products pass; BUILD, evergreen |
 
 ## Approved and built, waiting for a publish date
 
@@ -42,8 +44,6 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
-| Jung and archetypes for beginners (Man and His Symbols etc.) | Clarity | evergreen |
-| Paper and document organization (tax season) | Picks | Jan to Mar |
 | Crystal storage and display | Clarity | evergreen |
 | Spring cleaning tools (steam mop, carpet cleaner, caddies) | Picks | Feb to Mar |
 | Ostara / spring equinox | Clarity | publish by early Mar |
