@@ -24,8 +24,7 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 |---|---|---|---|
 | New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 |
 | Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 |
-| Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | not set; owner to approve (researched as early January) |
-| Jung and archetypes for beginners | Clarity | vonguul-clarity `draft/jung-archetypes` (jung-archetypes-for-beginners) | not set; owner to approve (evergreen) |
+| Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | 2027-01-04 (scheduled task `vonguul-publish-paper-organization`) |
 
 ## Hold (recheck after the date)
 
@@ -64,3 +63,4 @@ Built and published topics are in each repo's `src/content/articles/`; the resea
 | Incense for beginners | Clarity | 2026-10-26 | incense-for-beginners-sticks-cones-holders |
 | Stocking stuffers that organize | Picks | 2026-10-30 | stocking-stuffers-that-organize |
 | Dream interpretation books | Clarity | 2026-10-30 | dream-interpretation-books |
+| Jung and archetypes for beginners | Clarity | 2026-10-30 | jung-archetypes-for-beginners |
