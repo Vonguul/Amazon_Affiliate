@@ -13,19 +13,19 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
-| Paper and document organization (tax season) | Picks | 2026-10-30 | research/RESEARCH-AUTO-2026-10-30-paper-document-organization.md | 9 products pass; BUILD, publish early January |
-| Jung and archetypes for beginners | Clarity | 2026-10-30 | vonguul-clarity research/RESEARCH-AUTO-2026-10-30-jung-archetypes.md | 9 products pass; BUILD, evergreen |
 
 ## Approved and built, waiting for a publish date
 
 Built on a draft branch (pushed to GitHub as backup, NOT on main). On the date: rebase the branch on
 main, set `pubDate` to that day, build, push the branch to main, verify the live page, delete the
-branch, and move the row to Live. Only these two rows are approved for publishing on their dates.
+branch, and move the row to Live. Only rows with a date are approved for publishing on that date.
 
 | Topic | Site | Branch | Publish on |
 |---|---|---|---|
 | New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 |
 | Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 |
+| Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | not set; owner to approve (researched as early January) |
+| Jung and archetypes for beginners | Clarity | vonguul-clarity `draft/jung-archetypes` (jung-archetypes-for-beginners) | not set; owner to approve (evergreen) |
 
 ## Hold (recheck after the date)
 
