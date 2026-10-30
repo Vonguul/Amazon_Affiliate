@@ -13,9 +13,17 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
-| Imbolc for beginners | Clarity | 2026-10-26 | ../vonguul-clarity/research/RESEARCH-AUTO-2026-10-26-imbolc-for-beginners.md | 5 pass (all Amazon-sold books); BUILD; publish by mid-Jan |
-| New-year reset: label makers, closet systems, clear bins | Picks | 2026-10-29 | research/RESEARCH-AUTO-2026-10-29-new-year-reset.md | 7 pass (4 Amazon-sold); BUILD; publish last week of Dec |
-| Dream interpretation books | Clarity | 2026-10-29 | ../vonguul-clarity/research/RESEARCH-AUTO-2026-10-29-dream-interpretation-books.md | 7 pass (all Amazon-sold books); BUILD; evergreen |
+
+## Approved and built, waiting for a publish date
+
+Built on a draft branch (pushed to GitHub as backup, NOT on main). On the date: rebase the branch on
+main, set `pubDate` to that day, build, push the branch to main, verify the live page, delete the
+branch, and move the row to Live. Only these two rows are approved for publishing on their dates.
+
+| Topic | Site | Branch | Publish on |
+|---|---|---|---|
+| New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 |
+| Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 |
 
 ## Hold (recheck after the date)
 
@@ -55,3 +63,4 @@ Built and published topics are in each repo's `src/content/articles/`; the resea
 | 2027 astrology and moon planners | Clarity | 2026-10-26 | 2027-astrology-moon-planners-calendars |
 | Incense for beginners | Clarity | 2026-10-26 | incense-for-beginners-sticks-cones-holders |
 | Stocking stuffers that organize | Picks | 2026-10-30 | stocking-stuffers-that-organize |
+| Dream interpretation books | Clarity | 2026-10-30 | dream-interpretation-books |
