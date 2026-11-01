@@ -26,7 +26,7 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 | New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 (scheduled task `vonguul-publish-new-year-reset`) |
 | Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 (scheduled task `vonguul-publish-imbolc`) |
 | Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | 2027-01-04 (scheduled task `vonguul-publish-paper-organization`) |
-| Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | no date yet, owner to confirm (early February suggested) |
+| Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | 2027-02-01 (scheduled task `vonguul-publish-spring-cleaning`) |
 
 ## Hold (recheck after the date)
 
