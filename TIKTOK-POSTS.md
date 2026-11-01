@@ -275,3 +275,17 @@ TikTok Studio's content list (nursery still "Content under review" at check time
 | stocking-stuffers-that-organize.md | "The best stocking stuffers fix one tiny annoyance." | posted 2026-10-30 (first TikTok) | motion-plain |
 | linen-closet-organization-ideas.md | "Your linen closet needs boundaries, not more shelves." | posted 2026-10-30 | motion-ai (AI label on) |
 | nursery-organization-ideas.md | "Baby clothes stop fitting every couple of months." | posted 2026-10-30 | motion-plain |
+
+## Daily round 2026-11-01 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B: dorm room
+`--bg auto` (background `closet.jpg`, "AI-generated content" switched on), home gym `--bg none`, jewelry `--bg auto`
+(background `closet.jpg`, "AI-generated content" switched on). All listed once in TikTok Studio's content list as
+"Everyone". Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`. Studio showed "A video you were editing
+wasn't saved" before the first upload; it was neither continued nor discarded, and Studio's Drafts tab showed 0 after the round.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| dorm-room-organization-ideas.md | "Dorm storage should disappear when it's empty." | posted 2026-11-01 | motion-ai (AI label on) |
+| home-gym-organization-ideas.md | "Your workout corner should vanish after the workout." | posted 2026-11-01 | motion-plain |
+| jewelry-organization-ideas.md | "Necklaces tangle because they're piled. Hang them." | posted 2026-11-01 | motion-ai (AI label on) |

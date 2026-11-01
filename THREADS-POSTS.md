@@ -225,6 +225,19 @@ linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 
 
 **Still never on Threads (0).**
 
+## Daily round 2026-11-01 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, Clarity's new Jung guide plus the oldest threads. All linked (`?src=threads`).
+Verified once each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+No 2026-10-31 round is logged in any tracker.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| holiday-seasonal-decor-storage-ideas.md | linked, fresh angle: wrapping supplies live in four places; one case for rolls and tools | Organization | 2026-11-01 |
+| small-pantry-organization-ideas.md | linked, fresh angle: containment, not space; uniform airtight containers before shelving | Organization | 2026-11-01 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

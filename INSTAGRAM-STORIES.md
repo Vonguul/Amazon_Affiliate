@@ -323,3 +323,17 @@ apparently, 3 from 10/29 not yet expired), link sticker visible.
 | kitchen-counter-organization-ideas.md | posted 2026-10-30 (repeat) | "See all 11 ideas" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the 2026-09-15 batch (shoe storage, coffee bar, freezer, car trunk).
+
+## Daily round 2026-11-01 (new Clarity guide, then repeats, oldest Story first)
+
+5 Stories: 2 Picks + 3 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Picks stills rendered
+`--bg none`. Share to set to `offbahr` only before each Share (combobox text). `find` refs worked. One Share click
+did not register (the viewport height changed mid-run), so check that the page moved to the Planner before leaving
+the composer. instagram.com/stories/offbahr/ showed 5 segments, link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| shoe-storage-organization-ideas.md | posted 2026-11-01 (repeat, oldest Story) | "See all 6 fixes" | still (motion last frame) |
+| coffee-bar-station-organization-ideas.md | posted 2026-11-01 (repeat) | "See the 7 picks" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: freezer (2026-09-15), then the 2026-09-17 batch. Car trunk last ran 2026-09-22.
