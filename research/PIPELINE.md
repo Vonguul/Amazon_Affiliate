@@ -13,6 +13,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
+| Spring cleaning tools (steam mop, carpet cleaner, caddies) | Picks | 2026-11-01 | `research/RESEARCH-AUTO-2026-11-01-spring-cleaning-tools.md` | 11 products pass, 9 sold by Amazon. BUILD, publish early February |
+| Crystal storage and display | Clarity | 2026-11-01 | `vonguul-clarity/research/RESEARCH-AUTO-2026-11-01-crystal-storage-display.md` | 7 products pass, all small marketplace sellers. ADD to crystals-for-beginners, not a separate guide |
 
 ## Approved and built, waiting for a publish date
 
@@ -43,8 +45,6 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
-| Crystal storage and display | Clarity | evergreen |
-| Spring cleaning tools (steam mop, carpet cleaner, caddies) | Picks | Feb to Mar |
 | Ostara / spring equinox | Clarity | publish by early Mar |
 | Patio and garden storage | Picks | Mar to Apr |
 | Camping and outdoor gear storage | Picks | Apr to Jun |
