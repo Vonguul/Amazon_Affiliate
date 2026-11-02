@@ -13,9 +13,6 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
-| Crystal storage and display | Clarity | 2026-11-01 | `vonguul-clarity/research/RESEARCH-AUTO-2026-11-01-crystal-storage-display.md` | 7 products pass, all small marketplace sellers. ADD to crystals-for-beginners, not a separate guide |
-| Patio and garden storage | Picks | 2026-11-02 | `vonguul-picks/research/RESEARCH-AUTO-2026-11-02-patio-garden-storage.md` | 6 products pass, 3 Amazon-sold. BUILD, publish by early March; small-balcony box and tool rack slots still open |
-| Ostara / spring equinox | Clarity | 2026-11-02 | `vonguul-clarity/research/RESEARCH-AUTO-2026-11-02-ostara-spring-equinox.md` | 5 products pass, 2 Amazon-sold. BUILD, publish by early March |
 
 ## Approved and built, waiting for a publish date
 
@@ -28,6 +25,9 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 | New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 (scheduled task `vonguul-publish-new-year-reset`) |
 | Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 (scheduled task `vonguul-publish-imbolc`) |
 | Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | 2027-01-04 (scheduled task `vonguul-publish-paper-organization`) |
+| Patio and garden storage (8 products) | Picks | vonguul-picks `draft/patio-garden-storage` (patio-garden-storage-ideas) | no date yet; suggested 2027-03-01 |
+| Ostara for beginners (5 products) | Clarity | vonguul-clarity `draft/ostara-spring-equinox` (ostara-for-beginners-spring-equinox) | no date yet; suggested 2027-03-01 |
+| Crystal storage section (3 products added to crystals-for-beginners) | Clarity | vonguul-clarity `draft/crystal-storage` | no date yet |
 | Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | 2027-02-01 (scheduled task `vonguul-publish-spring-cleaning`) |
 
 ## Hold (recheck after the date)
