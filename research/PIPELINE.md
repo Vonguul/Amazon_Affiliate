@@ -25,9 +25,8 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 | New-year reset: label maker, closet system, clear bins | Picks | vonguul-picks `draft/approved-2026-10-30` (new-year-reset-label-maker-closet-system-bins) | 2026-12-20 (scheduled task `vonguul-publish-new-year-reset`) |
 | Imbolc for beginners | Clarity | vonguul-clarity `draft/approved-2026-10-30` (imbolc-for-beginners-brigids-day) | 2027-01-04 (scheduled task `vonguul-publish-imbolc`) |
 | Paper and document organization | Picks | vonguul-picks `draft/paper-document-organization` (paper-document-organization-ideas) | 2027-01-04 (scheduled task `vonguul-publish-paper-organization`) |
-| Patio and garden storage (8 products) | Picks | vonguul-picks `draft/patio-garden-storage` (patio-garden-storage-ideas) | no date yet; suggested 2027-03-01 |
-| Ostara for beginners (5 products) | Clarity | vonguul-clarity `draft/ostara-spring-equinox` (ostara-for-beginners-spring-equinox) | no date yet; suggested 2027-03-01 |
-| Crystal storage section (3 products added to crystals-for-beginners) | Clarity | vonguul-clarity `draft/crystal-storage` | no date yet |
+| Patio and garden storage (8 products) | Picks | vonguul-picks `draft/patio-garden-storage` (patio-garden-storage-ideas) | 2027-03-01 (scheduled task `vonguul-publish-patio-storage`) |
+| Ostara for beginners (5 products) | Clarity | vonguul-clarity `draft/ostara-spring-equinox` (ostara-for-beginners-spring-equinox) | 2027-03-01 (scheduled task `vonguul-publish-ostara`) |
 | Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | 2027-02-01 (scheduled task `vonguul-publish-spring-cleaning`) |
 
 ## Hold (recheck after the date)
@@ -64,3 +63,4 @@ Built and published topics are in each repo's `src/content/articles/`; the resea
 | Stocking stuffers that organize | Picks | 2026-10-30 | stocking-stuffers-that-organize |
 | Dream interpretation books | Clarity | 2026-10-30 | dream-interpretation-books |
 | Jung and archetypes for beginners | Clarity | 2026-10-30 | jung-archetypes-for-beginners |
+| Crystal storage section | Clarity | 2026-11-02 | crystals-for-beginners |
