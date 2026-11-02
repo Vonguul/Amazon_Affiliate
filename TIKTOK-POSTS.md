@@ -289,3 +289,17 @@ wasn't saved" before the first upload; it was neither continued nor discarded, a
 | dorm-room-organization-ideas.md | "Dorm storage should disappear when it's empty." | posted 2026-11-01 | motion-ai (AI label on) |
 | home-gym-organization-ideas.md | "Your workout corner should vanish after the workout." | posted 2026-11-01 | motion-plain |
 | jewelry-organization-ideas.md | "Necklaces tangle because they're piled. Hang them." | posted 2026-11-01 | motion-ai (AI label on) |
+
+## Daily round 2026-11-02 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+9-second motion videos from `tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B: food storage
+`--bg auto` (background `kitchen.jpg`, "AI-generated content" switched on), cleaning supplies `--bg none`, under-bed `--bg auto`
+(background `closet.jpg`, "AI-generated content" switched on). All listed once in TikTok Studio's content list (under-bed still
+"Content under review" at check time). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`. The "A video you were
+editing wasn't saved" notice was neither continued nor discarded; Drafts showed 0.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| food-storage-container-organization-ideas.md | "Lids avalanche because they stack. Stand them up." | posted 2026-11-02 | motion-ai (AI label on) |
+| cleaning-supplies-closet-organization-ideas.md | "Your cleaning closet's real problem is tall tools." | posted 2026-11-02 | motion-plain |
+| under-bed-storage-organization-ideas.md | "No room under the bed? Create the clearance." | posted 2026-11-02 | motion-ai (AI label on) |

@@ -337,3 +337,18 @@ the composer. instagram.com/stories/offbahr/ showed 5 segments, link sticker vis
 | coffee-bar-station-organization-ideas.md | posted 2026-11-01 (repeat) | "See the 7 picks" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: freezer (2026-09-15), then the 2026-09-17 batch. Car trunk last ran 2026-09-22.
+
+## Daily round 2026-11-02 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Picks stills rendered `--bg none`.
+Share to set to `offbahr` only before each Share (combobox text, checked before upload and before Share). `find` refs
+worked and were the same each time. Each moved to the Planner with "story is being published";
+instagram.com/stories/offbahr/ showed 5 segments, link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| freezer-organization-ideas.md | posted 2026-11-02 (repeat, oldest Story) | "Fix your freezer type" | still (motion last frame) |
+| board-game-puzzle-storage-ideas.md | posted 2026-11-02 (repeat) | "Free up the table" | still (motion last frame) |
+| recycling-trash-bin-organization-ideas.md | posted 2026-11-02 (repeat) | "Sort all three streams" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: water bottle and bookshelf (2026-09-17). Car trunk last ran 2026-09-22.
