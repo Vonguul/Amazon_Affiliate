@@ -14,6 +14,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
 | Crystal storage and display | Clarity | 2026-11-01 | `vonguul-clarity/research/RESEARCH-AUTO-2026-11-01-crystal-storage-display.md` | 7 products pass, all small marketplace sellers. ADD to crystals-for-beginners, not a separate guide |
+| Patio and garden storage | Picks | 2026-11-02 | `vonguul-picks/research/RESEARCH-AUTO-2026-11-02-patio-garden-storage.md` | 6 products pass, 3 Amazon-sold. BUILD, publish by early March; small-balcony box and tool rack slots still open |
+| Ostara / spring equinox | Clarity | 2026-11-02 | `vonguul-clarity/research/RESEARCH-AUTO-2026-11-02-ostara-spring-equinox.md` | 5 products pass, 2 Amazon-sold. BUILD, publish by early March |
 
 ## Approved and built, waiting for a publish date
 
@@ -45,8 +47,6 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
-| Ostara / spring equinox | Clarity | publish by early Mar |
-| Patio and garden storage | Picks | Mar to Apr |
 | Camping and outdoor gear storage | Picks | Apr to Jun |
 
 ## Live
