@@ -13,7 +13,6 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
-| Coat closet organization (8 products) | Picks | 2026-11-03 | vonguul-picks `research/RESEARCH-AUTO-2026-11-03-coat-closet-organization.md` | BUILD, publish in November (winter coats) |
 | Beltane for beginners (4 products) | Clarity | 2026-11-03 | vonguul-clarity `research/RESEARCH-AUTO-2026-11-03-beltane-for-beginners.md` | BUILD by mid-April 2027 after adding a reputable fire-safety pick and one more item |
 
 ## Approved and built, waiting for a publish date
@@ -30,6 +29,7 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 | Patio and garden storage (8 products) | Picks | vonguul-picks `draft/patio-garden-storage` (patio-garden-storage-ideas) | 2027-03-01 (scheduled task `vonguul-publish-patio-storage`) |
 | Ostara for beginners (5 products) | Clarity | vonguul-clarity `draft/ostara-spring-equinox` (ostara-for-beginners-spring-equinox) | 2027-03-01 (scheduled task `vonguul-publish-ostara`) |
 | Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | 2027-02-01 (scheduled task `vonguul-publish-spring-cleaning`) |
+| Coat closet organization (8 products) | Picks | vonguul-picks `draft/coat-closet-organization` (coat-closet-organization-ideas) | not dated yet (owner approved the build 2026-11-03; research recommends November) |
 
 ## Hold (recheck after the date)
 
