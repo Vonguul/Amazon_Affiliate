@@ -251,6 +251,19 @@ approval prompt. All linked (`?src=threads`). Verified once each on the @offbahr
 
 **Still never on Threads (0).**
 
+## Daily round 2026-11-03 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Rerun by the owner after the 10:00 run stopped on an unanswered Chrome
+approval prompt. All linked (`?src=threads`). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| garage-organization-ideas.md | linked, fresh angle: the floor is the one space you need; 8+ feet of ceiling for an overhead rack | Organization | 2026-11-03 |
+| home-office-organization-ideas.md | linked, fresh angle: a desk with no drawer; stick-on slide-out drawer, test the adhesive | Organization | 2026-11-03 |
+
+**Still never on Threads (0).**
+
 **Composer gotcha:** opening the composer and typing in the same browser batch as the previous
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the

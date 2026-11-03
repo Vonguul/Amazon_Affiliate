@@ -352,3 +352,18 @@ instagram.com/stories/offbahr/ showed 5 segments, link sticker visible.
 | recycling-trash-bin-organization-ideas.md | posted 2026-11-02 (repeat) | "Sort all three streams" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: water bottle and bookshelf (2026-09-17). Car trunk last ran 2026-09-22.
+
+## Daily round 2026-11-03 (repeats, oldest Story first)
+
+5 Stories: 2 Picks + 3 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Rerun by the owner after the 10:00
+run stopped on an unanswered Chrome approval prompt. Picks stills rendered `--bg none`. Share to set to `offbahr` only (combobox
+text, checked before upload and before Share). "Create link sticker" now only places the sticker on the canvas: click the sticker
+on the canvas (about 1053,402) to open the Link / Custom sticker text form. Element refs changed between Stories, so `find` each
+time. Each moved to the Planner with "story is being published"; instagram.com/stories/offbahr/ showed 5 segments, link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| water-bottle-tumbler-organization-ideas.md | posted 2026-11-03 (repeat, oldest Story) | "Fix the bottle cabinet" | still (motion last frame) |
+| bookshelf-home-library-organization-ideas.md | posted 2026-11-03 (repeat) | "Anchor it before you load" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: baking supplies, car trunk and spice rack (2026-09-22), then cleaning supplies, cord cable and dorm (2026-09-23).

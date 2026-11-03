@@ -303,3 +303,17 @@ editing wasn't saved" notice was neither continued nor discarded; Drafts showed 
 | food-storage-container-organization-ideas.md | "Lids avalanche because they stack. Stand them up." | posted 2026-11-02 | motion-ai (AI label on) |
 | cleaning-supplies-closet-organization-ideas.md | "Your cleaning closet's real problem is tall tools." | posted 2026-11-02 | motion-plain |
 | under-bed-storage-organization-ideas.md | "No room under the bed? Create the clearance." | posted 2026-11-02 | motion-ai (AI label on) |
+
+## Daily round 2026-11-03 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Rerun by the owner after the 10:00 run stopped on an unanswered Chrome approval prompt. 9-second motion videos from
+`tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B: sock drawer `--bg auto` (background `closet.jpg`,
+"AI-generated content" switched on), cord cable `--bg none`, junk drawer `--bg auto` (background `home-office.jpg`, "AI-generated
+content" switched on). All listed once in TikTok Studio's content list (the last ones still "Content under review" at check time).
+No pop-ups after upload this time. Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| sock-drawer-organization-ideas.md | "Your sock drawer needs walls, not more space." | posted 2026-11-03 | motion-ai (AI label on) |
+| cord-cable-management-ideas.md | "Box the power strip before you touch a single cord." | posted 2026-11-03 | motion-plain |
+| junk-drawer-organization-ideas.md | "Liner first, tray second. That's the junk drawer fix." | posted 2026-11-03 | motion-ai (AI label on) |
