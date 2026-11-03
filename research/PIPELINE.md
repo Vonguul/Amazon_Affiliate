@@ -13,6 +13,8 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
+| Coat closet organization (8 products) | Picks | 2026-11-03 | vonguul-picks `research/RESEARCH-AUTO-2026-11-03-coat-closet-organization.md` | BUILD, publish in November (winter coats) |
+| Beltane for beginners (4 products) | Clarity | 2026-11-03 | vonguul-clarity `research/RESEARCH-AUTO-2026-11-03-beltane-for-beginners.md` | BUILD by mid-April 2027 after adding a reputable fire-safety pick and one more item |
 
 ## Approved and built, waiting for a publish date
 
