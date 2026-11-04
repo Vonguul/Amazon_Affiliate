@@ -367,3 +367,19 @@ time. Each moved to the Planner with "story is being published"; instagram.com/s
 | bookshelf-home-library-organization-ideas.md | posted 2026-11-03 (repeat) | "Anchor it before you load" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: baking supplies, car trunk and spice rack (2026-09-22), then cleaning supplies, cord cable and dorm (2026-09-23).
+
+## Daily round 2026-11-04 (new guide, then repeats, oldest Story first)
+
+6 Stories: 3 Picks + 3 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Rerun by the owner after the 10:00
+run stopped on an unanswered Chrome approval prompt. Picks stills rendered `--bg none`. Share to set to `offbahr` only (combobox
+text checked before upload and before Share). Edit / More stickers / Create link sticker clicked by JS (button text or aria-label),
+then the sticker on the canvas (about 1047,402) clicked to open the Link form (the first Story opened the form directly). Each moved
+to the Planner with "story is being published"; instagram.com/stories/offbahr/ showed 11 segments (these 6 plus 5 from 11/03).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| coat-closet-organization-ideas.md | posted 2026-11-04 (first Story) | "Give the closet structure" | still (motion last frame) |
+| baking-supplies-bakeware-organization-ideas.md | posted 2026-11-04 (repeat, oldest Story) | "Stand the pans up" | still (motion last frame) |
+| car-trunk-organization-ideas.md | posted 2026-11-04 (repeat) | "Sort the trunk in 3" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: spice rack (2026-09-22), then cleaning supplies, cord cable and dorm (2026-09-23).

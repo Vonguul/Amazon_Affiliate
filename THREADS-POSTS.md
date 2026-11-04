@@ -268,3 +268,17 @@ approval prompt. All linked (`?src=threads`). Verified once each on the @offbahr
 Post click can send keystrokes to the feed (triggers a "Save to drafts?" prompt and drops the
 start of the text). Post, wait, then open the composer in a separate call and confirm the
 focused element is "Empty text field" before typing. Pick topics via `find` for the exact option.
+
+## Daily round 2026-11-04 (new guide, then fresh angles, oldest thread first)
+
+5 posts: 3 Picks + 2 Clarity, the new coat closet guide plus the oldest threads (2026-10-17). Rerun by the owner after the 10:00
+run stopped on an unanswered Chrome approval prompt. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| coat-closet-organization-ideas.md | linked, first post, tip: it runs out of structure, not space; wide wooden hangers first | Organization | 2026-11-04 |
+| small-bathroom-storage-ideas.md | linked, fresh angle: fix the under-sink cabinet first; the lost space is depth | Organization | 2026-11-04 |
+| small-bedroom-closet-organization-ideas.md | linked, fresh angle: hangers first; slim velvet vs 1.5-2 inch standard ones | Organization | 2026-11-04 |
+
+**Still never on Threads (0).**

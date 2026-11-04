@@ -317,3 +317,18 @@ No pop-ups after upload this time. Clarity's 2 posts are in `../vonguul-clarity/
 | sock-drawer-organization-ideas.md | "Your sock drawer needs walls, not more space." | posted 2026-11-03 | motion-ai (AI label on) |
 | cord-cable-management-ideas.md | "Box the power strip before you touch a single cord." | posted 2026-11-03 | motion-plain |
 | junk-drawer-organization-ideas.md | "Liner first, tray second. That's the junk drawer fix." | posted 2026-11-03 | motion-ai (AI label on) |
+
+## Daily round 2026-11-04 (new guide, then repeats, oldest TikTok first: the 2026-10-16 round)
+
+Rerun by the owner after the 10:00 run stopped on an unanswered Chrome approval prompt. 9-second motion videos from
+`tools/social/render_motion.py`, no sound added, Now / Everyone. Picks A/B: coat closet `--bg none` (rendered first so its still
+could serve the Story), wine bar cart `--bg auto` (background `kitchen.jpg`, "AI-generated content" switched on), shoe storage
+`--bg auto` (background `closet.jpg`, "AI-generated content" switched on). All listed once in TikTok Studio's content list as "Everyone".
+Studio showed "A video you were editing wasn't saved"; it was neither continued nor discarded, and Drafts showed 0 after the round.
+Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| coat-closet-organization-ideas.md | "Your coat closet ran out of structure, not space." | posted 2026-11-04 (first TikTok) | motion-plain |
+| wine-bar-cart-organization-ideas.md | "Your bar cart needs four spots, not one crowded top shelf." | posted 2026-11-04 | motion-ai (AI label on) |
+| shoe-storage-organization-ideas.md | "Tall boots need to stand, not stack." | posted 2026-11-04 | motion-ai (AI label on) |
