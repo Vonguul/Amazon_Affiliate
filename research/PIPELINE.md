@@ -29,7 +29,6 @@ branch, and move the row to Live. Only rows with a date are approved for publish
 | Patio and garden storage (8 products) | Picks | vonguul-picks `draft/patio-garden-storage` (patio-garden-storage-ideas) | 2027-03-01 (scheduled task `vonguul-publish-patio-storage`) |
 | Ostara for beginners (5 products) | Clarity | vonguul-clarity `draft/ostara-spring-equinox` (ostara-for-beginners-spring-equinox) | 2027-03-01 (scheduled task `vonguul-publish-ostara`) |
 | Spring cleaning tools | Picks | vonguul-picks `draft/spring-cleaning-tools` (spring-cleaning-tools-steam-mop-carpet-cleaner) | 2027-02-01 (scheduled task `vonguul-publish-spring-cleaning`) |
-| Coat closet organization (8 products) | Picks | vonguul-picks `draft/coat-closet-organization` (coat-closet-organization-ideas) | not dated yet (owner approved the build 2026-11-03; research recommends November) |
 
 ## Hold (recheck after the date)
 
@@ -66,3 +65,4 @@ Built and published topics are in each repo's `src/content/articles/`; the resea
 | Dream interpretation books | Clarity | 2026-10-30 | dream-interpretation-books |
 | Jung and archetypes for beginners | Clarity | 2026-10-30 | jung-archetypes-for-beginners |
 | Crystal storage section | Clarity | 2026-11-02 | crystals-for-beginners |
+| Coat closet organization | Picks | 2026-11-03 | coat-closet-organization-ideas |
