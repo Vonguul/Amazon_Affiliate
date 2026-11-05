@@ -5,7 +5,8 @@ owner's approval. The daily routine reads this file at the end of every run (see
 in `tools/social/DAILY-ROUTINE.md`) and researches a new topic whenever a site has fewer than 3
 topics in `researched`.
 
-Statuses: `idea` -> `researched` (findings written, waiting for the owner) -> `approved` -> `live`.
+Statuses: `idea` -> `proposed` (topic and product slots written, the owner checks products on Amazon)
+-> `researched` (products verified, waiting for the owner) -> `approved` -> `live`.
 `hold` = researched but failed the quality bar; recheck after the date given.
 Only the owner moves a topic to `approved`; the routine never builds or publishes articles.
 
@@ -14,6 +15,15 @@ Only the owner moves a topic to `approved`; the routine never builds or publishe
 | Topic | Site | Researched | Findings | Note |
 |---|---|---|---|---|
 | Beltane for beginners (4 products) | Clarity | 2026-11-03 | vonguul-clarity `research/RESEARCH-AUTO-2026-11-03-beltane-for-beginners.md` | BUILD by mid-April 2027 after adding a reputable fire-safety pick and one more item |
+
+## Proposed, waiting for the owner's product check
+
+Since 2026-11-04 the routine does not open amazon.com (Amazon blocks AI agents). It writes a proposal
+with product slots and search terms; the owner checks the products on Amazon and fills the table, and
+the topic then moves to "Researched".
+
+| Topic | Site | Proposed | Proposal file |
+|---|---|---|---|
 
 ## Approved and built, waiting for a publish date
 

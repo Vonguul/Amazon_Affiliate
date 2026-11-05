@@ -213,37 +213,36 @@ Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIK
 So the backlog never runs dry, end every run by keeping researched topics waiting for the owner.
 Do this AFTER posting and logging are pushed, and skip it if the run hit a stop condition.
 
-1. Read `vonguul-picks/research/PIPELINE.md`. Count the rows in "Researched, waiting for the
-   owner's approval" per site. If both sites have 3 or more, stop here (nothing to do).
-2. Otherwise research ONE new topic for each site that is short (at most 2 topics per run). Take the
+**Never open amazon.com (changed 2026-11-04).** Amazon now shows AI agents an "Access restricted"
+page saying agent access violates its Conditions of Use. Do not click past it, retry it, or use another
+browser to get around it. The owner checks products on Amazon personally; the routine only prepares
+the topic and a checklist for that check.
+
+1. Read `vonguul-picks/research/PIPELINE.md`. Count the rows per site in "Researched, waiting for the
+   owner's approval" plus "Proposed, waiting for the owner's product check". If both sites have 3 or
+   more, stop here (nothing to do).
+2. Otherwise propose ONE new topic for each site that is short (at most 2 topics per run). Take the
    first fitting row from "Ideas" (seasonal window first), or a "Hold" row whose recheck date has
    passed, or a spin-off of a recently published article. Skip anything an existing article already
-   covers: `grep -ril "<keyword>" /c/Users/laker/Downloads/vonguul-picks/src/content/articles /c/Users/laker/Downloads/vonguul-clarity/src/content/articles`.
-3. Verify products on live Amazon pages with the built-in browser (`mcp__Claude_Browser__*`):
-   navigate to https://www.amazon.com/robots.txt, then from page JS `fetch('/s?k=...')` for search and
-   `fetch('/dp/<ASIN>')` for each product page, parsed with DOMParser (rating `#acrPopover
-   .a-icon-alt`, reviews `#acrCustomerReviewText`, stock `#availability`, seller
-   `#merchantInfoFeature_feature_div`, buy box `#add-to-cart-button`). Keep each JS call under ~8
-   product fetches (45 s timeout). If the built-in browser is unavailable or asks for approval, use
-   Claude in Chrome on an amazon.com tab with the same fetch method; if that is blocked too, skip
-   research today and say so in the report.
-4. Quality bar (same as every batch): in stock, rating about 4.3 or better with a real review count,
-   an Amazon-sold or reputable seller, and an ASIN not already on either site (check with
-   `grep -rh 'asin: "' /c/Users/laker/Downloads/vonguul-picks/src/content/articles /c/Users/laker/Downloads/vonguul-clarity/src/content/articles`).
-   Aim for 5 to 9 passing products. No prices in anything meant for an article (prices may appear in
-   the research file as internal notes). Clarity: plan a "Worth being direct about" angle; no health
-   or efficacy claims.
-5. Write the findings with the Write tool to `vonguul-picks/research/RESEARCH-AUTO-<YYYY-MM-DD>-<topic-slug>.md`
-   (Clarity: `vonguul-clarity/research/...`), in the same table format as
-   `RESEARCH-QUEUE-E-PICKS-2026-10-26.md`: product, ASIN, rating (reviews), seller, verdict, plus
-   writing notes and a recommendation (BUILD, ADD to an existing article, or HOLD with a reason).
-6. Update `PIPELINE.md`: move the topic from Ideas/Hold to "Researched, waiting for the owner's
-   approval" (or to Hold with a recheck date if it failed the bar). Commit only the research files
-   and PIPELINE.md with `git -C` (pull --rebase, add, commit, push), message ending in the
-   Co-Authored-By line.
-7. **Never build, draft or publish an article in this routine.** Building needs the owner's approval
+   covers: search both `src/content/articles/` folders with the Grep tool for the topic's keywords.
+3. Write a proposal with the Write tool to `vonguul-picks/research/PROPOSAL-<YYYY-MM-DD>-<topic-slug>.md`
+   (Clarity: `vonguul-clarity/research/...`). No ASINs, ratings or prices from memory: anything about a
+   specific product is for the owner to confirm. Include:
+   - the angle, why now (season or the article it spins off from), and the internal links to existing articles;
+   - 5 to 9 product slots, each a product type plus the Amazon search terms to try, plus a blank
+     table for the owner to fill: product, ASIN, rating (reviews), seller, in stock, verdict;
+   - the quality bar the owner checks against: in stock, rating about 4.3 or better with a real review
+     count, Amazon-sold or a reputable seller, and an ASIN not already on either site (the owner can
+     ask for a duplicate check in a session);
+   - writing notes, and for Clarity the "Worth being direct about" angle (no health or efficacy claims).
+4. Update `PIPELINE.md`: move the topic from Ideas/Hold to "Proposed, waiting for the owner's product
+   check". Only the owner (in a session) fills the product table and moves a topic on to "Researched".
+   Commit only the proposal files and PIPELINE.md with `git -C` (pull --rebase, add, commit, push),
+   message ending in the Co-Authored-By line.
+5. **Never build, draft or publish an article in this routine.** Building needs the owner's approval
    in a session. In the final report, list every topic waiting for approval (site, topic, product
-   count, recommendation) so the owner can reply "build X".
+   count, recommendation) so the owner can reply "build X", and every proposal waiting for the owner's
+   product check (site, topic, file).
 
 ## Stop conditions
 
