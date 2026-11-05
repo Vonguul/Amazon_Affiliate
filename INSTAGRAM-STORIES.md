@@ -383,3 +383,19 @@ to the Planner with "story is being published"; instagram.com/stories/offbahr/ s
 | car-trunk-organization-ideas.md | posted 2026-11-04 (repeat) | "Sort the trunk in 3" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: spice rack (2026-09-22), then cleaning supplies, cord cable and dorm (2026-09-23).
+
+## Daily round 2026-11-05 (repeats, oldest Story first)
+
+5 Stories (backlog empty, so 5 a day): 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled
+10:00 run. Picks stills rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share).
+Edit / More stickers / Create link sticker / Link / sticker text / both Apply buttons all reached by `find` refs; link and sticker
+values confirmed by reading the inputs. Each moved to the Planner; instagram.com/stories/offbahr/ showed 5 segments, the first
+today's spice rack Story with its "See all 6 spice fixes" sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| spice-rack-organization-ideas.md | posted 2026-11-05 (repeat, oldest Story) | "See all 6 spice fixes" | still (motion last frame) |
+| cleaning-supplies-closet-organization-ideas.md | posted 2026-11-05 (repeat) | "Give the mop a spot" | still (motion last frame) |
+| cord-cable-management-ideas.md | posted 2026-11-05 (repeat) | "Get cords off the floor" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: dorm (2026-09-23), then the next-oldest repeats.

@@ -282,3 +282,15 @@ run stopped on an unanswered Chrome approval prompt. All linked (`?src=threads`)
 | small-bedroom-closet-organization-ideas.md | linked, fresh angle: hangers first; slim velvet vs 1.5-2 inch standard ones | Organization | 2026-11-04 |
 
 **Still never on Threads (0).**
+
+## Daily round 2026-11-05 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads (2026-10-17). Scheduled 10:00 run. All linked (`?src=threads`). Verified once
+each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| kids-toy-room-organization-ideas.md | linked, fresh angle: pre-readers pick books by cover; forward-facing display | Organization | 2026-11-05 |
+| cord-cable-management-ideas.md | linked, fresh angle: bundled cords all look the same; label both ends | Organization | 2026-11-05 |
+
+**Still never on Threads (0).** Next oldest Picks threads: junk drawer, laundry, under sink, freezer (2026-10-18).

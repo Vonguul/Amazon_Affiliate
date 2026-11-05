@@ -332,3 +332,18 @@ Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
 | coat-closet-organization-ideas.md | "Your coat closet ran out of structure, not space." | posted 2026-11-04 (first TikTok) | motion-plain |
 | wine-bar-cart-organization-ideas.md | "Your bar cart needs four spots, not one crowded top shelf." | posted 2026-11-04 | motion-ai (AI label on) |
 | shoe-storage-organization-ideas.md | "Tall boots need to stand, not stack." | posted 2026-11-04 | motion-ai (AI label on) |
+
+## Daily round 2026-11-05 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run. 9-second motion videos, no sound added, Now / Everyone. Picks A/B: refrigerator `--bg auto` (background
+`kitchen.jpg`, "AI-generated content" on), freezer `--bg none`, coffee bar `--bg auto` (background `kitchen.jpg`, "AI-generated
+content" on; switch state read from the page because screenshots timed out). The same videos went to Pinterest. All 5 of the day's
+posts listed once in TikTok Studio's content list. Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+Still never repeated from the 2026-10-16 round: indoor growing, iPhone cases, gift ideas, holiday decor, small pantry, small closet,
+kitchen counter, entryway, garage, board games, recycling, water bottle, bookshelf, makeup vanity, pet supplies, digital privacy.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| refrigerator-organization-ideas.md | "Herbs wilt in the crisper drawer. Give them a keeper." | posted 2026-11-05 | motion-ai (AI label on) |
+| freezer-organization-ideas.md | "Freeze soup in one-cup portions, not one big block." | posted 2026-11-05 | motion-plain |
+| coffee-bar-station-organization-ideas.md | "Coffee beans need an airtight canister, not a clipped bag." | posted 2026-11-05 | motion-ai (AI label on) |
