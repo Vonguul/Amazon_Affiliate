@@ -24,6 +24,8 @@ the topic then moves to "Researched".
 
 | Topic | Site | Proposed | Proposal file |
 |---|---|---|---|
+| Winter power outage prep: lighting, power, one kit (9 slots) | Picks | 2026-11-05 | vonguul-picks `research/PROPOSAL-2026-11-05-winter-power-outage-prep.md` |
+| Breathwork / pranayama for beginners (7 slots) | Clarity | 2026-11-05 | vonguul-clarity `research/PROPOSAL-2026-11-05-breathwork-pranayama-for-beginners.md` |
 
 ## Approved and built, waiting for a publish date
 
