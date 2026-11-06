@@ -347,3 +347,19 @@ kitchen counter, entryway, garage, board games, recycling, water bottle, bookshe
 | refrigerator-organization-ideas.md | "Herbs wilt in the crisper drawer. Give them a keeper." | posted 2026-11-05 | motion-ai (AI label on) |
 | freezer-organization-ideas.md | "Freeze soup in one-cup portions, not one big block." | posted 2026-11-05 | motion-plain |
 | coffee-bar-station-organization-ideas.md | "Coffee beans need an airtight canister, not a clipped bag." | posted 2026-11-05 | motion-ai (AI label on) |
+
+## Daily round 2026-11-06 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run. 9-second motion videos, no sound added, Now / Everyone. Picks A/B: makeup vanity `--bg auto` (background
+`closet.jpg`, "AI-generated content" on), holiday decor `--bg none` (its still also served the Story), pet supplies `--bg auto`
+(background `entryway.jpg`, "AI-generated content" on). Picked articles that were oldest on both TikTok and Pinterest, so the same
+videos went to Pinterest. The first holiday-decor `file_upload` lost its connection and did not land; the retry did. All 5 of the
+day's posts listed once in TikTok Studio's content list. Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+Still never repeated from the 2026-10-16 round: indoor growing, iPhone cases, gift ideas, small pantry, small closet, kitchen
+counter, entryway, garage, board games, recycling, water bottle, bookshelf, digital privacy.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| makeup-vanity-organization-ideas.md | "Palettes stacked flat hide everything but the top one." | posted 2026-11-06 | motion-ai (AI label on) |
+| holiday-seasonal-decor-storage-ideas.md | "Ornaments chip in storage, not on the tree." | posted 2026-11-06 | motion-plain |
+| pet-supplies-organization-ideas.md | "Treats, bags and clicker in one pouch, not three pockets." | posted 2026-11-06 | motion-ai (AI label on) |

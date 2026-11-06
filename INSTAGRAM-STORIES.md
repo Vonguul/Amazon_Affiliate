@@ -399,3 +399,21 @@ today's spice rack Story with its "See all 6 spice fixes" sticker.
 | cord-cable-management-ideas.md | posted 2026-11-05 (repeat) | "Get cords off the floor" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: dorm (2026-09-23), then the next-oldest repeats.
+
+## Daily round 2026-11-06 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). All steps by `find`
+refs; link and sticker values confirmed by reading the inputs. Screenshots of Business Suite timed out after the second Story, so
+the offbar1 checkbox was found by `find` ("offbar1 checkbox option in Share to dropdown"). The first indoor-growing upload did not
+register (no media shown); the second did, and the page showed exactly one 1080 x 1920 item. Each moved to the Planner with "story
+is being published"; instagram.com/stories/offbahr/ showed 5 segments (yesterday's had expired), holiday decor second and moon
+phases last, link stickers visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| dorm-room-organization-ideas.md | posted 2026-11-06 (repeat, oldest Story) | "Pack-flat dorm storage" | still (motion last frame) |
+| holiday-seasonal-decor-storage-ideas.md | posted 2026-11-06 (repeat) | "Protect the ornaments" | still (motion last frame) |
+| indoor-growing-systems-guide.md | posted 2026-11-06 (repeat) | "Pick your grow setup" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: iPhone cases, gift ideas, winter gear (2026-10-17), then junk drawer, laundry, pet supplies (2026-10-18).

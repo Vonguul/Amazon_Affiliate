@@ -294,3 +294,15 @@ each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THRE
 | cord-cable-management-ideas.md | linked, fresh angle: bundled cords all look the same; label both ends | Organization | 2026-11-05 |
 
 **Still never on Threads (0).** Next oldest Picks threads: junk drawer, laundry, under sink, freezer (2026-10-18).
+
+## Daily round 2026-11-06 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| junk-drawer-organization-ideas.md | linked, fresh angle: batteries and tools don't belong in the drawer; give each its own case | Organization | 2026-11-06 |
+| laundry-room-organization-ideas.md | linked, fresh angle: lint lands in the same place every load; magnetic bin on the dryer side | Organization | 2026-11-06 |
+
+**Still never on Threads (0).** Next oldest Picks threads: under sink, freezer, shoe storage, coffee bar (2026-10-18).
