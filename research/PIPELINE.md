@@ -28,6 +28,7 @@ the topic then moves to "Researched".
 | Breathwork / pranayama for beginners (7 slots) | Clarity | 2026-11-05 | vonguul-clarity `research/PROPOSAL-2026-11-05-breathwork-pranayama-for-beginners.md` |
 | Winter bedding: a warmer bed without heating the house (8 slots) | Picks | 2026-11-06 | vonguul-picks `research/PROPOSAL-2026-11-06-winter-bedding-warm-bed.md` |
 | A small home altar or practice space (7 slots) | Clarity | 2026-11-06 | vonguul-clarity `research/PROPOSAL-2026-11-06-home-altar-practice-space.md` |
+| Medicine cabinet and first-aid organization for cold and flu season (8 slots) | Picks | 2026-11-07 | vonguul-picks `research/PROPOSAL-2026-11-07-medicine-cabinet-first-aid-organization.md` |
 
 ## Approved and built, waiting for a publish date
 
