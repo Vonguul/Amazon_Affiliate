@@ -306,3 +306,15 @@ each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THRE
 | laundry-room-organization-ideas.md | linked, fresh angle: lint lands in the same place every load; magnetic bin on the dryer side | Organization | 2026-11-06 |
 
 **Still never on Threads (0).** Next oldest Picks threads: under sink, freezer, shoe storage, coffee bar (2026-10-18).
+
+## Daily round 2026-11-07 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| under-sink-organization-ideas.md | linked, fresh angle: the cabinet floor is where a leak does damage; raised-edge mat first | Organization | 2026-11-07 |
+| freezer-organization-ideas.md | linked, fresh angle: freezer burn is an air problem, not a time problem; sealing worth it if you freeze a lot | Organization | 2026-11-07 |
+
+**Still never on Threads (0).** Next oldest Picks threads: shoe storage, coffee bar (2026-10-18), then the rest of the 2026-10-18/19 rounds.

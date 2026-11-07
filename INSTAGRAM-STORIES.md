@@ -417,3 +417,20 @@ phases last, link stickers visible.
 | indoor-growing-systems-guide.md | posted 2026-11-06 (repeat) | "Pick your grow setup" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: iPhone cases, gift ideas, winter gear (2026-10-17), then junk drawer, laundry, pet supplies (2026-10-18).
+
+## Daily round 2026-11-07 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). All steps by `find`
+refs (the refs were identical every round: offbar1 ref_45, Add photo/video ref_18, file input ref_140, Edit ref_143, More stickers
+ref_179, Create link sticker ref_205, Link ref_222, sticker text ref_229, sticker Apply ref_232, editor Apply ref_202); link and
+sticker values confirmed by reading the inputs. Share at (1243,546). Each moved to the Planner; instagram.com/stories/offbahr/
+showed 10 segments (yesterday's 5 plus these 5), link stickers visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| iphone-15-pro-max-cases.md | posted 2026-11-07 (repeat, oldest Story) | "Check for MagSafe magnets" | still (motion last frame) |
+| gift-ideas-for-people-who-love-organizing.md | posted 2026-11-07 (repeat) | "Gifts sorted by person" | still (motion last frame) |
+| winter-gear-storage-ideas.md | posted 2026-11-07 (repeat) | "One pocket per person" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: junk drawer, laundry, pet supplies (2026-10-18), then the next-oldest repeats.

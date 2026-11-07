@@ -363,3 +363,19 @@ counter, entryway, garage, board games, recycling, water bottle, bookshelf, digi
 | makeup-vanity-organization-ideas.md | "Palettes stacked flat hide everything but the top one." | posted 2026-11-06 | motion-ai (AI label on) |
 | holiday-seasonal-decor-storage-ideas.md | "Ornaments chip in storage, not on the tree." | posted 2026-11-06 | motion-plain |
 | pet-supplies-organization-ideas.md | "Treats, bags and clicker in one pouch, not three pockets." | posted 2026-11-06 | motion-ai (AI label on) |
+
+## Daily round 2026-11-07 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run. 9-second motion videos, no sound added, Now / Everyone. Picks A/B: board games `--bg auto` (background
+`home-office.jpg`, "AI-generated content" switched on), iPhone cases `--bg none`, gift ideas `--bg none` (both stills also served
+the day's Stories). The board games video also went to Pinterest. No pop-ups after upload; Post button at (362,702) once the form
+was scrolled to it. All 5 of the day's posts listed once in TikTok Studio's content list (Drafts 0). Clarity's 2 posts are in
+`../vonguul-clarity/TIKTOK-POSTS.md`.
+Still never repeated from the 2026-10-16 round: indoor growing, small pantry, small closet, kitchen counter, entryway, garage,
+recycling, water bottle, bookshelf, digital privacy.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| board-game-puzzle-storage-ideas.md | "A puzzle in progress shouldn't hold your table hostage." | posted 2026-11-07 | motion-ai (AI label on) |
+| iphone-15-pro-max-cases.md | "Use MagSafe? Make sure your case has magnets." | posted 2026-11-07 | motion-plain |
+| gift-ideas-for-people-who-love-organizing.md | "Gifts that get used in January, not stored in a closet." | posted 2026-11-07 | motion-plain |
