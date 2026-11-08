@@ -318,3 +318,15 @@ each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THRE
 | freezer-organization-ideas.md | linked, fresh angle: freezer burn is an air problem, not a time problem; sealing worth it if you freeze a lot | Organization | 2026-11-07 |
 
 **Still never on Threads (0).** Next oldest Picks threads: shoe storage, coffee bar (2026-10-18), then the rest of the 2026-10-18/19 rounds.
+
+## Daily round 2026-11-08 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| shoe-storage-organization-ideas.md | linked, fresh angle: one layer of shoes with a foot of air above it; slot stackers for flats, a rack for tall boots | Organization | 2026-11-08 |
+| coffee-bar-station-organization-ideas.md | linked, fresh angle: to-go assembly is its own step; a caddy just for lids, sleeves and stirrers | Organization | 2026-11-08 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-18/19 rounds.

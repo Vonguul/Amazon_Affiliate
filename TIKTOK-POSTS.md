@@ -379,3 +379,20 @@ recycling, water bottle, bookshelf, digital privacy.
 | board-game-puzzle-storage-ideas.md | "A puzzle in progress shouldn't hold your table hostage." | posted 2026-11-07 | motion-ai (AI label on) |
 | iphone-15-pro-max-cases.md | "Use MagSafe? Make sure your case has magnets." | posted 2026-11-07 | motion-plain |
 | gift-ideas-for-people-who-love-organizing.md | "Gifts that get used in January, not stored in a closet." | posted 2026-11-07 | motion-plain |
+
+## Daily round 2026-11-08 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run, last day of the AI-background A/B test. 9-second motion videos, no sound added, Now / Everyone. Picks A/B:
+recycling `--bg auto` (background `entryway.jpg`, "AI-generated content" switched on), water bottle `--bg none`, bookshelf `--bg auto`
+(background `home-office.jpg`, "AI-generated content" switched on). Picked articles that were oldest on both TikTok and Pinterest
+(pin batches 34-36), so the same videos went to Pinterest. No pop-ups after upload. All 5 of the day's posts listed once in TikTok
+Studio's content list (Drafts 0; bookshelf still "Content under review" at check time). Clarity's 2 posts are in
+`../vonguul-clarity/TIKTOK-POSTS.md`.
+Still never repeated from the 2026-10-16 round: indoor growing, small pantry, small closet, kitchen counter, entryway, garage,
+digital privacy.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| recycling-trash-bin-organization-ideas.md | "No counter for a compost bin? Hang it on a cabinet door." | posted 2026-11-08 | motion-ai (AI label on) |
+| water-bottle-tumbler-organization-ideas.md | "Damp bottles make the cabinet smell. Dry them upside down." | posted 2026-11-08 | motion-plain |
+| bookshelf-home-library-organization-ideas.md | "Anchor a tall bookshelf before you load it." | posted 2026-11-08 | motion-ai (AI label on) |

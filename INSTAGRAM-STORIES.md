@@ -434,3 +434,20 @@ showed 10 segments (yesterday's 5 plus these 5), link stickers visible.
 | winter-gear-storage-ideas.md | posted 2026-11-07 (repeat) | "One pocket per person" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: junk drawer, laundry, pet supplies (2026-10-18), then the next-oldest repeats.
+
+## Daily round 2026-11-08 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Screenshots of Business
+Suite timed out from the third Story on, so the rest went by `find` refs (same refs as 2026-11-07, but each must be found again before
+it can be clicked); link and sticker values confirmed by reading the inputs. Each moved to the Planner with "story is being published".
+instagram.com/stories/offbahr/ showed 5 segments, junk drawer first. Note: the viewer first opened at segment 2 (it skips Stories it
+counts as seen), so reload and pause before concluding one is missing.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| junk-drawer-organization-ideas.md | posted 2026-11-08 (repeat, oldest Story) | "Give batteries a case" | still (motion last frame) |
+| laundry-room-organization-ideas.md | posted 2026-11-08 (repeat) | "Bag the delicates" | still (motion last frame) |
+| pet-supplies-organization-ideas.md | posted 2026-11-08 (repeat) | "Give leashes a hook" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-10-18 round, then the next-oldest repeats.
