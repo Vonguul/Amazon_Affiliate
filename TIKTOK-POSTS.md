@@ -396,3 +396,18 @@ digital privacy.
 | recycling-trash-bin-organization-ideas.md | "No counter for a compost bin? Hang it on a cabinet door." | posted 2026-11-08 | motion-ai (AI label on) |
 | water-bottle-tumbler-organization-ideas.md | "Damp bottles make the cabinet smell. Dry them upside down." | posted 2026-11-08 | motion-plain |
 | bookshelf-home-library-organization-ideas.md | "Anchor a tall bookshelf before you load it." | posted 2026-11-08 | motion-ai (AI label on) |
+
+## Daily round 2026-11-09 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run, first day after the AI-background A/B test ended. No rule for Picks after the test was written down, so
+all Picks videos were rendered `--bg none` (motion-plain, no AI label) until the owner decides; "AI-generated content" checked
+off under "Show more" on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. Same videos went to
+Pinterest (digital privacy, indoor growing) and their stills to Stories (digital privacy, garage). All 5 of the day's posts listed
+once in TikTok Studio's content list (Posts 354 -> 359, Drafts 0). Clarity's 2 posts are in `../vonguul-clarity/TIKTOK-POSTS.md`.
+Still never repeated from the 2026-10-16 round: small pantry, small closet, kitchen counter, entryway.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| digital-privacy-security-essentials.md | "Airplane mode is a setting, not a hardware guarantee." | posted 2026-11-09 | motion-plain |
+| indoor-growing-systems-guide.md | "A plain grow light needs a timer, not your memory." | posted 2026-11-09 | motion-plain |
+| garage-organization-ideas.md | "Your garage floor is the one space you actually need." | posted 2026-11-09 | motion-plain |

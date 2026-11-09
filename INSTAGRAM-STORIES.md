@@ -451,3 +451,20 @@ counts as seen), so reload and pause before concluding one is missing.
 | pet-supplies-organization-ideas.md | posted 2026-11-08 (repeat) | "Give leashes a hook" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-10-18 round, then the next-oldest repeats.
+
+## Daily round 2026-11-09 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Screenshots of
+Business Suite timed out from the start, so everything went by `find` refs (same refs as 2026-11-07; the first Story's refs differed
+because the first Share-to click did not open the list). The first garage `file_upload` lost its connection and did not land; the
+retry did and the page showed exactly one 1080 x 1920 item. Each moved to the Planner with "story is being published".
+instagram.com/stories/offbahr/ showed 7 segments (2 from 11/08 plus these 5, aged 6m to 1m).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| digital-privacy-security-essentials.md | posted 2026-11-09 (repeat, oldest Story) | "See the 6 privacy fixes" | still (motion last frame) |
+| food-storage-container-organization-ideas.md | posted 2026-11-09 (repeat) | "Double the cabinet shelf" | still (motion last frame) |
+| garage-organization-ideas.md | posted 2026-11-09 (repeat) | "Use walls and ceiling" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: home gym (2026-10-20), then home office, jewelry, kids toy room (2026-10-21).

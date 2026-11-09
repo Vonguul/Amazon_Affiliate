@@ -330,3 +330,16 @@ each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THRE
 | coffee-bar-station-organization-ideas.md | linked, fresh angle: to-go assembly is its own step; a caddy just for lids, sleeves and stirrers | Organization | 2026-11-08 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-18/19 rounds.
+
+## Daily round 2026-11-09 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) The Organization topic list sometimes stays
+open after the first pick; check the header shows the topic before posting.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| pet-supplies-organization-ideas.md | linked, fresh angle: an open food bag goes stale and is heavy to move; wheeled airtight container | Organization | 2026-11-09 |
+| dorm-room-organization-ideas.md | linked, fresh angle: under the bed is the biggest unused storage; risers, check housing rules and leg fit | Organization | 2026-11-09 |
+
+**Still never on Threads (0).** Next oldest Picks threads: board games, bookshelf, car trunk, cleaning supplies, craft room (2026-10-19).
