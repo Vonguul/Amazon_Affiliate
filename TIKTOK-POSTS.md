@@ -411,3 +411,18 @@ Still never repeated from the 2026-10-16 round: small pantry, small closet, kitc
 | digital-privacy-security-essentials.md | "Airplane mode is a setting, not a hardware guarantee." | posted 2026-11-09 | motion-plain |
 | indoor-growing-systems-guide.md | "A plain grow light needs a timer, not your memory." | posted 2026-11-09 | motion-plain |
 | garage-organization-ideas.md | "Your garage floor is the one space you actually need." | posted 2026-11-09 | motion-plain |
+
+## Daily round 2026-11-10 (repeats, oldest TikTok first: the 2026-10-16 round)
+
+Scheduled 10:00 run. Picks videos still rendered `--bg none` (motion-plain, no AI label) while the owner's decision on the ended
+A/B test is pending; "AI-generated content" checked off under "Show more" on each. 9-second motion videos, no sound added,
+Now / Everyone. No pop-ups after upload. The first small-pantry `file_upload` lost its connection and did not land; the retry did.
+All 5 of the day's posts listed once in TikTok Studio's content list (Posts 359 -> 364, Drafts 0). Clarity's 2 posts are in
+`../vonguul-clarity/TIKTOK-POSTS.md`. Today's Picks pins (winter gear, espresso, robot vacuum) used separate renders, since their
+TikToks are newer. Still never repeated from the 2026-10-16 round: entryway.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| small-pantry-organization-ideas.md | "Every small pantry has a dead corner. A turntable brings it back." | posted 2026-11-10 | motion-plain |
+| small-bedroom-closet-organization-ideas.md | "Slim hangers first, bins second. That's the small closet order." | posted 2026-11-10 | motion-plain |
+| kitchen-counter-organization-ideas.md | "The best dish rack for a small counter isn't on the counter." | posted 2026-11-10 | motion-plain |

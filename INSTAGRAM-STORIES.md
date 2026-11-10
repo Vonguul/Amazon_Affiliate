@@ -468,3 +468,19 @@ instagram.com/stories/offbahr/ showed 7 segments (2 from 11/08 plus these 5, age
 | garage-organization-ideas.md | posted 2026-11-09 (repeat) | "Use walls and ceiling" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: home gym (2026-10-20), then home office, jewelry, kids toy room (2026-10-21).
+
+## Daily round 2026-11-10 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). All steps by `find`
+refs (same refs as 2026-11-07, found again before each click); link and sticker values confirmed by reading the inputs. Each moved
+to the Planner with "story is being published". instagram.com/stories/offbahr/ showed 5 segments in order (home gym, home office,
+jewelry, numerology, sage), link stickers visible; the viewer first opened at segment 2 and skipped one, so step through after a reload.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| home-gym-organization-ideas.md | posted 2026-11-10 (repeat, oldest Story) | "Get gear off the floor" | still (motion last frame) |
+| home-office-organization-ideas.md | posted 2026-11-10 (repeat) | "Give paper a system" | still (motion last frame) |
+| jewelry-organization-ideas.md | posted 2026-11-10 (repeat) | "Untangle the necklaces" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: kids toy room (2026-10-21), then the next-oldest repeats.

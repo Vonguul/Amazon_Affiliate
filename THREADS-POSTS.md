@@ -343,3 +343,15 @@ open after the first pick; check the header shows the topic before posting.
 | dorm-room-organization-ideas.md | linked, fresh angle: under the bed is the biggest unused storage; risers, check housing rules and leg fit | Organization | 2026-11-09 |
 
 **Still never on Threads (0).** Next oldest Picks threads: board games, bookshelf, car trunk, cleaning supplies, craft room (2026-10-19).
+
+## Daily round 2026-11-10 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| board-game-puzzle-storage-ideas.md | linked, fresh angle: out of the crushed box, the tokens need a home; stackable trays that come to the table | Organization | 2026-11-10 |
+| bookshelf-home-library-organization-ideas.md | linked, fresh angle: a two-thirds-full shelf still needs bookends; clear stands to face a favorite out | Organization | 2026-11-10 |
+
+**Still never on Threads (0).** Next oldest Picks threads: car trunk, cleaning supplies, craft room (2026-10-19), then the rest of the 2026-10-19/20 rounds.
