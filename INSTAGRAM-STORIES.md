@@ -484,3 +484,19 @@ jewelry, numerology, sage), link stickers visible; the viewer first opened at se
 | jewelry-organization-ideas.md | posted 2026-11-10 (repeat) | "Untangle the necklaces" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: kids toy room (2026-10-21), then the next-oldest repeats.
+
+## Daily round 2026-11-11 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). All steps by `find`
+refs (same refs as 2026-11-07, found again before each click); link and sticker values confirmed by reading the inputs. Each moved
+to the Planner with "story is being published". instagram.com/stories/offbahr/ showed 5 segments (yesterday's had expired), linen
+closet second with its link sticker visible; the other segments were not stepped through one by one.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| kids-toy-room-organization-ideas.md | posted 2026-11-11 (repeat, oldest Story) | "Cleanup in one pull" | still (motion last frame) |
+| linen-closet-organization-ideas.md | posted 2026-11-11 (repeat) | "Don't crush the down" | still (motion last frame) |
+| makeup-vanity-organization-ideas.md | posted 2026-11-11 (repeat) | "Pack makeup in one case" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: nursery (2026-10-22), then the 2026-10-23 round (refrigerator, sock drawer, under bed, wine bar cart, espresso).

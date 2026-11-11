@@ -426,3 +426,18 @@ TikToks are newer. Still never repeated from the 2026-10-16 round: entryway.
 | small-pantry-organization-ideas.md | "Every small pantry has a dead corner. A turntable brings it back." | posted 2026-11-10 | motion-plain |
 | small-bedroom-closet-organization-ideas.md | "Slim hangers first, bins second. That's the small closet order." | posted 2026-11-10 | motion-plain |
 | kitchen-counter-organization-ideas.md | "The best dish rack for a small counter isn't on the counter." | posted 2026-11-10 | motion-plain |
+
+## Daily round 2026-11-11 (repeats, oldest TikTok first: last of the 2026-10-16 round, then 2026-10-18)
+
+Scheduled 10:00 run. 5 posts: 2 Picks + 3 Clarity (Clarity's 3 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos still
+rendered `--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content"
+checked off under "Show more" on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. The upload
+page showed "A video you were editing wasn't saved. Continue editing?" (left alone, neither Discard nor Continue). The first entryway
+`file_upload` call failed before reaching the page and did not land; the retry did. All 5 of the day's posts listed once in TikTok
+Studio's content list (Drafts 0). The home office video also went to Pinterest. The 2026-10-16 round is now fully repeated.
+Next oldest Picks TikToks: espresso, robot vacuum (2026-10-18), then baking supplies, car trunk (2026-10-20).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| entryway-organization-ideas.md | "No wall to drill? A coat tree does the same job." | posted 2026-11-11 | motion-plain |
+| home-office-upgrade-chair-desk-guide.md | "A monitor on its own stand is rarely at the right height." | posted 2026-11-11 | motion-plain |

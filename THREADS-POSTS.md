@@ -355,3 +355,15 @@ open after the first pick; check the header shows the topic before posting.
 | bookshelf-home-library-organization-ideas.md | linked, fresh angle: a two-thirds-full shelf still needs bookends; clear stands to face a favorite out | Organization | 2026-11-10 |
 
 **Still never on Threads (0).** Next oldest Picks threads: car trunk, cleaning supplies, craft room (2026-10-19), then the rest of the 2026-10-19/20 rounds.
+
+## Daily round 2026-11-11 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| car-trunk-organization-ideas.md | linked, fresh angle: check the emergency kit can handle a low tire; a 12V inflator tops up a slow leak, pressure is on the door jamb | Organization | 2026-11-11 |
+| cleaning-supplies-closet-organization-ideas.md | linked, fresh angle: cleaning happens room to room; one caddy means one thing to put away instead of five | Organization | 2026-11-11 |
+
+**Still never on Threads (0).** Next oldest Picks threads: craft room (2026-10-19), then the rest of the 2026-10-19/20 rounds.
