@@ -367,3 +367,15 @@ open after the first pick; check the header shows the topic before posting.
 | cleaning-supplies-closet-organization-ideas.md | linked, fresh angle: cleaning happens room to room; one caddy means one thing to put away instead of five | Organization | 2026-11-11 |
 
 **Still never on Threads (0).** Next oldest Picks threads: craft room (2026-10-19), then the rest of the 2026-10-19/20 rounds.
+
+## Daily round 2026-11-12 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| craft-room-organization-ideas.md | linked, fresh angle: paper is the one supply ruined by storage, not use; flat latching cases for 12x12 sheets | Organization | 2026-11-12 |
+| home-espresso-machine-and-gear-guide.md | linked, fresh angle: the cheapest upgrade is a scale; weigh the dose and the shot so a good cup is repeatable | Espresso | 2026-11-12 |
+
+**Still never on Threads (0).** The 2026-10-19 round is now fully repeated. Next oldest Picks threads: the 2026-10-20 round (digital privacy, food storage, home gym, jewelry, linen closet, makeup vanity, nursery).

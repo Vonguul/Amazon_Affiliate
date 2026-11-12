@@ -441,3 +441,20 @@ Next oldest Picks TikToks: espresso, robot vacuum (2026-10-18), then baking supp
 |---|---|---|---|
 | entryway-organization-ideas.md | "No wall to drill? A coat tree does the same job." | posted 2026-11-11 | motion-plain |
 | home-office-upgrade-chair-desk-guide.md | "A monitor on its own stand is rarely at the right height." | posted 2026-11-11 | motion-plain |
+
+## Daily round 2026-11-12 (repeats, oldest TikTok first: 2026-10-18, then 2026-10-20)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos still
+rendered `--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content"
+read as off under "Show more" on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. The upload
+page again showed "A video you were editing wasn't saved. Continue editing?" (left alone). Screenshots of TikTok Studio timed out
+after the first post, so the caption, the AI switch and Now were read back from the page instead. All 5 of the day's posts listed
+once in TikTok Studio's content list (Posts 369 -> 374, Drafts 0). Today's Picks pins (kitchen counter, air purifiers) used separate
+renders, since their TikToks are newer.
+Next oldest Picks TikToks: car trunk (2026-10-20), then air purifiers, humidifiers, holiday hosting (2026-10-21).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| home-espresso-machine-and-gear-guide.md | "Weigh your espresso shot. It's the cheapest way to make it repeatable." | posted 2026-11-12 | motion-plain |
+| robot-vacuum-buying-guide.md | "The dock is what makes a robot vacuum hands-off." | posted 2026-11-12 | motion-plain |
+| baking-supplies-bakeware-organization-ideas.md | "An opened bag of flour never really closes again." | posted 2026-11-12 | motion-plain |

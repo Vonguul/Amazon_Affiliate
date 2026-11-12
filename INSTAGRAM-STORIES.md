@@ -500,3 +500,21 @@ closet second with its link sticker visible; the other segments were not stepped
 | makeup-vanity-organization-ideas.md | posted 2026-11-11 (repeat) | "Pack makeup in one case" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: nursery (2026-10-22), then the 2026-10-23 round (refrigerator, sock drawer, under bed, wine bar cart, espresso).
+
+## Daily round 2026-11-12 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Element refs changed
+after the first Story, so each was found again. On the first Story "Create link sticker" opened the Link form directly; on the
+other four it only placed the sticker, and a click on the sticker on the canvas (about 1047,402) opened the form. Edit / More
+stickers / Create link sticker were clicked by JS (button text). Link and sticker values confirmed by reading the inputs. Each moved
+to the Planner with "story is being published". instagram.com/stories/offbahr/ showed 6 segments (today's 5 plus, apparently, 1 from
+11/11 not yet expired), the refrigerator Story with its "Give cans a rack" sticker visible; the others were not stepped through.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| nursery-organization-ideas.md | posted 2026-11-12 (repeat, oldest Story) | "Label clothes by age" | still (motion last frame) |
+| refrigerator-organization-ideas.md | posted 2026-11-12 (repeat) | "Give cans a rack" | still (motion last frame) |
+| sock-drawer-organization-ideas.md | posted 2026-11-12 (repeat) | "Fold to one size" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-10-23 round (under bed, wine bar cart, espresso), then the 2026-10-24 round.
