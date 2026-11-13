@@ -458,3 +458,19 @@ Next oldest Picks TikToks: car trunk (2026-10-20), then air purifiers, humidifie
 | home-espresso-machine-and-gear-guide.md | "Weigh your espresso shot. It's the cheapest way to make it repeatable." | posted 2026-11-12 | motion-plain |
 | robot-vacuum-buying-guide.md | "The dock is what makes a robot vacuum hands-off." | posted 2026-11-12 | motion-plain |
 | baking-supplies-bakeware-organization-ideas.md | "An opened bag of flour never really closes again." | posted 2026-11-12 | motion-plain |
+
+## Daily round 2026-11-13 (repeats, oldest TikTok first: 2026-10-20, then 2026-10-21)
+
+Scheduled 10:00 run. 5 posts: 2 Picks + 3 Clarity (Clarity's 3 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos still
+rendered `--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content"
+read as off under "Show more" on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. The upload
+page again showed "A video you were editing wasn't saved. Continue editing?" (left alone). Screenshots of TikTok Studio timed out, so
+the caption, the AI switch and Now were read back from the page. All 5 of the day's posts listed once in TikTok Studio's content
+list (Drafts 0). The humidifiers video also went to Pinterest. Air purifiers (also 2026-10-21) was passed over for humidifiers so one
+render served both platforms.
+Next oldest Picks TikToks: air purifiers, holiday hosting (2026-10-21), then guest room (2026-10-22).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| car-trunk-organization-ideas.md | "Frozen food thaws in a regular trunk organizer." | posted 2026-11-13 | motion-plain |
+| humidifiers-by-room-size.md | "White dust on the furniture? It's your tap water." | posted 2026-11-13 | motion-plain |

@@ -379,3 +379,16 @@ open after the first pick; check the header shows the topic before posting.
 | home-espresso-machine-and-gear-guide.md | linked, fresh angle: the cheapest upgrade is a scale; weigh the dose and the shot so a good cup is repeatable | Espresso | 2026-11-12 |
 
 **Still never on Threads (0).** The 2026-10-19 round is now fully repeated. Next oldest Picks threads: the 2026-10-20 round (digital privacy, food storage, home gym, jewelry, linen closet, makeup vanity, nursery).
+
+## Daily round 2026-11-13 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity, oldest threads. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the
+@offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Screenshots timed out after the first post, so
+the topic and text were read back from the composer before each Post click.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| digital-privacy-security-essentials.md | linked, fresh angle: the webcam light is run by software, so it isn't proof the camera is off; a slide cover is | cybersecurity | 2026-11-13 |
+| food-storage-container-organization-ideas.md | linked, fresh angle: after a few days every clear container looks the same; a reusable label with contents and date | Organization | 2026-11-13 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-20 round (home gym, jewelry, linen closet, makeup vanity, nursery).

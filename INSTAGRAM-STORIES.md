@@ -518,3 +518,21 @@ to the Planner with "story is being published". instagram.com/stories/offbahr/ s
 | sock-drawer-organization-ideas.md | posted 2026-11-12 (repeat) | "Fold to one size" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-10-23 round (under bed, wine bar cart, espresso), then the 2026-10-24 round.
+
+## Daily round 2026-11-13 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Business Suite
+screenshots timed out all run, so every step used `find` refs; "Create link sticker" opened the Link form directly each time, and
+link and sticker values were confirmed by reading the inputs. Each moved to the Planner with "story is being published".
+instagram.com/stories/offbahr/ showed 5 segments (yesterday's had expired). The wine bar cart, scrying and tea leaf Stories were
+seen with their link stickers; the under-bed and espresso segments were not viewed one by one (the viewer skips, and screenshots
+stopped responding), so those two rest on the segment count.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| under-bed-storage-organization-ideas.md | posted 2026-11-13 (repeat, oldest Story) | "Swap lids for drawers" | still (motion last frame) |
+| wine-bar-cart-organization-ideas.md | posted 2026-11-13 (repeat) | "Hang the glasses up" | still (motion last frame) |
+| home-espresso-machine-and-gear-guide.md | posted 2026-11-13 (repeat) | "Tidy the coffee station" | still (motion last frame) |
+
+**Never had a Story yet (0).** The 2026-10-23 round is now fully repeated. Next oldest: the 2026-10-24 round, then humidifiers, holiday hosting, guest room (2026-10-25).
