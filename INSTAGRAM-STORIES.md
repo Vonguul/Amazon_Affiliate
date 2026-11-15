@@ -536,3 +536,31 @@ stopped responding), so those two rest on the segment count.
 | home-espresso-machine-and-gear-guide.md | posted 2026-11-13 (repeat) | "Tidy the coffee station" | still (motion last frame) |
 
 **Never had a Story yet (0).** The 2026-10-23 round is now fully repeated. Next oldest: the 2026-10-24 round, then humidifiers, holiday hosting, guest room (2026-10-25).
+
+## Daily round 2026-11-14 (repeats, oldest Story first; logged 2026-11-15)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). The 11-14 scheduled run posted these
+but never logged or committed anything; the 11-15 run found them in instagram.com/archive/stories/ (dated 14 Nov, each with its
+link sticker) and logged the sticker text from the archive thumbnails.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| pots-and-pans-organization-and-cookware-guide.md | posted 2026-11-14 (repeat, oldest Story) | "File pans, don't stack" | still (motion last frame) |
+| kitchen-knives-and-knife-storage-guide.md | posted 2026-11-14 (repeat) | "Honing isn't sharpening" | still (motion last frame) |
+| holiday-travel-packing-luggage-guide.md | posted 2026-11-14 (repeat) | "Weigh the bag at home" | still (motion last frame) |
+
+## Daily round 2026-11-15 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Edit / More stickers /
+Create link sticker clicked by JS (button text); the form opened after a click on the sticker on the canvas (1047,402) every time
+except the first. Link and sticker values confirmed by reading the inputs. Each moved to the Planner with "story is being
+published". All 5 appear in instagram.com/archive/stories/ dated 15 Nov with their link stickers.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| humidifiers-by-room-size.md | posted 2026-11-15 (repeat, oldest Story) | "Measure humidity first" | still (motion last frame) |
+| holiday-hosting-seating-serving-storage.md | posted 2026-11-15 (repeat) | "Store the good china" | still (motion last frame) |
+| guest-room-ready-for-holiday-visitors.md | posted 2026-11-15 (repeat) | "Inflate it the day before" | still (motion last frame) |
+
+**Never had a Story yet (0).** The 2026-10-24 and 2026-10-25 rounds are now repeated. Next oldest: the 2026-10-26 round onward (check the dated tables above).

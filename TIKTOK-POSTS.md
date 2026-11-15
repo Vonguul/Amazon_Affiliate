@@ -474,3 +474,30 @@ Next oldest Picks TikToks: air purifiers, holiday hosting (2026-10-21), then gue
 |---|---|---|---|
 | car-trunk-organization-ideas.md | "Frozen food thaws in a regular trunk organizer." | posted 2026-11-13 | motion-plain |
 | humidifiers-by-room-size.md | "White dust on the furniture? It's your tap water." | posted 2026-11-13 | motion-plain |
+
+## Daily round 2026-11-14 (repeats, oldest TikTok first; logged 2026-11-15)
+
+The 11-14 scheduled run posted 4 videos (3 Picks + 1 Clarity, Clarity's in `../vonguul-clarity/TIKTOK-POSTS.md`) but never logged
+or committed anything. The 11-15 run found each listed once in TikTok Studio's content list (Everyone) and logged them from the
+live captions. Format assumed motion-plain (the run rendered `--bg none` like the days before it; not re-checked).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| air-purifiers-by-room-size.md | "Buy an air purifier one size up, then run it quieter." | posted 2026-11-14 | motion-plain |
+| holiday-hosting-seating-serving-storage.md | "The coat pile on the guest bed? Set up a rack before the doorbell rings." | posted 2026-11-14 | motion-plain |
+| holiday-baking-setup-mixer-tools-storage.md | "Weigh the flour and every batch of cookies comes out the same." | posted 2026-11-14 | motion-plain |
+
+## Daily round 2026-11-15 (repeats, oldest TikTok first: 2026-10-22, then 2026-10-23)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. All 5 listed once in TikTok
+Studio's content list (the last one still "Content under review", which clears by itself). The Christmas tree video also went to
+Pinterest (batch 115), and the guest room video's still to Stories.
+Next oldest Picks TikToks: home gym equipment, spice rack (2026-10-23), then the 2026-10-24/25 rounds.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| guest-room-ready-for-holiday-visitors.md | "Inflate the air mattress the day before guests arrive." | posted 2026-11-15 | motion-plain |
+| space-heaters-heated-throws-warm-one-room.md | "A space heater only saves money if the thermostat goes down." | posted 2026-11-15 | motion-plain |
+| artificial-christmas-trees-and-tree-storage.md | "Artificial trees get crushed in storage, not in use." | posted 2026-11-15 | motion-plain |

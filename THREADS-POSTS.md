@@ -392,3 +392,26 @@ the topic and text were read back from the composer before each Post click.
 | food-storage-container-organization-ideas.md | linked, fresh angle: after a few days every clear container looks the same; a reusable label with contents and date | Organization | 2026-11-13 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-20 round (home gym, jewelry, linen closet, makeup vanity, nursery).
+
+## Daily round 2026-11-14 (fresh angles, oldest thread first; logged 2026-11-15)
+
+4 posts: 2 Picks + 2 Clarity. The 11-14 scheduled run posted these but never logged or committed anything; the 11-15 run found
+them on the @offbahr profile (once each, 2026-11-14 ~16:04 UTC) and logged them from the live text. (Clarity's 2 are in
+`../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| home-gym-organization-ideas.md | linked, fresh angle: in a shared room, mark the workout zone with interlocking foam tiles that come apart and stack away | Organization | 2026-11-14 |
+| jewelry-organization-ideas.md | linked, fresh angle: stud earrings are the easiest to lose; a stand with rows of holes keeps every pair matched | Organization | 2026-11-14 |
+
+## Daily round 2026-11-15 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| linen-closet-organization-ideas.md | linked, fresh angle: don't vacuum-bag everything; down and wool lose loft, use a breathable bag with a window for those | Organization | 2026-11-15 |
+| makeup-vanity-organization-ideas.md | linked, fresh angle: a pile of palettes hides all but the top one; a slim stand holds them on edge | Organization | 2026-11-15 |
+
+**Still never on Threads (0).** Next oldest Picks threads: nursery (2026-10-20), then the 2026-10-21 round.
