@@ -415,3 +415,16 @@ them on the @offbahr profile (once each, 2026-11-14 ~16:04 UTC) and logged them 
 | makeup-vanity-organization-ideas.md | linked, fresh angle: a pile of palettes hides all but the top one; a slim stand holds them on edge | Organization | 2026-11-15 |
 
 **Still never on Threads (0).** Next oldest Picks threads: nursery (2026-10-20), then the 2026-10-21 round.
+
+## Daily round 2026-11-16 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) A JS click on the topic option did not set it; clicking the
+option by `find` ref did.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| nursery-organization-ideas.md | linked, fresh angle: kids pick books by the cover; a shallow wall ledge at toddler height, mounted into studs, away from the crib | Organization | 2026-11-16 |
+| recycling-trash-bin-organization-ideas.md | linked, fresh angle: most kitchens have nothing for food scraps; sealed compost bin with a charcoal filter plus compostable liners sized to the bin | Organization | 2026-11-16 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-21 round (sock drawer, under bed, water bottle, wine bar cart).

@@ -564,3 +564,21 @@ published". All 5 appear in instagram.com/archive/stories/ dated 15 Nov with the
 | guest-room-ready-for-holiday-visitors.md | posted 2026-11-15 (repeat) | "Inflate it the day before" | still (motion last frame) |
 
 **Never had a Story yet (0).** The 2026-10-24 and 2026-10-25 rounds are now repeated. Next oldest: the 2026-10-26 round onward (check the dated tables above).
+
+## Daily round 2026-11-16 (repeats, oldest Story first: the 2026-10-26 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Business Suite
+screenshots timed out all run; Edit / More stickers / Create link sticker clicked by JS, the form opened after a click on the sticker
+on the canvas (1047,402), link and sticker values confirmed by reading the inputs. Twice (baking, yoga gear) the first Share click
+did nothing and a second click published; instagram.com/archive/stories/ shows exactly 5 Stories dated 16 Nov, so no duplicates.
+**The space heater and 2027 planner Stories went live WITHOUT a link sticker** (archive thumbnails and the viewer show none, though
+the inputs read correctly before Apply); the other three carry theirs. Not reposted, to avoid same-day duplicates.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| thanksgiving-turkey-tools-roaster-thermometer.md | posted 2026-11-16 (repeat, oldest Story) | "Check the bird, not clock" | still (motion last frame) |
+| holiday-baking-setup-mixer-tools-storage.md | posted 2026-11-16 (repeat) | "Slide the mixer out" | still (motion last frame) |
+| space-heaters-heated-throws-warm-one-room.md | posted 2026-11-16 (repeat) | none: sticker did not stick (intended "Lower the thermostat too") | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: artificial Christmas trees (2026-10-26), then the 2026-10-28 round (home gym equipment, winter car, air fryers, under sink). Space heaters is worth repeating early since today's Story had no link.

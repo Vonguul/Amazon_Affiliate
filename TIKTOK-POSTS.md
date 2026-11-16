@@ -501,3 +501,18 @@ Next oldest Picks TikToks: home gym equipment, spice rack (2026-10-23), then the
 | guest-room-ready-for-holiday-visitors.md | "Inflate the air mattress the day before guests arrive." | posted 2026-11-15 | motion-plain |
 | space-heaters-heated-throws-warm-one-room.md | "A space heater only saves money if the thermostat goes down." | posted 2026-11-15 | motion-plain |
 | artificial-christmas-trees-and-tree-storage.md | "Artificial trees get crushed in storage, not in use." | posted 2026-11-15 | motion-plain |
+
+## Daily round 2026-11-16 (repeats, oldest TikTok first: 2026-10-23, then 2026-10-24)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off on each. 9-second motion videos, no sound added, Now / Everyone. No pop-ups after upload. Screenshots timed out, so caption,
+AI switch and Now were read back from the page. All 5 listed once in TikTok Studio's content list (Posts 396, Drafts 0). The pots and
+pans video also went to Pinterest (batch 119).
+Next oldest Picks TikToks: kitchen knives, holiday travel, winter gear (2026-10-25).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| home-gym-equipment-for-small-spaces.md | "Measure your ceiling before you buy a treadmill." | posted 2026-11-16 | motion-plain |
+| spice-rack-organization-ideas.md | "No spare shelf for spices? The pantry door is doing nothing." | posted 2026-11-16 | motion-plain |
+| pots-and-pans-organization-and-cookware-guide.md | "Loose lids are why the pan cabinet looks chaotic." | posted 2026-11-16 | motion-plain |
