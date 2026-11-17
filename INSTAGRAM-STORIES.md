@@ -582,3 +582,20 @@ the inputs read correctly before Apply); the other three carry theirs. Not repos
 | space-heaters-heated-throws-warm-one-room.md | posted 2026-11-16 (repeat) | none: sticker did not stick (intended "Lower the thermostat too") | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: artificial Christmas trees (2026-10-26), then the 2026-10-28 round (home gym equipment, winter car, air fryers, under sink). Space heaters is worth repeating early since today's Story had no link.
+
+## Daily round 2026-11-17 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Edit / More stickers
+clicked by JS; the link-sticker form opened on a click on "Link" in the sticker panel (628,213) each time (a click on the empty sticker
+on the canvas removed it once, so it was re-added). Link and sticker values confirmed by reading the inputs, and the sticker text was
+visible on the preview before Share. Each moved to the Planner with "story is being published". instagram.com/archive/stories/
+shows exactly 5 Stories dated 17 Nov, each with its link sticker. Space heaters repeated early to replace yesterday's sticker-less Story.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| artificial-christmas-trees-and-tree-storage.md | posted 2026-11-17 (repeat, oldest Story) | "Measure the width too" | still (motion last frame) |
+| space-heaters-heated-throws-warm-one-room.md | posted 2026-11-17 (early repeat: 11-16 Story had no link) | "Lower the thermostat too" | still (motion last frame) |
+| home-gym-equipment-for-small-spaces.md | posted 2026-11-17 (repeat) | "Skip the dumbbell rack" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: the rest of the 2026-10-28 round (winter car, air fryers, under sink), then onward.

@@ -516,3 +516,18 @@ Next oldest Picks TikToks: kitchen knives, holiday travel, winter gear (2026-10-
 | home-gym-equipment-for-small-spaces.md | "Measure your ceiling before you buy a treadmill." | posted 2026-11-16 | motion-plain |
 | spice-rack-organization-ideas.md | "No spare shelf for spices? The pantry door is doing nothing." | posted 2026-11-16 | motion-plain |
 | pots-and-pans-organization-and-cookware-guide.md | "Loose lids are why the pan cabinet looks chaotic." | posted 2026-11-16 | motion-plain |
+
+## Daily round 2026-11-17 (repeats, oldest TikTok first: 2026-10-25)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off on each (after "Show more"), Now selected. 9-second motion videos, no sound added, Everyone. No pop-ups after upload. All 5
+listed once in TikTok Studio's content list (Posts 396 -> 401, Drafts 0, none still under review at the end). The kitchen knives and
+holiday travel videos also went to Pinterest (batches 120-121).
+Next oldest Picks TikToks: the rest of the 2026-10-25 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| kitchen-knives-and-knife-storage-guide.md | "A knife loose in the drawer dulls fast and catches fingers. Give it a slot." | posted 2026-11-17 | motion-plain |
+| holiday-travel-packing-luggage-guide.md | "Check your airline's carry-on limit with the wheels and handles included." | posted 2026-11-17 | motion-plain |
+| winter-gear-storage-ideas.md | "A boot tray saves the floor. The boots are still wet in the morning." | posted 2026-11-17 | motion-plain |

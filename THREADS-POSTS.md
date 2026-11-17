@@ -428,3 +428,15 @@ option by `find` ref did.
 | recycling-trash-bin-organization-ideas.md | linked, fresh angle: most kitchens have nothing for food scraps; sealed compost bin with a charcoal filter plus compostable liners sized to the bin | Organization | 2026-11-16 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-21 round (sock drawer, under bed, water bottle, wine bar cart).
+
+## Daily round 2026-11-17 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| sock-drawer-organization-ideas.md | linked, fresh angle: dividers only work if everything is the same size; a shirt folding board, then stand shirts on edge so you see every one | Organization | 2026-11-17 |
+| under-bed-storage-organization-ideas.md | linked, fresh angle: measure the gap under the frame first, risers add 3 to 8 inches; a sliding drawer beats a lid for weekly things | Organization | 2026-11-17 |
+
+**Still never on Threads (0).** Next oldest Picks threads: water bottle, wine bar cart (2026-10-21), then the 2026-10-22 round.
