@@ -531,3 +531,20 @@ Next oldest Picks TikToks: the rest of the 2026-10-25 round onward (check the da
 | kitchen-knives-and-knife-storage-guide.md | "A knife loose in the drawer dulls fast and catches fingers. Give it a slot." | posted 2026-11-17 | motion-plain |
 | holiday-travel-packing-luggage-guide.md | "Check your airline's carry-on limit with the wheels and handles included." | posted 2026-11-17 | motion-plain |
 | winter-gear-storage-ideas.md | "A boot tray saves the floor. The boots are still wet in the morning." | posted 2026-11-17 | motion-plain |
+
+## Daily round 2026-11-18 (repeats, oldest TikTok first: 2026-10-26)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off on each (after "Show more"), Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed
+once in TikTok Studio's content list (Drafts 0; the newest still "Content under review" at check time). The Thanksgiving video also
+went to Pinterest (batch 124). The upload page shows an old "A video you were editing wasn't saved" banner; left alone (not Discarded).
+**Caption gotcha:** a hashtag typed straight after the body text, or after a second line break, can be swallowed by the hashtag
+suggestion box. Type each hashtag on its own, wait 2 s, then type a space, and read the editor's innerText back before posting.
+Next oldest Picks TikToks: the 2026-10-28 round (laundry, under sink, craft room), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| thanksgiving-turkey-tools-roaster-thermometer.md | "Greasy gravy? Fat floats, so pour from underneath." | posted 2026-11-18 | motion-plain |
+| winter-car-driveway-snow-tools.md | "Snow left on the roof slides onto the windshield the first time you brake." | posted 2026-11-18 | motion-plain |
+| air-fryers-by-household-size.md | "A bigger air fryer isn't better. Size it by who you cook for." | posted 2026-11-18 | motion-plain |

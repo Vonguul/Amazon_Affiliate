@@ -440,3 +440,15 @@ option by `find` ref did.
 | under-bed-storage-organization-ideas.md | linked, fresh angle: measure the gap under the frame first, risers add 3 to 8 inches; a sliding drawer beats a lid for weekly things | Organization | 2026-11-17 |
 
 **Still never on Threads (0).** Next oldest Picks threads: water bottle, wine bar cart (2026-10-21), then the 2026-10-22 round.
+
+## Daily round 2026-11-18 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| water-bottle-tumbler-organization-ideas.md | linked, fresh angle: a bottle put away damp is what makes the cabinet smell; dry upside down on a rack, lid and straw beside it | Organization | 2026-11-18 |
+| wine-bar-cart-organization-ideas.md | linked, fresh angle: stemmed glasses on a shelf waste space and tip; hang them stem-down under the top tier | Organization | 2026-11-18 |
+
+**Still never on Threads (0).** The 2026-10-21 round is now fully repeated. Next oldest Picks threads: the 2026-10-22 round (robot vacuum, home office upgrade, air purifiers, humidifiers, holiday hosting, guest room, holiday baking).

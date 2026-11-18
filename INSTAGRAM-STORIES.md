@@ -599,3 +599,20 @@ shows exactly 5 Stories dated 17 Nov, each with its link sticker. Space heaters 
 | home-gym-equipment-for-small-spaces.md | posted 2026-11-17 (repeat) | "Skip the dumbbell rack" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: the rest of the 2026-10-28 round (winter car, air fryers, under sink), then onward.
+
+## Daily round 2026-11-18 (repeats, oldest Story first)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (combobox text checked before upload and before Share). Screenshots worked all
+run: Edit (716,213) -> More stickers (393,347) -> Link (628,213) -> link field (620,358); after the URL is typed the sticker text field
+moves up to (620,428). Link and sticker values confirmed by reading the inputs, and the sticker was visible on the preview before
+Share. Each moved to the Planner with "story is being published". instagram.com/archive/stories/ shows exactly 5 Stories dated
+18 Nov, each with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| winter-car-driveway-snow-tools.md | posted 2026-11-18 (repeat, oldest Story) | "Clear the roof first" | still (motion last frame) |
+| air-fryers-by-household-size.md | posted 2026-11-18 (repeat) | "Size it by household" | still (motion last frame) |
+| under-sink-organization-ideas.md | posted 2026-11-18 (repeat) | "Mat the cabinet floor" | still (motion last frame) |
+
+**Never had a Story yet (0).** The 2026-10-28 round is now repeated. Next oldest: the 2026-10-29 round onward (check the dated tables above).
