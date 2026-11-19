@@ -452,3 +452,15 @@ option by `find` ref did.
 | wine-bar-cart-organization-ideas.md | linked, fresh angle: stemmed glasses on a shelf waste space and tip; hang them stem-down under the top tier | Organization | 2026-11-18 |
 
 **Still never on Threads (0).** The 2026-10-21 round is now fully repeated. Next oldest Picks threads: the 2026-10-22 round (robot vacuum, home office upgrade, air purifiers, humidifiers, holiday hosting, guest room, holiday baking).
+
+## Daily round 2026-11-19 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| robot-vacuum-buying-guide.md | linked, fresh angle: decide on floors first; hard floors need edges and a mop, carpet needs suction and a brush that doesn't clog, mostly one or the other means you can spend less | Cleaning | 2026-11-19 |
+| home-office-upgrade-chair-desk-guide.md | linked, fresh angle: buy in order, chair, monitor arm, standing desk, the mat only once you have the desk; adjustability over an "ergonomic" label | Home Office | 2026-11-19 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-22 round (air purifiers, humidifiers, holiday hosting, guest room, holiday baking).

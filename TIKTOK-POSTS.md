@@ -548,3 +548,19 @@ Next oldest Picks TikToks: the 2026-10-28 round (laundry, under sink, craft room
 | thanksgiving-turkey-tools-roaster-thermometer.md | "Greasy gravy? Fat floats, so pour from underneath." | posted 2026-11-18 | motion-plain |
 | winter-car-driveway-snow-tools.md | "Snow left on the roof slides onto the windshield the first time you brake." | posted 2026-11-18 | motion-plain |
 | air-fryers-by-household-size.md | "A bigger air fryer isn't better. Size it by who you cook for." | posted 2026-11-18 | motion-plain |
+
+## Daily round 2026-11-19 (repeats, oldest TikTok first: the 2026-10-28 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off under "Show more" on each, Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in
+TikTok Studio's content list (Drafts 0). The laundry video also went to Pinterest (batch 127), and the craft room video's still to Stories.
+Caption gotcha seen again: the first hashtag after the body's line break was swallowed three times out of five; each was re-typed at the
+end and the editor's innerText read back before posting.
+Next oldest Picks TikToks: the 2026-10-29 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| laundry-room-organization-ideas.md | "Bras and tights in with the jeans? That's why they come out stretched." | posted 2026-11-19 | motion-plain |
+| under-sink-organization-ideas.md | "Spare trash bags living as a loose wad under the sink?" | posted 2026-11-19 | motion-plain |
+| craft-room-organization-ideas.md | "Craft paper gets ruined by storage, not by use." | posted 2026-11-19 | motion-plain |

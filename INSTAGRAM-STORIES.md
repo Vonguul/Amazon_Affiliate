@@ -616,3 +616,21 @@ Share. Each moved to the Planner with "story is being published". instagram.com/
 | under-sink-organization-ideas.md | posted 2026-11-18 (repeat) | "Mat the cabinet floor" | still (motion last frame) |
 
 **Never had a Story yet (0).** The 2026-10-28 round is now repeated. Next oldest: the 2026-10-29 round onward (check the dated tables above).
+
+## Daily round 2026-11-19 (repeats, oldest Story first: the 2026-10-29 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only by JS on the combobox options (checked before upload and before Share; it stayed
+offbahr-only on later Stories). Screenshots of the composer timed out once, then worked: Edit (715,214) -> More stickers (393,347) ->
+Link (628,213) -> link field (620,358) -> sticker text (620,428) -> Apply (727,468) -> editor Apply (1198,605). Link and sticker values
+confirmed by reading the inputs; the sticker sometimes takes a few seconds to appear on the composer preview, so zoom again before
+Share. Each moved to the Planner with "story is being published". instagram.com/archive/stories/ shows exactly 5 Stories dated
+19 Nov, each with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| craft-room-organization-ideas.md | posted 2026-11-19 (repeat, oldest Story) | "Keep the paper flat" | still (motion last frame) |
+| small-bathroom-storage-ideas.md | posted 2026-11-19 (repeat) | "Free up the counter" | still (motion last frame) |
+| small-bedroom-closet-organization-ideas.md | posted 2026-11-19 (repeat) | "Hangers first, bins later" | still (motion last frame) |
+
+**Never had a Story yet (0).** The 2026-10-29 round is now repeated. Next oldest: the 2026-10-30 round (stocking stuffers, entryway, kitchen counter), then onward.
