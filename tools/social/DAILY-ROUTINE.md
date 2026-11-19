@@ -218,6 +218,14 @@ page saying agent access violates its Conditions of Use. Do not click past it, r
 browser to get around it. The owner checks products on Amazon personally; the routine only prepares
 the topic and a checklist for that check.
 
+**Grok Bot research files (added 2026-11-19).** Grok Bot, the owner's research assistant, drops files into both
+`research/` folders: `IDEAS-GROK-<date>.md` (weekly topic ideas from X and public complaints) and
+`PICKS-GROK-<date>-<topic>.md` (a filled product table for a proposal, researched from brand and review sites,
+not amazon.com). Before step 1, read any `*-GROK-*` files newer than the last run: add good new ideas to the
+"Ideas" list in PIPELINE.md (skip ones an existing article covers), and in the final report list each PICKS file
+next to its proposal so the owner can confirm the picks on Amazon. Grok Bot's picks are suggestions, not verified:
+only the owner moves a topic to "Researched". Commit `*-GROK-*` files along with the proposal files.
+
 1. Read `vonguul-picks/research/PIPELINE.md`. Count the rows per site in "Researched, waiting for the
    owner's approval" plus "Proposed, waiting for the owner's product check". If both sites have 3 or
    more, stop here (nothing to do).
