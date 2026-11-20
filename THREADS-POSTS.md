@@ -464,3 +464,15 @@ option by `find` ref did.
 | home-office-upgrade-chair-desk-guide.md | linked, fresh angle: buy in order, chair, monitor arm, standing desk, the mat only once you have the desk; adjustability over an "ergonomic" label | Home Office | 2026-11-19 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-22 round (air purifiers, humidifiers, holiday hosting, guest room, holiday baking).
+
+## Daily round 2026-11-20 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| air-purifiers-by-room-size.md | linked, fresh angle: an "up to 1,748 sq ft" box figure assumes one air change an hour; divide by about 5, or smoke CADR at least two thirds of the floor area; go one size up to run quieter | Air Quality | 2026-11-20 |
+| humidifiers-by-room-size.md | linked, fresh angle: buy a humidity monitor first; EPA 30 to 50 percent; above it condensation, dust mites and mold; run it only when the number says so | Humidifiers | 2026-11-20 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-22 round (holiday hosting, guest room, holiday baking).

@@ -634,3 +634,20 @@ Share. Each moved to the Planner with "story is being published". instagram.com/
 | small-bedroom-closet-organization-ideas.md | posted 2026-11-19 (repeat) | "Hangers first, bins later" | still (motion last frame) |
 
 **Never had a Story yet (0).** The 2026-10-29 round is now repeated. Next oldest: the 2026-10-30 round (stocking stuffers, entryway, kitchen counter), then onward.
+
+## Daily round 2026-11-20 (repeats, oldest Story first: the 2026-10-30 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked at (410,168); combobox text checked before upload and before
+Share). Screenshots worked all run with the 2026-11-19 coordinates. One sticker text was 26 characters and got cut at 25, so it was
+replaced before Apply. Link and sticker values confirmed by reading the inputs, and the sticker was zoomed on the preview before Share.
+Each moved to the Planner with "story is being published". instagram.com/archive/stories/ shows exactly 5 Stories dated 20 Nov, each
+with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| stocking-stuffers-that-organize.md | posted 2026-11-20 (repeat, oldest Story) | "Gifts that get used daily" | still (motion last frame) |
+| entryway-organization-ideas.md | posted 2026-11-20 (repeat) | "Stop dirt at the door" | still (motion last frame) |
+| kitchen-counter-organization-ideas.md | posted 2026-11-20 (repeat) | "Dry dishes over the sink" | still (motion last frame) |
+
+**Never had a Story yet (0).** The 2026-10-30 round is now repeated. Next oldest: the 2026-10-31 round onward (check the dated tables above).

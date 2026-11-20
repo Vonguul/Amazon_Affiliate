@@ -564,3 +564,18 @@ Next oldest Picks TikToks: the 2026-10-29 round onward (check the dated tables a
 | laundry-room-organization-ideas.md | "Bras and tights in with the jeans? That's why they come out stretched." | posted 2026-11-19 | motion-plain |
 | under-sink-organization-ideas.md | "Spare trash bags living as a loose wad under the sink?" | posted 2026-11-19 | motion-plain |
 | craft-room-organization-ideas.md | "Craft paper gets ruined by storage, not by use." | posted 2026-11-19 | motion-plain |
+
+## Daily round 2026-11-20 (repeats, oldest TikTok first: the 2026-10-29 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; "AI-generated content" read
+as off on each, Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in TikTok Studio's
+content list (Posts 411 -> 416, Drafts 0; the newest still "Content under review" at check time). Caption gotcha again: the first
+hashtag was swallowed on 4 of 5; each was re-typed at the end and the editor's innerText read back before posting.
+Next oldest Picks TikToks: the 2026-10-30 round (stocking stuffers, linen closet, nursery), then onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| home-office-organization-ideas.md | "No drawer in your desk? Stick one underneath." | posted 2026-11-20 | motion-plain |
+| small-bathroom-storage-ideas.md | "Measure the gap beside the toilet before you buy a bin." | posted 2026-11-20 | motion-plain |
+| kids-toy-room-organization-ideas.md | "Cleanup in one pull: the play mat that becomes a bag." | posted 2026-11-20 | motion-plain |
