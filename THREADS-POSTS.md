@@ -476,3 +476,15 @@ option by `find` ref did.
 | humidifiers-by-room-size.md | linked, fresh angle: buy a humidity monitor first; EPA 30 to 50 percent; above it condensation, dust mites and mold; run it only when the number says so | Humidifiers | 2026-11-20 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-22 round (holiday hosting, guest room, holiday baking).
+
+## Daily round 2026-11-21 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| holiday-hosting-seating-serving-storage.md | linked, fresh angle: guests sit two or three hours and hard plastic chairs end the conversation early; padded folding chairs, fold flat against a wall till next year | Organization | 2026-11-21 |
+| guest-room-ready-for-holiday-visitors.md | linked, fresh angle: test the air mattress a few days early while you can still return it; inflate the day before, top up at bedtime because the material stretches | Organization | 2026-11-21 |
+
+**Still never on Threads (0).** Next oldest Picks threads: holiday baking (2026-10-22), then the 2026-10-23 round (space heaters, artificial trees, home gym equipment).

@@ -579,3 +579,19 @@ Next oldest Picks TikToks: the 2026-10-30 round (stocking stuffers, linen closet
 | home-office-organization-ideas.md | "No drawer in your desk? Stick one underneath." | posted 2026-11-20 | motion-plain |
 | small-bathroom-storage-ideas.md | "Measure the gap beside the toilet before you buy a bin." | posted 2026-11-20 | motion-plain |
 | kids-toy-room-organization-ideas.md | "Cleanup in one pull: the play mat that becomes a bag." | posted 2026-11-20 | motion-plain |
+
+## Daily round 2026-11-21 (repeats, oldest TikTok first: the 2026-10-30 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the AI-generated switch read as
+off on each, Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in TikTok Studio's
+content list (Posts 415 -> 420, Drafts 0; the newest still "Content under review" at check time). Account confirmed as
+@offbahrvonguul. Caption gotcha on all 5: the first hashtag was swallowed every time; each was re-typed at the end and the editor's
+innerText read back before posting. The stocking stuffers video also went to Pinterest (batch 133).
+Next oldest Picks TikToks: the 2026-11-01 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| stocking-stuffers-that-organize.md | "Keys jabbing through your pocket? Fold them flat." | posted 2026-11-21 | motion-plain |
+| linen-closet-organization-ideas.md | "Sheet sets split up the moment they leave the package." | posted 2026-11-21 | motion-plain |
+| nursery-organization-ideas.md | "Diaper changes happen wherever the baby is." | posted 2026-11-21 | motion-plain |

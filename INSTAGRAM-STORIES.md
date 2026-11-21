@@ -651,3 +651,20 @@ with its link sticker.
 | kitchen-counter-organization-ideas.md | posted 2026-11-20 (repeat) | "Dry dishes over the sink" | still (motion last frame) |
 
 **Never had a Story yet (0).** The 2026-10-30 round is now repeated. Next oldest: the 2026-10-31 round onward (check the dated tables above).
+
+## Daily round 2026-11-21 (repeats, oldest Story first: the 2026-11-01 and 2026-11-02 rounds)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. There is no
+2026-10-31 round in this file, so the oldest Picks Stories were shoe storage and coffee bar (11-01), then freezer (11-02). Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked at (410,168), zoomed each time; combobox text checked before
+upload and before Share). Screenshots worked with the 2026-11-19 coordinates. Link and sticker values confirmed by reading the inputs,
+and the sticker checked on the preview before Share. Each moved to the Planner with "story is being published".
+instagram.com/stories/offbahr/ shows exactly 5 segments (yesterday's had expired), link sticker visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| shoe-storage-organization-ideas.md | posted 2026-11-21 (repeat, oldest Story) | "Stand tall boots up" | still (motion last frame) |
+| coffee-bar-station-organization-ideas.md | posted 2026-11-21 (repeat) | "Seal the beans" | still (motion last frame) |
+| freezer-organization-ideas.md | posted 2026-11-21 (repeat) | "Label before you freeze" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: board games and recycling (2026-11-02), then the 2026-11-03 round onward.
