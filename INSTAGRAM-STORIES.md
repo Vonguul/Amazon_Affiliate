@@ -668,3 +668,19 @@ instagram.com/stories/offbahr/ shows exactly 5 segments (yesterday's had expired
 | freezer-organization-ideas.md | posted 2026-11-21 (repeat) | "Label before you freeze" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: board games and recycling (2026-11-02), then the 2026-11-03 round onward.
+
+## Daily round 2026-11-22 (repeats, oldest Story first: the 2026-11-02 and 2026-11-03 rounds)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked at (410,168); combobox text read as `offbahr` before upload and
+before Share each time). Screenshots timed out on first load but worked inside the editor; the 2026-11-19 coordinates still fit. Link
+and sticker values confirmed by reading the inputs, and the sticker checked on the preview before Share. Each moved to the Planner
+with "story is being published". instagram.com/stories/offbahr/ shows 10 segments (yesterday's 5, still inside 24 hours, plus today's 5).
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| board-game-puzzle-storage-ideas.md | posted 2026-11-22 (repeat, oldest Story) | "Slim cases stack flat" | still (motion last frame) |
+| recycling-trash-bin-organization-ideas.md | posted 2026-11-22 (repeat) | "Line the compost bin" | still (motion last frame) |
+| water-bottle-tumbler-organization-ideas.md | posted 2026-11-22 (repeat) | "Stand the lids up" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: bookshelf (2026-11-03), then the 2026-11-04 round onward.

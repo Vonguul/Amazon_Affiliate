@@ -488,3 +488,16 @@ option by `find` ref did.
 | guest-room-ready-for-holiday-visitors.md | linked, fresh angle: test the air mattress a few days early while you can still return it; inflate the day before, top up at bedtime because the material stretches | Organization | 2026-11-21 |
 
 **Still never on Threads (0).** Next oldest Picks threads: holiday baking (2026-10-22), then the 2026-10-23 round (space heaters, artificial trees, home gym equipment).
+
+## Daily round 2026-11-22 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters (two drafts ran over
+and were retyped shorter; one retype hit a "Save to drafts?" prompt, Cancel chosen). Verified once each on the @offbahr profile.
+(Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| holiday-baking-setup-mixer-tools-storage.md | linked, fresh angle: a stand mixer weighs over 20 pounds so it ends up in a back corner; a slider mat lets you pull it out and push it back with one hand | Organization | 2026-11-22 |
+| space-heaters-heated-throws-warm-one-room.md | linked, fresh angle: every US plug-in heater tops out at 1500 W and makes about the same heat; pick by the room, fan heater for now, oil-filled radiator for overnight | Space Heaters | 2026-11-22 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-23 round (artificial trees, home gym equipment).

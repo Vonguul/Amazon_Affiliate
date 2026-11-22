@@ -595,3 +595,21 @@ Next oldest Picks TikToks: the 2026-11-01 round onward (check the dated tables a
 | stocking-stuffers-that-organize.md | "Keys jabbing through your pocket? Fold them flat." | posted 2026-11-21 | motion-plain |
 | linen-closet-organization-ideas.md | "Sheet sets split up the moment they leave the package." | posted 2026-11-21 | motion-plain |
 | nursery-organization-ideas.md | "Diaper changes happen wherever the baby is." | posted 2026-11-21 | motion-plain |
+
+## Daily round 2026-11-22 (repeats, oldest TikTok first: the 2026-11-01 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the AI-generated switch read as
+off on each, Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in TikTok Studio's
+content list (Posts 421 -> 426, Drafts 0). Account confirmed as @offbahrvonguul (passport account-info username, screenshots timed out).
+The upload page shows a stale "A video you were editing wasn't saved" banner for a file called "sample-humidifier" (not from this
+routine); it was left alone ("Not now", not Discard) and uploads went straight to the file input. Caption gotcha again: one or two
+hashtags were swallowed on every post (typing each with a 2 s pause did not stop it); each missing one was re-typed at the end and the
+editor's innerText read back before posting. The dorm video also went to Pinterest (batch 136).
+Next oldest Picks TikToks: the 2026-11-02 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| dorm-room-organization-ideas.md | "No nails allowed in the dorm? Hang it all on adhesive hooks." | posted 2026-11-22 | motion-plain |
+| home-gym-organization-ideas.md | "Resistance bands tangle because they have nowhere to hang." | posted 2026-11-22 | motion-plain |
+| jewelry-organization-ideas.md | "Stud earrings go missing one at a time. Give them a stand." | posted 2026-11-22 | motion-plain |
