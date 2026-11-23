@@ -62,6 +62,15 @@ Seasonal first, then evergreen. Skip anything an existing article already covers
 
 | Idea | Site | Best window |
 |---|---|---|
+| Drafty windows and doors: renter-friendly ways to keep the cold out (Grok 2026-11-23 #1, 8 slots) | Picks | Dec to Feb |
+| Frozen pipes: a prevention kit plus what to do if one freezes (Grok 2026-11-23 #2, 9 slots) | Picks | mid Dec to Feb |
+| Window condensation and winter mold (Grok 2026-11-23 #3, 8 slots) | Picks | Nov to Feb |
+| Drying laundry indoors in winter (Grok 2026-11-23 #4, 9 slots; partial overlap: laundry-room-organization-ideas already has a wall-mounted drying rack) | Picks | Dec to Feb |
+| Year-ahead tarot spread for 2027 and a tarot journal (Grok 2026-11-23 #2, 7 slots) | Clarity | publish by mid to late Dec |
+| Vision boards and intention setting for 2027 (Grok 2026-11-23 #1, 8 slots; partial overlap: manifestation article already has a vision board kit) | Clarity | publish by mid to late Dec |
+| The dark season: a gentle practice for low-energy winter days (Grok 2026-11-23 #5, 7 slots; health framing needed) | Clarity | Dec 21 to Feb 1 |
+| Starting a Book of Shadows (Grok 2026-11-23 #3, 8 slots) | Clarity | Dec gift spike, January |
+| Mala beads and mantra meditation (Grok 2026-11-23 #4, 7 slots; partial overlap: meditation-for-beginners already has a 108-bead mala) | Clarity | January |
 | Camping and outdoor gear storage | Picks | Apr to Jun |
 
 ## Live
