@@ -501,3 +501,16 @@ and were retyped shorter; one retype hit a "Save to drafts?" prompt, Cancel chos
 | space-heaters-heated-throws-warm-one-room.md | linked, fresh angle: every US plug-in heater tops out at 1500 W and makes about the same heat; pick by the room, fan heater for now, oil-filled radiator for overnight | Space Heaters | 2026-11-22 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the rest of the 2026-10-23 round (artificial trees, home gym equipment).
+
+## Daily round 2026-11-23 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters (the tree draft read 408
+and was retyped to 396 before posting). Verified once each on the @offbahr profile. (Clarity's 2 posts are in
+`../vonguul-clarity/THREADS-POSTS.md`.) Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| artificial-christmas-trees-and-tree-storage.md | linked, fresh angle: pre-lit or unlit is the real decision; built-in lights are harder to fix when a section dies; unlit is better value if you own good lights | Christmas Tree | 2026-11-23 |
+| home-gym-equipment-for-small-spaces.md | linked, fresh angle: a bench turns dumbbells into a whole routine; get one that folds under the bed; dumbbells + bench cover almost everything | Home Gym | 2026-11-23 |
+
+**Still never on Threads (0).** The 2026-10-23 round is now fully repeated. Next oldest Picks threads: the 2026-10-24 round (pots and pans, kitchen knives, holiday travel packing).

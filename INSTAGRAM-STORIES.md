@@ -684,3 +684,22 @@ with "story is being published". instagram.com/stories/offbahr/ shows 10 segment
 | water-bottle-tumbler-organization-ideas.md | posted 2026-11-22 (repeat) | "Stand the lids up" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: bookshelf (2026-11-03), then the 2026-11-04 round onward.
+
+## Daily round 2026-11-23 (repeats, oldest Story first: bookshelf, then the 2026-11-04 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked by `find` ref; combobox text read as `offbahr` before upload
+and before Share each time). Screenshots timed out on first load but worked inside the editor; the 2026-11-19 coordinates still fit
+(Edit at (715,228) after the page scrolls slightly). Link and sticker values confirmed by reading the inputs. The page preview can lag
+a few seconds behind the editor: on the coat closet Story it first showed no sticker, reopening the editor showed it was there, and
+the preview then caught up, so wait for the sticker on the preview before Share. Each moved to the Planner with "story is being
+published". instagram.com/stories/offbahr/ shows 5 segments (yesterday's had expired), the last one today's shadow work Story,
+link stickers visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| bookshelf-home-library-organization-ideas.md | posted 2026-11-23 (repeat, oldest Story) | "Hold the row upright" | still (motion last frame) |
+| coat-closet-organization-ideas.md | posted 2026-11-23 (repeat) | "One pocket per person" | still (motion last frame) |
+| baking-supplies-bakeware-organization-ideas.md | posted 2026-11-23 (repeat) | "Seal the flour" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: car trunk (2026-11-04), then the 2026-11-05 round onward.

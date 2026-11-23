@@ -613,3 +613,21 @@ Next oldest Picks TikToks: the 2026-11-02 round onward (check the dated tables a
 | dorm-room-organization-ideas.md | "No nails allowed in the dorm? Hang it all on adhesive hooks." | posted 2026-11-22 | motion-plain |
 | home-gym-organization-ideas.md | "Resistance bands tangle because they have nowhere to hang." | posted 2026-11-22 | motion-plain |
 | jewelry-organization-ideas.md | "Stud earrings go missing one at a time. Give them a stand." | posted 2026-11-22 | motion-plain |
+
+## Daily round 2026-11-23 (repeats, oldest TikTok first: the 2026-11-02 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the AI-generated switch read as
+off on each (checked by JS), Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in
+TikTok Studio's content list (Posts 426 -> 431, Drafts 0; the count lagged one post behind right after the moon video, so check the
+list, not the counter). Account confirmed as @offbahrvonguul (passport account-info username). The stale "A video you were editing
+wasn't saved" banner is still there and was left alone. One `file_upload` lost its connection and did not land; the page was checked
+and the upload retried once. Caption gotcha: the first hashtag was swallowed on 4 of 5 posts; each was re-typed at the end and the
+editor's innerText read back before posting. The food storage video also went to Pinterest (batch 139).
+Next oldest Picks TikToks: the 2026-11-03 round (sock drawer, cord management, junk drawer).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| food-storage-container-organization-ideas.md | "There's a whole second shelf hiding above your containers." | posted 2026-11-23 | motion-plain |
+| cleaning-supplies-closet-organization-ideas.md | "The bottle you need is always behind three you don't." | posted 2026-11-23 | motion-plain |
+| under-bed-storage-organization-ideas.md | "Drawers beat lids for anything under the bed you use weekly." | posted 2026-11-23 | motion-plain |
