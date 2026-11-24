@@ -514,3 +514,16 @@ and was retyped to 396 before posting). Verified once each on the @offbahr profi
 | home-gym-equipment-for-small-spaces.md | linked, fresh angle: a bench turns dumbbells into a whole routine; get one that folds under the bed; dumbbells + bench cover almost everything | Home Gym | 2026-11-23 |
 
 **Still never on Threads (0).** The 2026-10-23 round is now fully repeated. Next oldest Picks threads: the 2026-10-24 round (pots and pans, kitchen knives, holiday travel packing).
+
+## Daily round 2026-11-24 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters (381 and 322, read back
+before posting). Verified once each on the @offbahr profile. (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| pots-and-pans-organization-and-cookware-guide.md | linked, fresh angle: the pan you want is always at the bottom of the stack; store pans on edge like files, lids get their own rack; measure the cabinet first | Organization | 2026-11-24 |
+| kitchen-knives-and-knife-storage-guide.md | linked, fresh angle: honing isn't sharpening; a steel realigns a bent edge every few uses, sharpening grinds metal and is needed only a few times a year | Cooking | 2026-11-24 |
+
+**Still never on Threads (0).** Next oldest Picks threads: holiday travel packing (2026-10-24), then the 2026-10-25 round onward.

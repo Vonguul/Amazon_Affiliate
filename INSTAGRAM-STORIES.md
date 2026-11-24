@@ -703,3 +703,21 @@ link stickers visible.
 | baking-supplies-bakeware-organization-ideas.md | posted 2026-11-23 (repeat) | "Seal the flour" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: car trunk (2026-11-04), then the 2026-11-05 round onward.
+
+## Daily round 2026-11-24 (repeats, oldest Story first: car trunk, then the 2026-11-05 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked by `find` ref each time; combobox text read as `offbahr`
+before upload and before Share). The first screenshot on the composer timed out, later ones worked; the 2026-11-19 coordinates still
+fit. Note: `find` refs must be looked up again in each batch before clicking them (a click on a not-yet-found ref fails). Link and
+sticker values confirmed by reading the inputs, sticker checked on the preview before Share. Each moved to the Planner with "story is
+being published". instagram.com/stories/offbahr/ shows 7 segments (yesterday's 2 Clarity, still inside 24 hours, plus today's 5), the
+last one today's Akashic records Story with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| car-trunk-organization-ideas.md | posted 2026-11-24 (repeat, oldest Story) | "Check the kit first" | still (motion last frame) |
+| spice-rack-organization-ideas.md | posted 2026-11-24 (repeat) | "Label before a new rack" | still (motion last frame) |
+| cleaning-supplies-closet-organization-ideas.md | posted 2026-11-24 (repeat) | "One caddy, one trip" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: cord management (2026-11-05), then the 2026-11-06 round onward.

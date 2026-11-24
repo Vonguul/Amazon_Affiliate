@@ -631,3 +631,21 @@ Next oldest Picks TikToks: the 2026-11-03 round (sock drawer, cord management, j
 | food-storage-container-organization-ideas.md | "There's a whole second shelf hiding above your containers." | posted 2026-11-23 | motion-plain |
 | cleaning-supplies-closet-organization-ideas.md | "The bottle you need is always behind three you don't." | posted 2026-11-23 | motion-plain |
 | under-bed-storage-organization-ideas.md | "Drawers beat lids for anything under the bed you use weekly." | posted 2026-11-23 | motion-plain |
+
+## Daily round 2026-11-24 (repeats, oldest TikTok first: the 2026-11-03 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the AI-generated switch read as
+off on each (checked by JS under "Show more"), Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5
+listed once in TikTok Studio's content list (the counter read 435 at the end, lagging one behind the list again). Account confirmed as
+@offbahrvonguul (passport account-info username). Stale "A video you were editing wasn't saved" banner left alone. One batch lost its
+connection before uploading; the page was checked (nothing uploaded) and the upload retried once. Caption gotcha: typing each
+hashtag with a 2 s pause kept all 5 on the first post, but the first hashtag was swallowed on the other 4; each was re-typed at the
+end and the editor's innerText read back before posting. The sock drawer video also went to Pinterest (batch 142).
+Next oldest Picks TikToks: the 2026-11-04 round (coat closet, wine bar cart, shoe storage).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| sock-drawer-organization-ideas.md | "Fold every shirt the same size, then stand it on edge." | posted 2026-11-24 | motion-plain |
+| cord-cable-management-ideas.md | "Tidy cords all look the same. Label both ends." | posted 2026-11-24 | motion-plain |
+| junk-drawer-organization-ideas.md | "Loose batteries can drain each other. Get them out of the junk drawer." | posted 2026-11-24 | motion-plain |
