@@ -527,3 +527,17 @@ Topic options clicked by `find` ref.
 | kitchen-knives-and-knife-storage-guide.md | linked, fresh angle: honing isn't sharpening; a steel realigns a bent edge every few uses, sharpening grinds metal and is needed only a few times a year | Cooking | 2026-11-24 |
 
 **Still never on Threads (0).** Next oldest Picks threads: holiday travel packing (2026-10-24), then the 2026-10-25 round onward.
+
+## Daily round 2026-11-25 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters. Verified once each on the
+@offbahr profile (the travel post only showed after scrolling). (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+Topic options clicked by `find` ref. The 4th post sat on "Posting..." for ~15 s and the page raised a "Leave site?" prompt meanwhile;
+waiting it out was enough.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| holiday-travel-packing-luggage-guide.md | linked, fresh angle: weigh the bag at home and pack the scale for the trip back, when gifts make bags heavier; compression cubes save space, not weight | Travel Tips | 2026-11-25 |
+| refrigerator-organization-ideas.md | linked, fresh angle: fresh herbs for Thursday wilt in the crisper bag; a keeper with airflow and a little water stands in the door | Organization | 2026-11-25 |
+
+**Still never on Threads (0).** Next oldest Picks threads: spice rack (2026-10-25), then the 2026-10-26 round (Thanksgiving, winter car, air fryers).

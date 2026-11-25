@@ -649,3 +649,20 @@ Next oldest Picks TikToks: the 2026-11-04 round (coat closet, wine bar cart, sho
 | sock-drawer-organization-ideas.md | "Fold every shirt the same size, then stand it on edge." | posted 2026-11-24 | motion-plain |
 | cord-cable-management-ideas.md | "Tidy cords all look the same. Label both ends." | posted 2026-11-24 | motion-plain |
 | junk-drawer-organization-ideas.md | "Loose batteries can drain each other. Get them out of the junk drawer." | posted 2026-11-24 | motion-plain |
+
+## Daily round 2026-11-25 (repeats, oldest TikTok first: the 2026-11-04 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). Picks videos rendered
+`--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the AI-generated switch read as
+off on each (checked by JS), Now / Everyone. 9-second motion videos, no sound added. No pop-ups after upload. All 5 listed once in
+TikTok Studio's content list (counter 440, Drafts 0; the newest still "Content under review" at check time). Account confirmed as
+@offbahrvonguul (passport account-info username). Stale "A video you were editing wasn't saved" banner left alone. Caption: each
+hashtag typed separately with a 2 s pause; all 5 hashtags kept on every post this time (editor innerText read back before posting).
+The coat closet video also went to Pinterest (batch 145).
+Next oldest Picks TikToks: the 2026-11-05 round onward (check the dated tables above).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| coat-closet-organization-ideas.md | "Coats nobody wears this month are hogging the closet rod." | posted 2026-11-25 | motion-plain |
+| wine-bar-cart-organization-ideas.md | "The shaker lives in a kitchen drawer, so every drink turns into a trip." | posted 2026-11-25 | motion-plain |
+| shoe-storage-organization-ideas.md | "The back of a door is shoe storage nobody is using." | posted 2026-11-25 | motion-plain |

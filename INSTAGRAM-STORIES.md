@@ -721,3 +721,21 @@ last one today's Akashic records Story with its link sticker.
 | cleaning-supplies-closet-organization-ideas.md | posted 2026-11-24 (repeat) | "One caddy, one trip" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: cord management (2026-11-05), then the 2026-11-06 round onward.
+
+## Daily round 2026-11-25 (repeats, oldest Story first: cord management, then the 2026-11-06 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked at (410,168) and zoomed each time; combobox text read as
+`offbahr` before upload and before Share). Viewport was 1568x737 today: Edit (715,214) -> More stickers (393,331) -> Link (628,197)
+-> link field (628,343) -> sticker text (610,413) -> Apply (727,452) -> editor Apply (1197,591) -> Share (1243,532). Screenshots
+worked all run. Link and sticker values confirmed by reading the inputs, sticker checked on the preview before Share. Each moved to
+the Planner with "story is being published". instagram.com/stories/offbahr/ shows 7 segments (yesterday's 2 Clarity, still inside
+24 hours, plus today's 5), the last one today's candle magic Story with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| cord-cable-management-ideas.md | posted 2026-11-25 (repeat, oldest Story) | "Tray first, sleeves next" | still (motion last frame) |
+| dorm-room-organization-ideas.md | posted 2026-11-25 (repeat) | "Bins that fold flat" | still (motion last frame) |
+| holiday-seasonal-decor-storage-ideas.md | posted 2026-11-25 (repeat) | "Reel the lights up" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: indoor growing (2026-11-06), then the 2026-11-07 round onward.
