@@ -541,3 +541,16 @@ waiting it out was enough.
 | refrigerator-organization-ideas.md | linked, fresh angle: fresh herbs for Thursday wilt in the crisper bag; a keeper with airflow and a little water stands in the door | Organization | 2026-11-25 |
 
 **Still never on Threads (0).** Next oldest Picks threads: spice rack (2026-10-25), then the 2026-10-26 round (Thanksgiving, winter car, air fryers).
+
+## Daily round 2026-11-26 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters. Verified once each on the
+@offbahr profile (text matched by JS after scrolling). (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options
+clicked by `find` ref; a JS `.click()` on a `[role=option]` did NOT attach the topic on Threads (it does on Pinterest), so use the ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| spice-rack-organization-ideas.md | linked, fresh angle: label the jars before buying any rack; matching jars don't help if you can't tell cumin from coriander, preprinted labels are the cheapest fix | Organization | 2026-11-26 |
+| thanksgiving-turkey-tools-roaster-thermometer.md | linked, fresh angle (posted on Thanksgiving day): fat floats, a fat separator pours from the bottom; a stainless roaster lets you make gravy in the pan on the stovetop | Thanksgiving | 2026-11-26 |
+
+**Still never on Threads (0).** Next oldest Picks threads: winter car, air fryers (2026-10-26), then the 2026-10-27 round onward.

@@ -666,3 +666,22 @@ Next oldest Picks TikToks: the 2026-11-05 round onward (check the dated tables a
 | coat-closet-organization-ideas.md | "Coats nobody wears this month are hogging the closet rod." | posted 2026-11-25 | motion-plain |
 | wine-bar-cart-organization-ideas.md | "The shaker lives in a kitchen drawer, so every drink turns into a trip." | posted 2026-11-25 | motion-plain |
 | shoe-storage-organization-ideas.md | "The back of a door is shoe storage nobody is using." | posted 2026-11-25 | motion-plain |
+
+## Daily round 2026-11-26 (repeats, oldest TikTok first: the 2026-11-05 round)
+
+Scheduled 10:00 run. 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`). First day with sound
+(owner-approved 2026-11-26): every video carries the site's music bed; the first Picks video (refrigerator) and the first Clarity
+video also carry an ElevenLabs voiceover (Picks voice "Arthur", 150 credits; the fridge video ran 10.7 s). No TikTok sound added.
+Picks videos rendered `--bg none` (motion-plain, no AI label) while the owner's decision on the ended A/B test is pending; the
+AI-generated switch read as off (checked under "Show more" on the first post), Now / Everyone. No pop-ups after upload. All 5 listed
+once in TikTok Studio's content list (Posts 441 -> 446). Account confirmed as @offbahrvonguul (passport account-info username).
+Stale "A video you were editing wasn't saved" banner left alone. Caption gotcha: the first hashtag was swallowed on all 5 posts even
+with a 2 s pause between hashtags; each was re-typed at the end and the editor's innerText read back before posting. The fridge
+video also went to Pinterest (batch 148).
+Next oldest Picks TikToks: the 2026-11-06 round (makeup vanity, holiday decor, pet supplies).
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| refrigerator-organization-ideas.md | "Food expires at the back of the fridge. Roll the back row forward." | posted 2026-11-26 | motion-plain+voice |
+| freezer-organization-ideas.md | "Freezer burn is an air problem, not a time problem." | posted 2026-11-26 | motion-plain |
+| coffee-bar-station-organization-ideas.md | "Hang the mugs next to the machine, not in a far cabinet." | posted 2026-11-26 | motion-plain |

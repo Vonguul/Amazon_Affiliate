@@ -739,3 +739,21 @@ the Planner with "story is being published". instagram.com/stories/offbahr/ show
 | holiday-seasonal-decor-storage-ideas.md | posted 2026-11-25 (repeat) | "Reel the lights up" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: indoor growing (2026-11-06), then the 2026-11-07 round onward.
+
+## Daily round 2026-11-26 (repeats, oldest Story first: indoor growing, then the 2026-11-07 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked at (410,168) and zoomed each time; combobox text read as
+`offbahr` before upload and before Share). Viewport 1568x779; the 2026-10-26 coordinates fit: Edit by `find` ref -> More stickers
+(393,347) -> Link (628,213) -> link field (628,359) -> sticker text (610,429) -> Apply (727,468) -> editor Apply (1198,605) -> Share
+(1243,545). Link and sticker values confirmed by reading the inputs, sticker checked on the preview before Share. Each moved to the
+Planner with "story is being published". instagram.com/stories/offbahr/ shows 5 segments (yesterday's had expired), the last one
+today's sacred geometry Story with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| indoor-growing-systems-guide.md | posted 2026-11-26 (repeat, oldest Story) | "Pick your size first" | still (motion last frame) |
+| iphone-15-pro-max-cases.md | posted 2026-11-26 (repeat) | "Check the exact model" | still (motion last frame) |
+| gift-ideas-for-people-who-love-organizing.md | posted 2026-11-26 (repeat) | "Gifts used in January" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: winter gear (2026-11-07), then the 2026-11-08 round onward.
