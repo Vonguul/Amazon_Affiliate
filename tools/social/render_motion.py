@@ -21,6 +21,9 @@ import random
 import subprocess
 import sys
 
+import tempfile
+import urllib.request
+
 import imageio_ffmpeg
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
@@ -366,11 +369,73 @@ def shadow_text(base, xy, text, font, fill, anchor='la', blur=6):
     ImageDraw.Draw(base).text(xy, text, font=font, fill=fill, anchor=anchor)
 
 
+# ---------------------------------------------------------------- audio
+# Since 2026-11-26 every video carries sound: the site's music bed (made once with ElevenLabs, reused for free) and,
+# on the voiced posts, an ElevenLabs voiceover. Nothing is added in TikTok's own sound picker any more.
+AUDIO_DIR = os.path.join(HERE, 'audio')
+MUSIC_BED = {'picks': os.path.join(AUDIO_DIR, 'picks-bed.mp3'), 'clarity': os.path.join(AUDIO_DIR, 'clarity-bed.mp3')}
+VOICE_LEAD = 0.3  # the voice starts this long after the picture
+
+
+def fetch_voice(src):
+    """A voiceover: an audio file path, or a .url/.txt file holding the ElevenLabs download link (the daily routine
+    writes the link into a file so no URL with query characters ever appears in a shell command)."""
+    if not src:
+        return None
+    if src.lower().endswith(('.url', '.txt')):
+        url = open(src, encoding='utf-8').read().strip()
+        if not url.startswith('https://elevenlabsusercontent.com/'):
+            sys.exit('voice link must be an elevenlabsusercontent.com URL')
+        dst = os.path.join(tempfile.mkdtemp(), 'voice.mp3')
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=60) as r, open(dst, 'wb') as f:
+            f.write(r.read())
+        return dst
+    if not os.path.exists(src):
+        sys.exit(f'voice file not found: {src}')
+    return src
+
+
+def media_seconds(path):
+    out = subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(), '-i', path], capture_output=True, text=True).stderr
+    if 'Duration: ' not in out:
+        sys.exit(f'could not read the length of {path}')
+    h, m, sec = out.split('Duration: ')[1].split(',')[0].split(':')
+    return int(h) * 3600 + int(m) * 60 + float(sec)
+
+
+def add_audio(video, out, seconds, voice=None, music=None):
+    """Mux a voiceover (ducked music under it) or the music alone onto a silent video, loudness-normalised."""
+    ff = imageio_ffmpeg.get_ffmpeg_exe()
+    cmd = [ff, '-y', '-loglevel', 'error', '-i', video]
+    parts, mix = [], []
+    if voice:
+        cmd += ['-i', voice]
+        ms = int(VOICE_LEAD * 1000)
+        parts.append(f'[{len(parts) + 1}:a]adelay={ms}|{ms},apad[vo]')
+        mix.append('[vo]')
+    if music:
+        cmd += ['-stream_loop', '-1', '-i', music]
+        parts.append(f'[{len(parts) + 1}:a]volume={0.22 if voice else 0.9},afade=t=out:st={seconds - 1.0:.2f}:d=1.0[m]')
+        mix.append('[m]')
+    if not mix:
+        cmd += ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-map', '0:v', '-map', '1:a']
+    else:
+        graph = ';'.join(parts) + f';{"".join(mix)}amix=inputs={len(mix)}:duration=longest:normalize=0,'             f'atrim=duration={seconds:.2f},loudnorm=I=-14:TP=-1.5[a]'
+        cmd += ['-filter_complex', graph, '-map', '0:v', '-map', '[a]']
+    cmd += ['-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-t', f'{seconds:.2f}', '-movflags', '+faststart', out]
+    if subprocess.run(cmd).returncode != 0:
+        sys.exit('ffmpeg failed (audio)')
+
+
 # ---------------------------------------------------------------- frames
 
 
-def render(site, slug, headline, out, symbol=None, bg_path=None):
+def render(site, slug, headline, out, symbol=None, bg_path=None, voice=None, music=True):
     th = THEME[site]
+    voice = fetch_voice(voice)
+    seconds = max(SECONDS, media_seconds(voice) + VOICE_LEAD + 0.9) if voice else SECONDS
+    bed = MUSIC_BED[site] if music and os.path.exists(MUSIC_BED[site]) else None
     prods = product_images(site, slug)
     n = len(prods)
     tw = 300 if n >= 3 else 360
@@ -400,11 +465,11 @@ def render(site, slug, headline, out, symbol=None, bg_path=None):
         shade = gradient_overlay()
 
     ff = imageio_ffmpeg.get_ffmpeg_exe()
+    silent = os.path.join(tempfile.mkdtemp(), 'silent.mp4')
     cmd = [ff, '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
-           '-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-shortest', '-c:v', 'libx264', '-pix_fmt', 'yuv420p',
-           '-crf', '20', '-preset', 'medium', '-c:a', 'aac', '-movflags', '+faststart', out]
+           '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'medium', silent]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    total = FPS * SECONDS
+    total = int(round(FPS * seconds))
     tiles_top = 1290 if site == 'clarity' else 1180
     last = None
     for f in range(total):
@@ -427,9 +492,9 @@ def render(site, slug, headline, out, symbol=None, bg_path=None):
             ln.putalpha(sym)
             frame.alpha_composite(ln, (sx, sy))
         else:
-            z = 1.0 + 0.07 * (t / SECONDS)
+            z = 1.0 + 0.07 * (t / seconds)
             cw, ch = int(W * 1.12 / z), int(H * 1.12 / z)
-            ox, oy = (photo.width - cw) // 2, (photo.height - ch) // 2 - int(30 * t / SECONDS)
+            ox, oy = (photo.width - cw) // 2, (photo.height - ch) // 2 - int(30 * t / seconds)
             frame = photo.crop((ox, max(0, oy), ox + cw, max(0, oy) + ch)).resize((W, H), Image.BILINEAR).convert('RGBA')
             dark = Image.new('RGBA', (W, H), (10, 12, 16, 0))
             dark.putalpha(shade)
@@ -439,7 +504,7 @@ def render(site, slug, headline, out, symbol=None, bg_path=None):
         if hero is not None:
             hp = ease((t - 0.4) / 0.8)
             if hp > 0:
-                z = 1.0 + 0.05 * (t / SECONDS)
+                z = 1.0 + 0.05 * (t / seconds)
                 hs = int(hero_size * z)
                 hh = hero.resize((hs, hs), Image.LANCZOS)
                 hh.putalpha(hh.getchannel('A').point(lambda v: int(v * hp)))
@@ -480,9 +545,11 @@ def render(site, slug, headline, out, symbol=None, bg_path=None):
     proc.stdin.close()
     if proc.wait() != 0:
         sys.exit('ffmpeg failed')
+    add_audio(silent, out, seconds, voice, bed)
     still = os.path.splitext(out)[0] + '.png'
     last.save(still)
-    print('wrote', out, 'and', still, '| symbol:' if site == 'clarity' else '', name if site == 'clarity' else '')
+    print('wrote', out, f'({seconds:.1f} s, sound: {"voice + music" if voice and bed else "voice" if voice else "music" if bed else "none"})',
+          'and', still, '| symbol:' if site == 'clarity' else '', name if site == 'clarity' else '')
 
 
 if __name__ == '__main__':
@@ -493,5 +560,7 @@ if __name__ == '__main__':
     ap.add_argument('out')
     ap.add_argument('--symbol', choices=sorted(list(FIGURES) + list(SOLIDS)))
     ap.add_argument('--bg', help="Picks background: 'auto' (AI room scene matched to the topic), 'none' (blurred product photo), or a file path")
+    ap.add_argument('--voice', help='voiceover: an audio file, or a .url/.txt file holding the ElevenLabs download link')
+    ap.add_argument('--no-music', action='store_true', help="leave out the site's music bed")
     a = ap.parse_args()
-    render(a.site, a.slug, a.headline, a.out, a.symbol, a.bg)
+    render(a.site, a.slug, a.headline, a.out, a.symbol, a.bg, a.voice, not a.no_music)

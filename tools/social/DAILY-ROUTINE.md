@@ -36,6 +36,8 @@ Keep Bash for the allowed forms above, one simple command per call.
    `TIKTOK-POSTS.md`), then articles whose most recent pin or TikTok is oldest. Alternate Picks
    and Clarity where both have backlog. Use a fresh angle (a different product or tip) for a
    repeat pin; never reuse the same title or text.
+   **Monday, Wednesday and Friday** (check with `date +%a`), one of the day's TikTok videos is replaced by an
+   informational post, and it also takes one of the day's pin slots (see "Informational posts" below).
 5. The quota is per calendar day. Before posting, count rows already logged with today's date in
    the trackers (Threads, Stories, Pinterest PIN-BATCH status lines, TikTok) and post only the remainder, so a manual "Run now" plus the 10:00 run never
    doubles a day.
@@ -60,7 +62,7 @@ The owner switched visuals from still cards to 9-second vertical videos. Render 
 article per day and reuse it on every platform it goes to (each render takes about 75 s; give the
 Bash call a 300000 ms timeout):
 
-`python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_motion.py <picks|clarity> <slug> "<headline>" <scratchpad>/<slug>.mp4 [--bg auto|none]`
+`python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_motion.py <picks|clarity> <slug> "<headline>" <scratchpad>/<slug>.mp4 [--bg auto|none] [--voice <scratchpad>/<slug>-voice.url]`
 
 It also writes `<slug>.png` (the last frame) next to the MP4. Write both into the session
 scratchpad (`file_upload` only reads there). Headline: a short hook from the article, under 70
@@ -80,6 +82,11 @@ characters, no prices. Check the printed `background:` / `symbol:` line.
   disables "Add link" for an uploaded video and its video editor has no stickers, so a video Story
   cannot carry the link sticker. Upload the `<slug>.png` last frame that `render_motion.py` writes
   next to the MP4 instead; the link sticker matters more than the motion. Log the format as `still`.
+- **Sound (since 2026-11-26, owner-approved):** every video now carries its own sound. `render_motion.py` always
+  mixes in the site's music bed (`tools/social/audio/`, made once, free to reuse). The **first Picks video and the
+  first Clarity video of the day** also get an ElevenLabs voiceover: pass `--voice <scratchpad>/<slug>-voice.url`
+  (see "ElevenLabs" below). The video then runs as long as the voice needs (about 10 s). The printed line says
+  `sound: voice + music` or `sound: music`; check it.
 - Log the format with every TikTok row, Story row and PIN-BATCH file (see Logging), so the weekly
   review can compare `motion-ai` and `motion-plain` views. The still-card renderer `render_card.py`
   is only a fallback if a video render fails.
@@ -167,6 +174,55 @@ Picks when done. Confirm the account name before every pin; stop if it is not th
 7. Log: set the PIN-BATCH status line (`Pins posted (date), verified linking with ?src=pinterest`),
    and in Clarity's `PINTEREST-BOARDS.md` set the row to `posted` if all its pins are live.
 
+## ElevenLabs (voiceovers and informational images, since 2026-11-26)
+
+The owner approved a budget of about 10% of the monthly ElevenLabs credits for this routine (the rest is for
+other projects). ElevenLabs is used for exactly three things: **2 voiceovers a day** (about 140 credits each),
+and on Mon/Wed/Fri **1 informational image + 1 voiceover** (about 325). Nothing else: no music (the beds are
+already made), no video, no extra takes.
+
+1. Load the tools with ONE ToolSearch call: `select:mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__account_get_usage,mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__creative_generate_speech,mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__creative_add_flow_node,mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__creative_run_flow_nodes,mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__creative_get_flow_run_status,mcp__b2b124e1-83c5-43d4-9b74-3f1ddd319a99__creative_get_generations`.
+   If they are not available, skip all ElevenLabs steps today (videos still get the music bed), post the
+   regular videos, and say so in the report.
+2. **Budget check first:** `account_get_usage`. Remaining = `character_limit - character_count`. If fewer than
+   20,000 remain, skip all ElevenLabs steps today and report the remaining number.
+3. **Voiceover** (first Picks and first Clarity video of the day; on an info day the info post also gets one):
+   - Script: under 30 words (about 9-10 s), plain spoken English, only claims from the article (or the
+     INFO-POSTS.md row), no prices, no hashtags. End a regular video with "...on Vonguul Picks." / "...on
+     Vonguul Clarity." Clarity: reflection framing, never "it works".
+   - `creative_generate_speech` with `flow_id` = `AdBGkZOnI7J6Y0SxpD1J` (the "Vonguul daily social" flow),
+     `model_id` = `eleven_v4`, `generations_count` = 1, `voice_id` = `sfJopaWaOtauCD3HKX6Q` for Picks ("Arthur")
+     or `alFofuDn3cOwyoz1i44T` for Clarity ("Dallin"). **Never call it a second time to retry: each call is
+     charged.**
+   - Wait about 15 s, then `creative_get_flow_run_status` (flow_id + the session_ids it returned) until done,
+     then `creative_get_generations` for the `full_res_url`.
+   - Write that URL with the **Write tool** into `<scratchpad>/<slug>-voice.url` (never put the URL in a shell
+     command), and render with `--voice <scratchpad>/<slug>-voice.url`.
+   - If the generation fails, render without `--voice` (music only), log the format without `+voice`, report it.
+
+## Informational posts (Mon/Wed/Fri, since 2026-11-26)
+
+Full rules and the topic queue: `vonguul-picks/INFO-POSTS.md`. Take the next row for the site whose turn it is
+(alternate with the last row in its "Posted" table). If no row is left for either site, skip and report.
+
+1. **Image:** `creative_add_flow_node` with `flow_id` `AdBGkZOnI7J6Y0SxpD1J`, `node_type` `image-generation`,
+   `model_id` `gpt-image-2`, `model_parameters` `{"aspect_ratio": "9:16", "quality": "medium", "resolution": "1K"}`
+   and the row's image prompt; then `creative_run_flow_nodes` on that node with `generations_count` 1. Poll as
+   above, then `creative_get_generations` and LOOK at the preview: reject it if it shows readable text, people,
+   brand names, or the subject is wrong (e.g. a moon lit on the wrong side for the topic). At most ONE
+   replacement image per post; if the second is also unusable, skip the info post and report it.
+2. Write the image URL into `<scratchpad>/info-<#>-bg.url` with the Write tool. Voiceover: the row's text, as in
+   "ElevenLabs" step 3, into `<scratchpad>/info-<#>-voice.url`.
+3. Render (Bash timeout 300000):
+   `python /c/Users/laker/Downloads/vonguul-picks/tools/social/render_info.py <site> <scratchpad>/info-<#>-bg.url <scratchpad>/info-<#>.mp4 --title "<title>" --line "<caption 1>" --line "<caption 2>" --line "<caption 3>" --voice <scratchpad>/info-<#>-voice.url --ai-label`
+   Add `--title-y 640` when the picture's subject sits in the top third. Read the written `info-<#>.png` and check
+   the title does not cover the subject; if it does, re-render with a different `--title-y` (rendering is free).
+4. Post it to TikTok as that day's replaced video (caption: the title as the first line, one sentence from the
+   captions, "More on the Vonguul Picks site, link in bio." / "Vonguul Clarity", 5 hashtags; **AI-generated
+   content ON**) and to Pinterest as one of the day's pins (next PIN-BATCH file, link = the row's related
+   article with `?src=pinterest`, **Mark as AI-modified ON**, Format `info-ai`). No Story and no Threads post.
+5. Log it in INFO-POSTS.md (see Logging).
+
 ## TikTok procedure (added 2026-10-18; account @offbahrvonguul, shared by Picks and Clarity)
 
 Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIKTOK-POSTS.md`
@@ -182,8 +238,9 @@ Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIK
 3. The video form has ONE Description field (no separate title; it starts filled with the file
    name). Select all and replace it with: a punchy first line (under 90 characters, no prices), a
    short caption ending "Full guide on the Vonguul Picks site, link in bio." (Clarity: "Vonguul
-   Clarity") and 5 hashtags. Screenshot to confirm the text. Sound (optional): "Sounds" in the
-   editor on the right; Picks lofi, Clarity ambient piano, if offered.
+   Clarity") and 5 hashtags. Screenshot to confirm the text. **Do not add a TikTok sound** (since
+   2026-11-26 the video carries its own music and voiceover; a TikTok sound would cover them).
+   **Informational posts (`info-ai`):** switch ON "AI-generated content" under "Show more", like `motion-ai`.
    **`motion-ai` videos:** click "Show more" and switch ON "AI-generated content"; zoom to confirm.
    Clarity (`motion-geometry`) and `motion-plain`: leave it off.
 4. Leave "Now" / "Everyone" selected. Never use "Schedule" (it triggers a consent prompt that must
@@ -202,7 +259,11 @@ Video posts since 2026-10-25 (Photo Mode before that). Older gotchas are in `TIK
 - Stories: add rows to the newest dated table in each `INSTAGRAM-STORIES.md` (article, date,
   sticker text, format) and update the "Never had a Story yet" lists.
 - Format values: `motion-geometry` (Clarity), `motion-ai` / `motion-plain` (Picks test), `still`
-  (fallback card, and every Instagram Story since 2026-10-26). Add a `**Format:**` line to each new PIN-BATCH file.
+  (fallback card, and every Instagram Story since 2026-10-26), `info-ai` (informational post). Since 2026-11-26
+  add `+voice` to a voiced video's format (e.g. `motion-plain+voice`); unvoiced videos carry music only. Add a
+  `**Format:**` line to each new PIN-BATCH file.
+- Informational posts: a row in the "Posted" table of `vonguul-picks/INFO-POSTS.md` (date, #, site, TikTok
+  first line, PIN-BATCH number, format, credits spent), and move that topic's row out of "Verified, ready".
 - Pinterest: the new `PIN-BATCH-NN.md` files and, for Clarity, `PINTEREST-BOARDS.md`. TikTok: the
   two `TIKTOK-POSTS.md` files.
 - In each repo, with `git -C <repo>` (never `cd`): `pull --rebase`, `add` only the tracker files you changed, commit with a
