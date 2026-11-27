@@ -685,3 +685,21 @@ Next oldest Picks TikToks: the 2026-11-06 round (makeup vanity, holiday decor, p
 | refrigerator-organization-ideas.md | "Food expires at the back of the fridge. Roll the back row forward." | posted 2026-11-26 | motion-plain+voice |
 | freezer-organization-ideas.md | "Freezer burn is an air problem, not a time problem." | posted 2026-11-26 | motion-plain |
 | coffee-bar-station-organization-ideas.md | "Hang the mugs next to the machine, not in a far cabinet." | posted 2026-11-26 | motion-plain |
+
+## Daily round 2026-11-27 (Friday: informational post + repeats, oldest TikTok first: the 2026-11-06 round)
+
+Scheduled 10:00 run. 5 posts: 1 informational (P1, Picks) + 2 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`).
+First informational post: AI background (ElevenLabs gpt-image-2) + voiceover "Arthur" + music bed, rendered by render_info.py, logged in
+`INFO-POSTS.md`; "AI-generated content" switched ON under "Show more" (checked by JS before posting). The makeup vanity video carries the
+day's Picks voiceover ("Arthur", 12.0 s); Picks videos rendered `--bg none` (motion-plain, AI switch read as off). No TikTok sound added,
+Now / Everyone. No pop-ups after upload. All 5 listed once in TikTok Studio's content list (Posts 446 -> 451, Drafts 0). Account confirmed
+as @offbahrvonguul (passport account-info username). Stale "A video you were editing wasn't saved" banner left alone. Caption gotcha:
+the first hashtag was swallowed on the makeup post only (re-typed at the end); the other 4 kept all 5, editor innerText read back
+before every post. The info video also went to Pinterest (batch 149).
+Next oldest Picks TikToks: pet supplies (2026-11-06), then the 2026-11-07 round onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| refrigerator-organization-ideas.md (info post P1) | "Is your fridge cold enough?" | posted 2026-11-27 | info-ai (AI label on) |
+| makeup-vanity-organization-ideas.md | "Every lipstick looks the same in a pile." | posted 2026-11-27 | motion-plain+voice |
+| holiday-seasonal-decor-storage-ideas.md | "Tangled lights? Give the cord a reel to wind onto." | posted 2026-11-27 | motion-plain |

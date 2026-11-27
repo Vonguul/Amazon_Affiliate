@@ -757,3 +757,21 @@ today's sacred geometry Story with its link sticker.
 | gift-ideas-for-people-who-love-organizing.md | posted 2026-11-26 (repeat) | "Gifts used in January" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: winter gear (2026-11-07), then the 2026-11-08 round onward.
+
+## Daily round 2026-11-27 (repeats, oldest Story first: winter gear, then the 2026-11-08 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked by `find` ref each time; combobox text read as `offbahr`
+before upload and before Share). The first composer screenshot timed out, later ones worked; the 2026-10-26 coordinates fit: Edit
+(715,214) -> More stickers (393,347) -> Link (628,213) -> link field (620,358) -> sticker text (610,429) -> Apply (727,468) -> editor
+Apply (1198,605) -> Share (1243,531). Link and sticker values confirmed by reading the inputs, sticker checked on the preview before
+Share. Each moved to the Planner with "story is being published". instagram.com/stories/offbahr/ shows 6 segments (one of
+yesterday's still inside 24 hours, plus today's 5), link stickers visible.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| winter-gear-storage-ideas.md | posted 2026-11-27 (repeat, oldest Story) | "Dry boots from inside" | still (motion last frame) |
+| junk-drawer-organization-ideas.md | posted 2026-11-27 (repeat) | "Liner first, tray second" | still (motion last frame) |
+| laundry-room-organization-ideas.md | posted 2026-11-27 (repeat) | "Use the gap by the washer" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: pet supplies (2026-11-08), then the 2026-11-09 round onward.

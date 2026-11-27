@@ -554,3 +554,16 @@ clicked by `find` ref; a JS `.click()` on a `[role=option]` did NOT attach the t
 | thanksgiving-turkey-tools-roaster-thermometer.md | linked, fresh angle (posted on Thanksgiving day): fat floats, a fat separator pours from the bottom; a stainless roaster lets you make gravy in the pan on the stovetop | Thanksgiving | 2026-11-26 |
 
 **Still never on Threads (0).** Next oldest Picks threads: winter car, air fryers (2026-10-26), then the 2026-10-27 round onward.
+
+## Daily round 2026-11-27 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters. Verified once each on the
+@offbahr profile (the winter car post only showed after scrolling). (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.)
+Topic options clicked by `find` ref.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| winter-car-driveway-snow-tools.md | linked, fresh angle: snow left on the middle of the roof slides onto the windshield when you brake; a telescoping foam broom reaches it, knock grit out first | Winter | 2026-11-27 |
+| air-fryers-by-household-size.md | linked, fresh angle: a single layer crisps better than a bigger basket piled high; leave the clearance the manual asks for, hot air vents out the back or side | Air Fryer | 2026-11-27 |
+
+**Still never on Threads (0).** Next oldest Picks threads: the 2026-10-28 round onward (baking supplies, gift ideas were repeated 10-28; check the dated tables above).
