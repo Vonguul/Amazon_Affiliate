@@ -775,3 +775,22 @@ yesterday's still inside 24 hours, plus today's 5), link stickers visible.
 | laundry-room-organization-ideas.md | posted 2026-11-27 (repeat) | "Use the gap by the washer" | still (motion last frame) |
 
 **Never had a Story yet (0).** Next oldest: pet supplies (2026-11-08), then the 2026-11-09 round onward.
+
+## Daily round 2026-11-28 (repeats, oldest Story first: pet supplies, then the 2026-11-09 round)
+
+5 Stories: 3 Picks + 2 Clarity (Clarity rows in `../vonguul-clarity/INSTAGRAM-STORIES.md`). Scheduled 10:00 run. Picks stills
+rendered `--bg none`. Share to set to `offbahr` only (offbar1 unchecked each time; combobox text read as `offbahr` before upload and
+before Share). The 2026-10-26 coordinates fit. One slip: on the 5th Story (food storage) the editor had not opened when the sticker
+clicks ran, so an emoji sticker landed and the typed URL hit the page (it opened Facebook's keyboard-shortcuts panel; nothing else
+changed). Closed the panel, cancelled the edit, and redid the link sticker step by step with `find` refs; the shared Story is clean.
+Link and sticker values confirmed by reading the inputs, sticker checked on the preview before Share. Each moved to the Planner with
+"story is being published". instagram.com/stories/offbahr/ shows 10 segments (yesterday's 5 still inside 24 hours, plus today's 5);
+the last is today's food storage Story with its link sticker.
+
+| Article | Posted | Link sticker text | Format |
+|---|---|---|---|
+| pet-supplies-organization-ideas.md | posted 2026-11-28 (repeat, oldest Story) | "Find the leash first try" | still (motion last frame) |
+| digital-privacy-security-essentials.md | posted 2026-11-28 (repeat) | "Cover the lens for real" | still (motion last frame) |
+| food-storage-container-organization-ideas.md | posted 2026-11-28 (repeat) | "Stand the lids up" | still (motion last frame) |
+
+**Never had a Story yet (0).** Next oldest: garage (2026-11-09), then the 2026-11-10 round onward.

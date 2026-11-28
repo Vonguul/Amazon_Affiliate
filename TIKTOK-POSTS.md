@@ -703,3 +703,20 @@ Next oldest Picks TikToks: pet supplies (2026-11-06), then the 2026-11-07 round 
 | refrigerator-organization-ideas.md (info post P1) | "Is your fridge cold enough?" | posted 2026-11-27 | info-ai (AI label on) |
 | makeup-vanity-organization-ideas.md | "Every lipstick looks the same in a pile." | posted 2026-11-27 | motion-plain+voice |
 | holiday-seasonal-decor-storage-ideas.md | "Tangled lights? Give the cord a reel to wind onto." | posted 2026-11-27 | motion-plain |
+
+## Daily round 2026-11-28 (repeats, oldest TikTok first: pet supplies, then the 2026-11-07 round)
+
+Scheduled 10:00 run (Saturday, no informational post). 5 posts: 3 Picks + 2 Clarity (Clarity's 2 are in `../vonguul-clarity/TIKTOK-POSTS.md`).
+The pet supplies video carries the day's Picks voiceover ("Arthur", 162 credits, 11.8 s); Picks videos rendered `--bg none` (motion-plain,
+AI switch read as off under "Show more" on every post). No TikTok sound added, Now / Everyone. No pop-ups after upload. All 5 listed once
+in TikTok Studio's content list (Posts 451 -> 456, Drafts 0). Account confirmed as @offbahrvonguul (passport account-info username). Stale
+"A video you were editing wasn't saved" banner left alone. Caption gotcha: the first hashtag was swallowed on all 5 posts; each was
+re-typed at the end and the editor's innerText read back before posting. The pet supplies video also went to Pinterest (batch 154) and
+its still to an Instagram Story.
+Next oldest Picks TikToks: gift ideas (2026-11-07), then the 2026-11-08 round (recycling, water bottles, bookshelf) onward.
+
+| Article | Title (first line) | Status | Format |
+|---|---|---|---|
+| pet-supplies-organization-ideas.md | "Leashes dropped by the door stay wherever they land." | posted 2026-11-28 | motion-plain+voice |
+| board-game-puzzle-storage-ideas.md | "Flimsy game boxes crush. Slim cases stack flat." | posted 2026-11-28 | motion-plain |
+| iphone-15-pro-max-cases.md | "Wallet cases block wireless charging. The cards sit in the way." | posted 2026-11-28 | motion-plain |

@@ -567,3 +567,16 @@ Topic options clicked by `find` ref.
 | air-fryers-by-household-size.md | linked, fresh angle: a single layer crisps better than a bigger basket piled high; leave the clearance the manual asks for, hot air vents out the back or side | Air Fryer | 2026-11-27 |
 
 **Still never on Threads (0).** Next oldest Picks threads: the 2026-10-28 round onward (baking supplies, gift ideas were repeated 10-28; check the dated tables above).
+
+## Daily round 2026-11-28 (fresh angles, oldest thread first)
+
+4 posts: 2 Picks + 2 Clarity. Scheduled 10:00 run. All linked (`?src=threads`), each under 400 characters. Verified once each on the
+@offbahr profile (text matched by JS after scrolling). (Clarity's 2 posts are in `../vonguul-clarity/THREADS-POSTS.md`.) Topic options
+clicked by `find` ref; composer focus confirmed as "Empty text field" before each post.
+
+| Article | Type | Topic | Posted |
+|---|---|---|---|
+| baking-supplies-bakeware-organization-ideas.md | linked, fresh angle: an opened bag of flour or sugar never really closes and leaves a trail; airtight canisters sized for a full bag, scoop goes into the container | Organization | 2026-11-28 |
+| gift-ideas-for-people-who-love-organizing.md | linked, fresh angle: for a new driver or student, a plug-in tire inflator and a roadside kit; nobody buys them for themselves until something goes wrong | Gift Ideas | 2026-11-28 |
+
+**Still never on Threads (0).** Next oldest Picks threads: indoor growing, iPhone cases (2026-10-29), then the 2026-10-30 round onward.
